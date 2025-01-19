@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U Playlist Creator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            font-size: 2em;
+            background: linear-gradient(45deg, #007bff, #ff416c);
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+        .input-group {
+            display: flex;
+            margin-bottom: 20px;
+            gap: 10px;
+        }
+        input[type="text"], input[type="file"] {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+        input[type="text"]:hover, input[type="file"]:hover {
+            border-color: #007bff;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+        }
+        .button {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3);
+        }
+        .channel-list {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background-color: #fafafa;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .channel-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .channel-item:hover {
+            border-color: #007bff;
+            box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+        }
+        .channel-logo {
+            width: 50px;
+            height: 50px;
+            margin-right: 15px;
+            border-radius: 5px;
+            object-fit: cover;
+        }
+        .channel-details {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .remove-button {
+            background-color: #f44336;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .remove-button:hover {
+            background-color: #d32f2f;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(244, 67, 54, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>M3U Playlist Creator</h1>
+        <div class="input-group">
+            <input type="text" id="groupName" placeholder="Group Name">
+            <input type="file" id="channelLogoFile" accept="image/*">
+            <input type="text" id="channelLogoUrl" placeholder="Channel Logo URL">
+            <input type="text" id="channelName" placeholder="Channel Name">
+            <input type="text" id="channelUrl" placeholder="Channel URL">
+        </div>
+        <div>
+            <button id="addChannel" class="button">Add Channel</button>
+            <button id="downloadPlaylist" class="button">Download M3U Playlist</button>
+        </div>
+        <div class="channel-list" id="channelList">
+            <!-- Channels will be added here -->
+        </div>
+    </div>
+
+    <script>
+        const channelList = document.getElementById('channelList');
+        const addChannelButton = document.getElementById('addChannel');
+        const downloadPlaylistButton = document.getElementById('downloadPlaylist');
+        const channelLogoFileInput = document.getElementById('channelLogoFile');
+        const channelLogoUrlInput = document.getElementById('channelLogoUrl');
+
+        addChannelButton.addEventListener('click', () => {
+            const groupName = document.getElementById('groupName').value;
+            const name = document.getElementById('channelName').value;
+            const url = document.getElementById('channelUrl').value;
+
+            let logo = channelLogoUrlInput.value;
+
+            // If a file is selected, use the file URL instead of the URL input
+            if (channelLogoFileInput.files && channelLogoFileInput.files[0]) {
+                const file = channelLogoFileInput.files[0];
+                logo = URL.createObjectURL(file);
+            }
+
+            if (groupName && name && url) {
+                const channelItem = document.createElement('div');
+                channelItem.className = 'channel-item';
+                channelItem.innerHTML = `
+                    <img src="${logo}" alt="${name}" class="channel-logo">
+                    <div class="channel-details">
+                        <div><strong>Group:</strong> ${groupName}</div>
+                        <div><strong>Name:</strong> ${name}</div>
+                        <div><strong>URL:</strong> ${url}</div>
+                    </div>
+                    <button class="remove-button">Remove</button>
+                `;
+
+                // Add event listener to remove the channel item
+                channelItem.querySelector('.remove-button').addEventListener('click', () => {
+                    channelList.removeChild(channelItem);
+                });
+
+                channelList.appendChild(channelItem);
+
+                // Clear inputs
+                document.getElementById('groupName').value = '';
+                document.getElementById('channelName').value = '';
+                document.getElementById('channelUrl').value = '';
+                channelLogoFileInput.value = '';
+                channelLogoUrlInput.value = '';
+            } else {
+                alert('Please enter the group name, channel name, and URL.');
+            }
+        });
+
+        downloadPlaylistButton.addEventListener('click', () => {
+            const channels = channelList.getElementsByClassName('channel-item');
+            let m3uContent = '#EXTM3U\n';
+
+            for (let i = 0; i < channels.length; i++) {
+                const channel = channels[i];
+                const groupName = channel.querySelector('.channel-details').children[0].textContent.replace('Group: ', '');
+                const name = channel.querySelector('.channel-details').children[1].textContent.replace('Name: ', '');
+                const url = channel.querySelector('.channel-details').children[2].textContent.replace('URL: ', '');
+                m3uContent += `#EXTINF:-1,${name}\n#EXTGRP:${groupName}\n${url}\n`;
+            }
+
+            const blob = new Blob([m3uContent], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'playlist.m3u';
+            a.click();
+            URL.revokeObjectURL(url);
+        });
+    </script>
+</body>
+</html>

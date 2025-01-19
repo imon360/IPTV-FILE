@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Entertainment", Star Bharat HD
+http://opplex.live:8080/live/10jun.abbas/51316725/66170.ts
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Entertainment", Star Plus HD
+http://opplex.live:8080/live/10jun.abbas/51316725/66166.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="Entertainment", Star World HD
+http://opplex.live:8080/live/10jun.abbas/51316725/66211.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Suvarna-News.png" group-title="Entertainment", ASIANET SUVARNA NEWS
+http://opplex.live:8080/live/10jun.abbas/51316725/381182.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Suvarna-HD.png" group-title="Entertainment", STAR SUVARNA FHD
+http://opplex.live:8080/live/10jun.abbas/51316725/381194.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Suvarna-Plus.png" group-title="Entertainment", STAR SUVARNA PLUS
+http://opplex.live:8080/live/10jun.abbas/51316725/381223.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Paravah.png" group-title="Entertainment", STAR PRAVAH HD
+http://opplex.live:8080/live/10jun.abbas/51316725/380815.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="Entertainment", STAR PRAVAH
+http://opplex.live:8080/live/10jun.abbas/51316725/383034.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet.png" group-title="Entertainment", Asianet
+http://opplex.live:8080/live/10jun.abbas/51316725/380881.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet.png" group-title="Entertainment", ASIANET HD
+http://opplex.live:8080/live/10jun.abbas/51316725/380913.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Plus.png" group-title="Entertainment", ASIANET PLUS
+http://opplex.live:8080/live/10jun.abbas/51316725/380884.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="Entertainment", STAR VIJAY
+http://opplex.live:8080/live/10jun.abbas/51316725/380952.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Star_Utsav_2015.jpg/revision/latest/scale-to-width-down/250?cb=20190708092217" group-title="Entertainment", STAR UTSAV
+http://opplex.live:8080/live/10jun.abbas/51316725/112977.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="Entertainment", STAR MAA
+http://opplex.live:8080/live/10jun.abbas/51316725/381103.ts
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Movies", Star Gold HD
+http://opplex.live:8080/live/10jun.abbas/51316725/66177.ts
+
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Movies", Star Gold Select 
+http://opplex.live:8080/live/10jun.abbas/51316725/66176.ts
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="Movies", STAR GOLD THRILLS
+http://opplex.live:8080/live/10jun.abbas/51316725/221258.ts
+
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Movies", Star Movies
+http://opplex.live:8080/live/10jun.abbas/51316725/66213.ts
+
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Movies", Star Movies Select HD
+http://opplex.live:8080/live/10jun.abbas/51316725/66315.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Middle-East.png" group-title="Movies", ASIANET MIDDLE EAST
+http://opplex.live:8080/live/10jun.abbas/51316725/380911.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-Movies.png" group-title="Movies", ASIANET MOVIES
+http://opplex.live:8080/live/10jun.abbas/51316725/380864.ts
+
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="Movies", STAR GOLD ROMANCE
+http://opplex.live:8080/live/10jun.abbas/51316725/66186.ts
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" group-title="Movies", STAR UTSAV MOVIES
+http://opplex.live:8080/live/10jun.abbas/51316725/112971.ts
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="Movies", Star Gold 2
+http://opplex.live:8080/live/10jun.abbas/51316725/106133.ts
+
+#EXTINF:-1 tvg-id="maagold.in" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="Movies", STAR MAA GOLD
+http://opplex.live:8080/live/10jun.abbas/51316725/250845.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="Movies", STAR MAA MOVIES HD
+http://opplex.live:8080/live/10jun.abbas/51316725/381117.ts
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports", Star Sport 1 HINDI
+http://opplex.live:8080/live/10jun.abbas/51316725/109986.ts
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports", Star Sports 1 
+http://opplex.live:8080/live/10jun.abbas/51316725/109987.ts
+
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="noimg.png" group-title="Sports", Star Sports 2 
+http://opplex.live:8080/live/10jun.abbas/51316725/109988.ts
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports", Star Sports Select 1
+http://opplex.live:8080/live/10jun.abbas/51316725/109993.ts
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Sports", Star Sports Select 2
+http://opplex.live:8080/live/10jun.abbas/51316725/109994.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Asmita.png" group-title="News", ABP ASMITHA
+http://opplex.live:8080/live/10jun.abbas/51316725/381268.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Majha.png" group-title="News", ABP MAJHA
+http://opplex.live:8080/live/10jun.abbas/51316725/380819.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Asianet-News.png" group-title="News", ASIANET NEWS
+http://opplex.live:8080/live/10jun.abbas/51316725/380861.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="News", ABP News
+http://opplex.live:8080/live/10jun.abbas/51316725/244798.ts
+
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids", DISNEY CHANNEL 
+http://opplex.live:8080/live/10jun.abbas/51316725/167551.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
+http://opplex.live:8080/live/10jun.abbas/51316725/153175.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="Kids", Hungama
+http://opplex.live:8080/live/10jun.abbas/51316725/150480.ts
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Star_Life_%28India%29.svg/440px-Star_Life_%28India%29.svg.png" group-title="Information ", FOX Life
+http://opplex.live:8080/live/10jun.abbas/51316725/109980.ts
+
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Information ", Nat Geo Wild FHD ENG
+http://opplex.live:8080/live/10jun.abbas/51316725/206587.ts
+
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Information ", Nat Geo Wild HINDI
+http://opplex.live:8080/live/10jun.abbas/51316725/206286.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Information ", Nat Geo HD ENG
+http://opplex.live:8080/live/10jun.abbas/51316725/383183.ts
+
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Information ", Nat Geo HD Hindi
+http://opplex.live:8080/live/10jun.abbas/51316725/206285.ts
+
+#EXTINF:-1 tvg-id="housefullmovies.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Bindass_tv_channel.png" group-title="Music", Bindass
+http://opplex.live:8080/live/10jun.abbas/51316725/112993.ts
+

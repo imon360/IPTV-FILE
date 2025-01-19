@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U Stream Extractor</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card: #1e293b;
+            --primary: #3b82f6;
+            --text: #f8fafc;
+            --text-dim: #94a3b8;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, system-ui, sans-serif;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: var(--primary);
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .input-box {
+            background: var(--card);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            background: var(--bg);
+            border: 1px solid var(--card);
+            border-radius: 5px;
+            color: var(--text);
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        button {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+        #results {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .stream-card {
+            background: var(--card);
+            border-radius: 10px;
+            padding: 15px;
+            overflow: hidden;
+        }
+
+        .stream-title {
+            font-size: 18px;
+            margin-bottom: 10px;
+            color: var(--primary);
+        }
+
+        .stream-url {
+            font-size: 14px;
+            color: var(--text-dim);
+            word-break: break-all;
+            margin-bottom: 15px;
+        }
+
+        .stream-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .stream-buttons button {
+            flex: 1;
+        }
+
+        #status {
+            text-align: center;
+            margin: 20px 0;
+            color: var(--text-dim);
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            .header h1 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>M3U Stream Extractor</h1>
+            <p>Extract and play streams from M3U/M3U8 files</p>
+        </div>
+
+        <div class="input-box">
+            <input type="url" id="urlInput" placeholder="Enter M3U/M3U8 URL">
+            <button onclick="extractStreams()">Extract Streams</button>
+        </div>
+
+        <div id="status"></div>
+        <div id="results"></div>
+    </div>
+
+    <script>
+        async function extractStreams() {
+            const url = document.getElementById('urlInput').value.trim();
+            const status = document.getElementById('status');
+            const results = document.getElementById('results');
+
+            if (!url) {
+                status.textContent = 'Please enter a URL';
+                return;
+            }
+
+            status.textContent = 'Loading...';
+            results.innerHTML = '';
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error('Failed to load URL');
+                
+                const content = await response.text();
+                const streams = parseM3U(content);
+                
+                if (streams.length === 0) {
+                    status.textContent = 'No streams found';
+                    return;
+                }
+
+                status.textContent = `Found ${streams.length} streams`;
+                displayStreams(streams);
+            } catch (error) {
+                status.textContent = `Error: ${error.message}`;
+            }
+        }
+
+        function parseM3U(content) {
+            const lines = content.split('\n');
+            const streams = [];
+            let currentStream = null;
+
+            lines.forEach(line => {
+                line = line.trim();
+                
+                if (line.startsWith('#EXTINF:')) {
+                    // Parse stream info
+                    currentStream = {};
+                    
+                    // Extract title
+                    const titleMatch = line.match(/,(.+)$/);
+                    if (titleMatch) {
+                        currentStream.title = titleMatch[1].trim();
+                    }
+                    
+                    // Extract tvg-logo if exists
+                    const logoMatch = line.match(/tvg-logo="([^"]+)"/);
+                    if (logoMatch) {
+                        currentStream.logo = logoMatch[1];
+                    }
+                    
+                    // Extract group-title if exists
+                    const groupMatch = line.match(/group-title="([^"]+)"/);
+                    if (groupMatch) {
+                        currentStream.group = groupMatch[1];
+                    }
+                } else if (line && !line.startsWith('#') && currentStream) {
+                    // This is a stream URL
+                    currentStream.url = line;
+                    streams.push(currentStream);
+                    currentStream = null;
+                }
+            });
+
+            return streams;
+        }
+
+        function displayStreams(streams) {
+            const results = document.getElementById('results');
+            
+            results.innerHTML = streams.map(stream => `
+                <div class="stream-card">
+                    <div class="stream-title">${stream.title || 'Untitled Stream'}</div>
+                    ${stream.group ? `<div class="stream-group">Group: ${stream.group}</div>` : ''}
+                    <div class="stream-url">${stream.url}</div>
+                    <div class="stream-buttons">
+                        <button onclick="playStream('${stream.url}')">Play</button>
+                        <button onclick="copyUrl('${stream.url}')">Copy URL</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function playStream(url) {
+            window.open(url, '_blank');
+        }
+
+        async function copyUrl(url) {
+            try {
+                await navigator.clipboard.writeText(url);
+                alert('URL copied to clipboard!');
+            } catch (err) {
+                alert('Failed to copy URL');
+            }
+        }
+    </script>
+</body>
+</html>
