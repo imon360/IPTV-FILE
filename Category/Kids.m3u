@@ -1,59 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="143" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="143" group-title="",Name
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick HD+" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Kids",Nick HD+
 http://mega4k.one:8080/23004/23004/92409
+
 #EXTINF:-1 tvg-id="" tvg-name="Pogo_Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",Pogo_Kids
 http://mega4k.one:8080/23004/23004/92410
+
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Kids",Nick Junior
 http://mega4k.one:8080/23004/23004/92411
-#EXTINF:-1 tvg-id="" tvg-name="Sonic_Hindi" tvg-logo="https://img-cdn.curl.pk/channels_icon/76823199191.png" group-title="Kids",Sonic_Hindi
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Kids",Sonic Hindi
 http://mega4k.one:8080/23004/23004/92412
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Kids",Discovery Kids
 http://mega4k.one:8080/23004/23004/92413
-#EXTINF:-1 tvg-id="" tvg-name="Nick SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="Kids",Nick SD
-http://mega4k.one:8080/23004/23004/92414
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network SD
-http://mega4k.one:8080/23004/23004/92415
-#EXTINF:-1 tvg-id="" tvg-name="Disney Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Kids
-http://mega4k.one:8080/23004/23004/92416
-#EXTINF:-1 tvg-id="" tvg-name="Hungama TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Kids",Hungama TV
-http://mega4k.one:8080/23004/23004/92417
-#EXTINF:-1 tvg-id="" tvg-name="Gubbare  Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Kids",Gubbare  Kids
-http://mega4k.one:8080/23004/23004/92418
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",Disney Junior
 http://mega4k.one:8080/23004/23004/92419
-#EXTINF:-1 tvg-id="" tvg-name="Sony YaY!" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids",Sony YaY!
-http://mega4k.one:8080/23004/23004/92420
-#EXTINF:-1 tvg-id="" tvg-name="Sonic Nickelodeon" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Kids",Sonic Nickelodeon
-http://mega4k.one:8080/23004/23004/92421
-
-#EXTINF:-1 tvg-id="" tvg-name="toonzkids" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toonzkids
-http://mega4k.one:8080/23004/23004/126989
-#EXTINF:-1 tvg-id="" tvg-name="hooray-rhymes" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",hooray-rhymes
-http://mega4k.one:8080/23004/23004/126991
-#EXTINF:-1 tvg-id="" tvg-name="kids-tv-india" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",kids-tv-india
-http://mega4k.one:8080/23004/23004/126993
-#EXTINF:-1 tvg-id="" tvg-name="toon-goggles-en-espanol" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toon-goggles-en-espanol
-http://mega4k.one:8080/23004/23004/126994
-#EXTINF:-1 tvg-id="" tvg-name="kids-tv-espanol" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",kids-tv-espanol
-http://mega4k.one:8080/23004/23004/126996
-#EXTINF:-1 tvg-id="" tvg-name="toonzkids-ninos" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toonzkids-ninos
-http://mega4k.one:8080/23004/23004/126998
-#EXTINF:-1 tvg-id="" tvg-name="watchit-kid" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",watchit-kid
-http://mega4k.one:8080/23004/23004/126999
-#EXTINF:-1 tvg-id="" tvg-name="toonzkids-atfal" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toonzkids-atfal
-http://mega4k.one:8080/23004/23004/127001
 
 
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids",CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Kids",DISCOVERY FAMILY CHANNEL
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",DISNEY CHANNEL
-http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",DISNEY JR
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",DISNEY XD
@@ -62,8 +35,6 @@ http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="NickJr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",NickJr
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="Kids",NickMusic USA
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",NickToons
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids", DISNEY CHANNEL 
@@ -72,8 +43,6 @@ http://opplex.live:8080/live/10jun.abbas/51316725/167551.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
 http://opplex.live:8080/live/10jun.abbas/51316725/153175.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="Kids", Hungama
-http://opplex.live:8080/live/10jun.abbas/51316725/150480.ts
 
 #EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-chno="544" group-title="Kids",Nick Junior
 https://mycdn.tamilultratv.com/live.m3u8?id=544
@@ -122,3 +91,15 @@ https://mycdn.tamilultratv.com/live.m3u8?id=2774
 
 #EXTINF:-1 tvg-id="1920" tvg-name="The Q Kahaniyan" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" tvg-chno="1920" group-title="Kids",The Q Kahaniyan
 https://mycdn.tamilultratv.com/live.m3u8?id=1920
+
+
+#EXTINF:-1 tvg-id="" tvg-name="toonzkids" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toonzkids
+http://mega4k.one:8080/23004/23004/126989
+#EXTINF:-1 tvg-id="" tvg-name="kids-tv-india" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",kids-tv-india
+http://mega4k.one:8080/23004/23004/126993
+#EXTINF:-1 tvg-id="" tvg-name="kids-tv-espanol" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",kids-tv-espanol
+http://mega4k.one:8080/23004/23004/126996
+#EXTINF:-1 tvg-id="" tvg-name="toonzkids-ninos" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toonzkids-ninos
+http://mega4k.one:8080/23004/23004/126998
+#EXTINF:-1 tvg-id="" tvg-name="toonzkids-atfal" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toonzkids-atfal
+http://mega4k.one:8080/23004/23004/127001
