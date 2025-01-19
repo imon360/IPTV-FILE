@@ -46,4 +46,79 @@ http://mega4k.one:8080/23004/23004/126999
 http://mega4k.one:8080/23004/23004/127001
 
 
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids",CARTOON NETWORK
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Kids",DISCOVERY FAMILY CHANNEL
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",DISNEY CHANNEL
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",DISNEY JR
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",DISNEY XD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="NickJr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",NickJr
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="Kids",NickMusic USA
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids", DISNEY CHANNEL 
+http://opplex.live:8080/live/10jun.abbas/51316725/167551.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
+http://opplex.live:8080/live/10jun.abbas/51316725/153175.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="Kids", Hungama
+http://opplex.live:8080/live/10jun.abbas/51316725/150480.ts
+
+#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-chno="544" group-title="Kids",Nick Junior
+https://mycdn.tamilultratv.com/live.m3u8?id=544
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-chno="545" group-title="Kids",Nick Hindi
+https://mycdn.tamilultratv.com/live.m3u8?id=545
+
+#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-chno="548" group-title="Kids",Nickelodeon Jr.
+https://mycdn.tamilultratv.com/live.m3u8?id=548
+#EXTINF:-1 tvg-id="551" tvg-name="TEST14 HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST14_HD.png" tvg-chno="551" group-title="Kids",TEST14 HD
+https://mycdn.tamilultratv.com/live.m3u8?id=551
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" tvg-chno="554" group-title="Kids",Discovery Kids 2
+https://mycdn.tamilultratv.com/live.m3u8?id=554
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" tvg-chno="559" group-title="Kids",Pogo Hindi
+https://mycdn.tamilultratv.com/live.m3u8?id=559
+
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" tvg-chno="815" group-title="Kids",Sonic Hindi
+https://mycdn.tamilultratv.com/live.m3u8?id=815
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" tvg-chno="816" group-title="Kids",Cartoon Network Hindi
+https://mycdn.tamilultratv.com/live.m3u8?id=816
+
+#EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-chno="872" group-title="Kids",Sony Yay Hindi
+https://mycdn.tamilultratv.com/live.m3u8?id=872
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_English.png" tvg-chno="1079" group-title="Kids",CN HD+ English
+https://mycdn.tamilultratv.com/live.m3u8?id=1079
+#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Highbrow.png" tvg-chno="1216" group-title="Kids",Highbrow
+https://mycdn.tamilultratv.com/live.m3u8?id=1216
+
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-chno="1226" group-title="Kids",Nick HD+
+https://mycdn.tamilultratv.com/live.m3u8?id=1226
+
+#EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" tvg-chno="1341" group-title="Kids",Nick Bangla
+https://mycdn.tamilultratv.com/live.m3u8?id=1341
+
+#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Bangla.png" tvg-chno="1345" group-title="Kids",Sonic Bangla
+https://mycdn.tamilultratv.com/live.m3u8?id=1345
+
+#EXTINF:-1 tvg-id="1780" tvg-name="HooplaKidz TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" tvg-chno="1780" group-title="Kids",HooplaKidz TV
+https://mycdn.tamilultratv.com/live.m3u8?id=1780
+
+#EXTINF:-1 tvg-id="3055" tvg-name="Q Toonz" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/qtoonz.png" tvg-chno="3055" group-title="Kids",Q Toonz
+https://mycdn.tamilultratv.com/live.m3u8?id=3055
+
+#EXTINF:-1 tvg-id="2774" tvg-name="Power Kids TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Power_Kids_TV.png" tvg-chno="2774" group-title="Kids",Power Kids TV
+https://mycdn.tamilultratv.com/live.m3u8?id=2774
+
+#EXTINF:-1 tvg-id="1920" tvg-name="The Q Kahaniyan" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" tvg-chno="1920" group-title="Kids",The Q Kahaniyan
+https://mycdn.tamilultratv.com/live.m3u8?id=1920
