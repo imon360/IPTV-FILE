@@ -42,7 +42,43 @@ https://app.ncare.live/live-orgin/moviebanglalink2.stream/live-orgin/moviebangla
 #EXTGRP:Bangladesh
 https://app.ncare.live/live-orgin/ruposhibangla.stream/live-orgin/ruposhibangla.stream/chunks.m3u8?nimblesessionid=729838526
 
-#EXTINF:-1, T-Sports
-#EXTGRP:Sports
-https://live.tsports.com/live-02/index.m3u8
 
+
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/5nHFDLy/1000010336.png" group-title="Bangla",Ekhon TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8?nimblesessionid=732815728
+
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/5nHFDLy/1000010336.png" group-title="Bangla",Ekhon TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8?nimblesessionid=732815978
+
+#EXTINF:-1 tvg-id="News24" tvg-name="News 24" tvg-logo="https://i.ibb.co.com/j4qgs5B/AEn0k-sf1r2ka-Cg-It-PJ61-ZMHe-q43x-J-1xo6xc7kl-Al-NOgm9-MQIVGie-Mtq-Id7-WOCi6qjl-RUI8o-G6l5-IF-ks2-Q.png" group-title="Bangla",News 24
+https://app.ncare.live/live-orgin/news24local.stream/live-orgin/news24local.stream/chunks.m3u8?nimblesessionid=729814153
+
+#EXTINF:-1 tvg-id="MAASRANGA" tvg-name="MAASRANGA" tvg-logo="" group-title="Bangla",MAASRANGA
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u
+
+#EXTINF:-1 tvg-id="GolobalHD" tvg-name="Golobal HD" tvg-logo="" group-title="Bangla",Golobal HD
+https://app.ncare.live/live-orgin/Global-tv.stream/live-orgin/Global-tv.stream/chunks.m3u8?nimblesessionid=729823542
+
+#EXTINF:-1 tvg-id="ATN" tvg-name="ATN" tvg-logo="" group-title="Bangla",ATN
+https://app.ncare.live/live-orgin/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8?nimblesessionid=729825206
+
+#EXTINF:-1 tvg-id="BoishakhiTV" tvg-name="Boishakhi TV" tvg-logo="" group-title="Bangla",Boishakhi TV
+https://app.ncare.live/live-orgin/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8?nimblesessionid=729826266
+
+#EXTINF:-1 tvg-id="TheChannelTV" tvg-name="The Channel TV" tvg-logo="" group-title="Bangla",The Channel TV
+https://app.ncare.live/live-orgin/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8?nimblesessionid=729827760
+
+#EXTINF:-1 tvg-id="biswabanglatv" tvg-name="Biswa Bangla Tv" tvg-logo="" group-title="Bangla",Biswa Bangla Tv
+https://app.ncare.live/live-orgin/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8?nimblesessionid=729829895
+
+#EXTINF:-1 tvg-id="SamiTV" tvg-name="" tvg-logo="" group-title="Bangla",Sami TV
+https://app.ncare.live/live-orgin/smtvbd.stream/live-orgin/smtvbd.stream/chunks.m3u8?nimblesessionid=729818748
+
+#EXTINF:-1 tvg-id="smtvbd" tvg-name="Sm Tv" tvg-logo="" group-title="Bangla",Sm Tv
+https://app.ncare.live/live-orgin/smtvbd.stream/live-orgin/smtvbd.stream/chunks.m3u8?nimblesessionid=729833492
+
+#EXTINF:-1 tvg-id="Movie Bangla TV" tvg-name="Movie Bangla TV" tvg-logo="" group-title="Bangla",Movie Bangla TV
+https://app.ncare.live/live-orgin/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8?nimblesessionid=729836628
+
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="Bangla",Ruposhi Bangla
+https://app.ncare.live/live-orgin/ruposhibangla.stream/live-orgin/ruposhibangla.stream/chunks.m3u8?nimblesessionid=729838526
