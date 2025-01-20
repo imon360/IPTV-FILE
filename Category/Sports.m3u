@@ -1,4 +1,108 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="143" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="143" group-title="",Name
-https://
+
+#EXTINF:-1 tvg-id="Star.Sports.1.HD.in" tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports 1 Eng 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74227
+#EXTINF:-1 tvg-id="Star.Sports.1.Hindi.HD.in" tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports 1 Hindi 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74228
+#EXTINF:-1 tvg-id="Star.Sports.2.HD.in" tvg-name="Star Sports 2 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports 2 Eng 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74229
+#EXTINF:-1 tvg-id="" tvg-name="Sports 18 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="IND | PAK | Sports 4K Ultra",Sports 18 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74230
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.HD.in" tvg-name="Star Sports Select 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="IND | PAK | Sports 4K Ultra",Star Sports Select 1 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74231
+#EXTINF:-1 tvg-id="Star.Sports.Select.2.HD.in" tvg-name="Star Sports Select 2 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports Select 2 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74232
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-name="Sony Ten 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="IND | PAK | Sports 4K Ultra",Sony Ten 1 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74233
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-name="Sony Ten 2 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="IND | PAK | Sports 4K Ultra",Sony Ten 2 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74234
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-name="Sony Ten 3 4K Ultra HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="IND | PAK | Sports 4K Ultra",Sony Ten 3 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74235
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-name="Sony Six 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="IND | PAK | Sports 4K Ultra",Sony Six 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74236
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow Cricket ᴴᴰ" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="IND | PAK | Sports 4K Ultra",IN: Willow Cricket ᴴᴰ
+http://mega4k.one:8080/23004/23004/74237
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaicott6RUuaQXsm0YUZ9Ora2ErkD6MDgbg&usqp=CAU" group-title="IND | PAK | Sports 4K Ultra",Ten Sports 4K Ultra HD
+http://mega4k.one:8080/23004/23004/74238
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="IN: DD SPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="IND | PAK | Sports 4K Ultra",IN: DD SPORTS
+http://mega4k.one:8080/23004/23004/74240
+
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports", Star Sport 1 HINDI
+http://opplex.live:8080/live/10jun.abbas/51316725/109986.ts
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports", Star Sports 1 
+http://opplex.live:8080/live/10jun.abbas/51316725/109987.ts
+
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="noimg.png" group-title="Sports", Star Sports 2 
+http://opplex.live:8080/live/10jun.abbas/51316725/109988.ts
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Sports", Star Sports Select 1
+http://opplex.live:8080/live/10jun.abbas/51316725/109993.ts
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Sports", Star Sports Select 2
+http://opplex.live:8080/live/10jun.abbas/51316725/109994.ts
+
+
+
+#EXTINF:-1 tvg-id="ASportsHD" tvg-name="A Sports" tvg-logo="http://172.20.3.1/assets/images/A%20Sports%20HD.png" group-title="Sports",A Sports
+http://172.20.3.1:81/ASportsHD/tracks-v1a1/mono.m3
+
+#EXTINF:-1 tvg-id="beINSportsXTRAHD" tvg-name="BeIN Sports XTRA HD" tvg-logo="http://172.20.3.1/assets/images/Bein%20Sports%20Xtra%20N1667749705.png" group-title="Sports",BeIN Sports XTRA HD
+http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroSportHD" tvg-name="Euro Sport HD" tvg-logo="http://172.20.3.1/assets/images/Euro%20Sport.png" group-title="Sports",Euro Sport HD
+http://172.20.3.1:81/EuroSportHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PremierSportsHD" tvg-name="Premier Sports HD" tvg-logo="http://172.20.3.1/assets/images/Premier%20Sports.png" group-title="Sports",Premier Sports HD
+http://172.20.3.1:81/PremierSportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PTVSportsHD" tvg-name="PTV Sports HD" tvg-logo="http://172.20.3.1/assets/images/PTV%20Sports1664972620.png" group-title="Sports",PTV Sports HD
+http://172.20.3.1:81/PTVSportsHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SonySportsTen1" tvg-name="Sony Sports Ten 1" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports",Sony Sports Ten 1
+http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SonySportsTen2HD" tvg-name="Sony Sports Ten 2 HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2021667728105.png" group-title="Sports",Sony Sports Ten 2 HD
+http://172.20.3.1:81/SonySportsTen2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen3HD" tvg-name="Sony Sports Ten 3 HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports",Sony Sports Ten 3 HD
+http://172.20.3.1:81/SonySportsTen3HD/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonySports5HD" tvg-name="Sony Sports 5 HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2051667728306.png" group-title="Sports",Sony Sports 5 HD
+http://172.20.3.1:81/SonySports5HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sports181HD" tvg-name="Sports 18 1 HD" tvg-logo="http://172.20.3.1/assets/images/Sports18%201.png" group-title="Sports",Sports 18 1 HD
+http://172.20.3.1:81/Sports181HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1HD" tvg-name="Star Sports 1 HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2011667750523.png" group-title="Sports",Star Sports 1 HD
+http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2HD" tvg-name="Star Sports 2 HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2021667750538.png" group-title="Sports",Star Sports 2 HD
+http://172.20.3.1:81/StarSports2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSel1HD" tvg-name="Star Sports Sel 1 HD" tvg-logo="http://172.20.3.1/assets/images/StarSports%20Select%20HD1667750883.png" group-title="Sports",Star Sports Sel 1 HD
+http://172.20.3.1:81/StarSportsSel1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSel2HD" tvg-name="Star Sports Sel 2 HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="Sports",Star Sports Sel 2 HD
+http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TenCricket" tvg-name="Ten Cricket" tvg-logo="http://172.20.3.1/assets/images/Ten%20Cricket.png" group-title="Sports",Ten Cricket
+http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T-Sports" tvg-logo="http://172.20.3.1/assets/images/TSports1667821226.png" group-title="Sports", T-Sports
+http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T-Sports" tvg-logo="http://172.20.3.1/assets/images/TSports%2021668953490.png" group-title="Sports", T-Sports
+http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T-Sports" tvg-logo="" group-title="Sports", T-Sports
+https://live.tsports.com/live-01/index.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-name="T-Sports" tvg-logo="" group-title="Sports", T-Sports
+https://live.tsports.com/live-02/index.m3u8
+
+
 

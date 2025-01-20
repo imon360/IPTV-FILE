@@ -68,3 +68,15 @@ http://mega4k.one:8080/23004/23004/126996
 http://mega4k.one:8080/23004/23004/126998
 #EXTINF:-1 tvg-id="" tvg-name="toonzkids-atfal" tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png" group-title="Kids",toonzkids-atfal
 http://mega4k.one:8080/23004/23004/127001
+
+#EXTINF:-1 tvg-id="BBCCbeebiesHD" tvg-name="BBC Cbeebies HD" tvg-logo="http://172.20.3.1/assets/images/BBC%20Cbeebies.png" group-title="Kids",BBC Cbeebies HD
+http://172.20.3.1:81/BBCCbeebiesHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr" tvg-logo="http://172.20.3.1/assets/images/Disney%20JR1664825395.png" group-title="Kids",Disney Jr
+http://172.20.3.1:81/Disney/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DurontoTVHD" tvg-name="Duronto TV HD" tvg-logo="http://172.20.3.1/assets/images/Duronto1665400494.png" group-title="Kids",Duronto TV HD
+http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NickBNG" tvg-name="Nick Bangla" tvg-logo="http://172.20.3.1/assets/images/Nick%20HD1664976992.png" group-title="Kids",Nick Bangla
+http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SonyYAY" tvg-name="Sony YAY" tvg-logo="http://172.20.3.1/assets/images/Sony%20YAY1667728254.png" group-title="Kids",Sony YAY
+http://172.20.3.1:81/SonyYAY/tracks-v1a1/mono.m3u8
