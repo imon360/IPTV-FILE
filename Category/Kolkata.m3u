@@ -1,10 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr10 Bangla" tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="Kolkata",Interr10Bangla
+
+#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha" tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="Kolkata",Star Jalsha
+http://172.20.3.1:81/StarJalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" tvg-logo="http://172.20.3.1/assets/images/Star%20Plus1667751169.png" group-title="Hindi",Star Plus
+http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" tvg-logo="http://172.20.3.1/assets/images/Sun%20Bangla1664976074.png" group-title="Kolkata",Sun Bangla
+http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD" tvg-logo="http://172.20.3.1/assets/images/Zee%20Bangla1664976875.png" group-title="Kolkata",Zee Bangla HD
+http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="starjalsha" tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/w7MSMxb/starjalsahd.png" group-title="Kolkata",Star Jalsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+
+#EXTINF:-1 tvg-id="colorsbanglahd" tvg-name="Colors Bangla HD" tvg-logo="https://i.ibb.co.com/3hVp5rv/Colorsb-NGLAHD3.png" group-title="Kolkata",Colors Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8?hdnts=
+
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: colors bangla hd" tvg-logo="" group-title="IND: BANGLA",BD-loc: colors bangla hd
+http://mega4k.one:8080/23004/23004/132012
+
+#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr 10 Bangla" tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="Kolkata",Interr 10 Bangla
 http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr10 Bangla" tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="Kolkata",Interr10 Bangla
+#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr10 Bangla" tvg-logo="https://i.ibb.co.com/GxR2Gnf/1000010334.png" group-title="Kolkata",Interr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="Akash8" tvg-name="Akash 8" tvg-logo="https://i.ibb.co.com/HCVSrqG/g-Vd-Ydk-400x400.jpg" group-title="Kolkata",Akash 8
+#EXTINF:-1 tvg-id="Enterr10Bangla" tvg-name="Enterr 10 Bangla" tvg-logo="https://i.ibb.co.com/GxR2Gnf/1000010334.png" group-title="Kolkata",Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="Akash8" tvg-name="Akash 8" tvg-logo="https://i.ibb.co.com/ctrZPGV/1000010587.png" group-title="Kolkata",Akash 8
 https://mycdn.tamilultratv.com/live.m3u8?chunks=fde70923a5f003591dbf855be5c8b32896a837e7d73a963acface3ba870abed3b66af2b20c189f248ef66cae9036be6075682721b6bbbcf8f7175b42270125821f36abdb6899d0f8f3a7d6269690047d3b7b3ea7345ae814dcfc45e27422cebe4a7cdc278e4627a7c8479c8e520a693f76219abf451249b195e6306a5a23a2292f66f18d7aaff60523a2d973967391bf691a63d0ce7c8f249c85dc84fcb86ca7b92e7b0a9c574a20246bd17cc6e601d597031cd65029ae944f36235216dd8fb5a9f6d4f1b8954129a0a1285042cdd3339414886e094294a4a5c377a46a743f39b629e518d155444753b0a511d9527ced609621cb3bb0dbce6ae3cc183d55b248&vtoken=
 

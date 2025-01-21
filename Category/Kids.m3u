@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/XVpW46R/IH-IPTV.png" group-title="Kids",IH IPTV
+
+
 #EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" tvg-chno="1341" group-title="Kids",Nick Bangla
 https://mycdn.tamilultratv.com/live.m3u8?id=1341
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Kids",Nick Junior
