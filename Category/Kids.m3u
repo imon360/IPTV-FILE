@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/XVpW46R/IH-IPTV.png" group-title="Kids",IH IPTV
-
+https://res.cloudinary.com/duzfa84vd/video/upload/v1737456185/IH-IPTV_brhta0.mp4
 
 #EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" tvg-chno="1341" group-title="Kids",Nick Bangla
 https://mycdn.tamilultratv.com/live.m3u8?id=1341
