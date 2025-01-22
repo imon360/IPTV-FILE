@@ -1,8 +1,6 @@
 #EXTM3U
---------------------------Hindi--------------------------
+###--------------------------Hindi--------------------------###
 #EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="HINDI - হিন্দি",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
-------------------------------------------------------------
-#EXTINF:-1 tvg-id="143" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="143" group-title="",Name
-https://
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HINDI - হিন্দি",

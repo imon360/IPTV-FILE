@@ -1,8 +1,10 @@
 #EXTM3U
---------------------------Kolkata--------------------------
+###--------------------------Kolkata--------------------------###
 #EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="KOLKATA - কলকাতা",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
-------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOLKATA - কলকাতা",
+
 #EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha" tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="Kolkata",Star Jalsha
 http://172.20.3.1:81/StarJalsha/tracks-v1a1/mono.m3u8
 
