@@ -1,25 +1,31 @@
-BANGLA - বাংলা
+FULL --- 
 
-NEWS - খবর
+BANGLA - বাংলা --- 
 
-KOLKATA - কলকাতা
+NEWS - খবর --- 
 
-HINDI - হিন্দি
+KOLKATA - কলকাতা --- 
 
-MOVIES - সিনেমা
+HINDI - হিন্দি --- 
 
-KIDS - কার্টুন
+MOVIES - সিনেমা --- 
 
-MUSIC - গান
+ENTERTAINMENT - বিনোদন --- 
 
-WORLD - বিশ্ব
+KIDS - কার্টুন --- 
 
-SPORTS - খেলা
+MUSIC - গান --- 
 
-ALL SPORTS - সকল খেলা
+WORLD - বিশ্ব --- 
 
-OTHERS - অন্যান্য
+SPORTS - খেলা --- 
 
-MOVIES COLLECTION
+ALL SPORTS - সকল খেলা --- 
 
-WEB SERIES COLLECTION
+OTHERS - অন্যান্য --- 
+
+MOVIES COLLECTION --- 
+
+WEB SERIES COLLECTION --- 
+
+---------------------------------------------------------------------------------------------------------------------------
