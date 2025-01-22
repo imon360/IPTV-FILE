@@ -1,4 +1,8 @@
 #EXTM3U
+--------------------------Bangla--------------------------
+#EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="BANGLA - বাংলা",IH IPTV
+https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
+------------------------------------------------------------
 #EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/5nHFDLy/1000010336.png" group-title="Bangla",Ekhon TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8?nimblesessionid=732815728
 

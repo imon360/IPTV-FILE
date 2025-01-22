@@ -1,4 +1,8 @@
 #EXTM3U
+--------------------------News--------------------------
+#EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="NEWS - খবর",IH IPTV
+https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
+------------------------------------------------------------
 #EXTINF:-1 tvg-id="143" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="143" group-title="",Name
 https://
 

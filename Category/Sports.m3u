@@ -1,5 +1,8 @@
 #EXTM3U
-
+--------------------------Sports--------------------------
+#EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="SPORTS - খেলা",IH IPTV
+https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
+------------------------------------------------------------
 #EXTINF:-1 tvg-id="Star.Sports.1.HD.in" tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports 1 Eng 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74227
 #EXTINF:-1 tvg-id="Star.Sports.1.Hindi.HD.in" tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports 1 Hindi 4K Ultra HD
