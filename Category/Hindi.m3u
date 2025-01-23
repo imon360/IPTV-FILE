@@ -15,3 +15,98 @@ http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema" tvg-name="Zee Cinema" tvg-logo="http://172.20.3.1/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Hindi",Zee Cinema
 http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: Colors HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png" group-title="ASIA UK MIX",UK: Colors HD
+http://mega4k.one:8080/23004/23004/88239
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Star | Utsav Bharat" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/utsav-bharat-hk-uk.png" group-title="ASIA UK MIX",UK: Star | Utsav Bharat
+http://mega4k.one:8080/23004/23004/88242
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Desi Play TV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2023/01/desiplaytv001-696x385.jpg" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",Desi Play TV
+http://mega4k.one:8080/23004/23004/74770
+#EXTINF:-1 tvg-id="Zee.TV.HD.in" tvg-name="IN | Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Zee TV HD
+http://mega4k.one:8080/23004/23004/74772
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-name="IN | Sony SET HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Sony SET HD
+http://mega4k.one:8080/23004/23004/74775
+#EXTINF:-1 tvg-id="STAR.Plus.HD.in" tvg-name="IN | Star Plus HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Star Plus HD
+http://mega4k.one:8080/23004/23004/74778
+#EXTINF:-1 tvg-id="Colors.HD.in" tvg-name="IN | Colors HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Colors HD
+http://mega4k.one:8080/23004/23004/74781
+#EXTINF:-1 tvg-id="Star.Bharat.HD.in" tvg-name="IN | Star Bharat HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Star Bharat HD
+http://mega4k.one:8080/23004/23004/74784
+#EXTINF:-1 tvg-id="SONY.SAB.HD.in" tvg-name="IN | Sony Sab HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Sony Sab HD
+http://mega4k.one:8080/23004/23004/74787
+#EXTINF:-1 tvg-id="&tv.HD.in" tvg-name="IN | &Tv HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | &Tv HD
+http://mega4k.one:8080/23004/23004/74790
+#EXTINF:-1 tvg-id="Zee.Anmol.in" tvg-name="IN | Zee Anmol*" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Zee Anmol*
+http://mega4k.one:8080/23004/23004/74792
+#EXTINF:-1 tvg-id="Colors.Rishtey.in" tvg-name="IN | Colors Rishtey" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Colors Rishtey
+http://mega4k.one:8080/23004/23004/74793
+#EXTINF:-1 tvg-id="Sony.Pal.in" tvg-name="IN | Sony Pal*" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Sony Pal*
+http://mega4k.one:8080/23004/23004/74794
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR UTSAV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN: STAR UTSAV
+http://mega4k.one:8080/23004/23004/74795
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Kal" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2022/10/kal.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | Sony Kal
+http://mega4k.one:8080/23004/23004/74796
+
+#EXTINF:-1 tvg-id="" tvg-name="Nazara TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj397sPciy_yxXOcVYRquylRRP5LGHi6dsWBDl62owljxOya56h47JxnbggJUXZtOuJTJ4HLg4r-2b4xuWfAyfwF9ojb3652D6RJRd8CpFB9rQutL38o13UuMtZPeWQFO2HbO91fXGWnIx3zXAY4Z1cTJTRNF5nlfeKunjAfCefcT7I7d-cZ-JnQQ-s/s300/nazara-tv-channnel-logo-dd-freedish-hindi-tv-channel.jpg" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",Nazara TV
+http://mega4k.one:8080/23004/23004/114926
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY SAB SD" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuULDj6quJvr2bFjpFct1eVKmmY7X4qd_VoAcaY3zN6rz.jpg" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",IN | SONY SAB SD
+http://mega4k.one:8080/23004/23004/131771
+
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo TV" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/01/shmerootv.webp" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",Shemaroo TV
+http://mega4k.one:8080/23004/23004/122533
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Umang" tvg-logo="https://mhdmax.com/wp-content/uploads/2022/06/umag.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",Shemaroo Umang
+http://mega4k.one:8080/23004/23004/122534
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Umang Plus" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/images-11.webp" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",Shemaroo Umang Plus
+http://mega4k.one:8080/23004/23004/122535
+
+#EXTINF:-1 tvg-id="MTV.HD.in" tvg-name="MTv HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="INDIAN ENTERTAINMENT ⱽᴵᴾ",MTv HD
+http://mega4k.one:8080/23004/23004/118194
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony *" tvg-logo="" group-title="UK India",Sony *
+http://mega4k.one:8080/23004/23004/119046
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus *" tvg-logo="" group-title="UK India",Star Plus *
+http://mega4k.one:8080/23004/23004/119047
+#EXTINF:-1 tvg-id="" tvg-name="Colors TV *" tvg-logo="" group-title="UK India",Colors TV *
+http://mega4k.one:8080/23004/23004/119048
+#EXTINF:-1 tvg-id="" tvg-name="Colors *" tvg-logo="" group-title="UK India",Colors *
+http://mega4k.one:8080/23004/23004/119049
+
+#EXTINF:-1 tvg-id="" tvg-name="Set Max *" tvg-logo="" group-title="UK India",Set Max *
+http://mega4k.one:8080/23004/23004/119045
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Rishtey Cine *" tvg-logo="" group-title="UK India",Rishtey Cine *
+http://mega4k.one:8080/23004/23004/119050
+#EXTINF:-1 tvg-id="" tvg-name="Rishtey *" tvg-logo="" group-title="UK India",Rishtey *
+http://mega4k.one:8080/23004/23004/119051
+#EXTINF:-1 tvg-id="" tvg-name="Sab TV *" tvg-logo="" group-title="UK India",Sab TV *
+http://mega4k.one:8080/23004/23004/119052
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sab *" tvg-logo="" group-title="UK India",Sony Sab *
+http://mega4k.one:8080/23004/23004/119054
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV Asia *" tvg-logo="" group-title="UK India",Sony TV Asia *
+http://mega4k.one:8080/23004/23004/119055
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV *" tvg-logo="" group-title="UK India",Sony TV *
+http://mega4k.one:8080/23004/23004/119056
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold *" tvg-logo="" group-title="UK India",Star Gold *
+http://mega4k.one:8080/23004/23004/119057
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV *" tvg-logo="" group-title="UK India",Zee TV *
+http://mega4k.one:8080/23004/23004/119058
+#EXTINF:-1 tvg-id="" tvg-name="Zing *" tvg-logo="" group-title="UK India",Zing *
+http://mega4k.one:8080/23004/23004/119059
+
+#EXTINF:-1 tvg-id="" tvg-name="AAJ TAK *" tvg-logo="" group-title="UK India",AAJ TAK *
+http://mega4k.one:8080/23004/23004/119061
+
+#EXTINF:-1 tvg-id="" tvg-name="And TV *" tvg-logo="" group-title="UK India",And TV *
+http://mega4k.one:8080/23004/23004/119063
+#EXTINF:-1 tvg-id="" tvg-name="Brit Asia TV *" tvg-logo="" group-title="UK India",Brit Asia TV *
+http://mega4k.one:8080/23004/23004/119064
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Zee TV ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-tv-in.png" group-title="ASIA UK MIX",UK: Zee TV ᴴᴰ
+http://mega4k.one:8080/23004/23004/88285

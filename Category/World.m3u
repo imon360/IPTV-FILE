@@ -10,3 +10,34 @@ http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BBCLifestyleHD" tvg-name="BBC LifeStyle HD" tvg-logo="http://172.20.3.1/assets/images/BBC%20Lifestyle.png" group-title="Entertainment",BBC LifeStyle HD
 http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Animal Planet HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: Animal Planet HD
+http://mega4k.one:8080/23004/23004/74341
+#EXTINF:-1 tvg-id="" tvg-name="IN | : Discovery Science HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN | : Discovery Science HD
+http://mega4k.one:8080/23004/23004/74422
+#EXTINF:-1 tvg-id="" tvg-name="IN | : Discovery Turbo HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN | : Discovery Turbo HD
+http://mega4k.one:8080/23004/23004/74423
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery World HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: Discovery World HD
+http://mega4k.one:8080/23004/23004/74424
+#EXTINF:-1 tvg-id="" tvg-name="In: WB HD" tvg-logo="" group-title="IND | ENGLISH MOVIES ⱽᴵᴾ",In: WB HD
+http://mega4k.one:8080/23004/23004/74429
+#EXTINF:-1 tvg-id="" tvg-name="IN: Travel XP HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: Travel XP HD
+http://mega4k.one:8080/23004/23004/74433
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC Earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: BBC Earth HD
+http://mega4k.one:8080/23004/23004/74464
+#EXTINF:-1 tvg-id="" tvg-name="IN | Eng: Colors Infinity FHD" tvg-logo="" group-title="IND | ENGLISH MOVIES ⱽᴵᴾ",IN | Eng: Colors Infinity FHD
+http://mega4k.one:8080/23004/23004/74468
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nat Geo" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: Nat Geo
+http://mega4k.one:8080/23004/23004/74484
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nat Geo Wild" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: Nat Geo Wild
+http://mega4k.one:8080/23004/23004/74485
+#EXTINF:-1 tvg-id="" tvg-name="IN: Investigation Discovery HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: Investigation Discovery HD
+http://mega4k.one:8080/23004/23004/74497
+#EXTINF:-1 tvg-id="" tvg-name="IN: HISTORY 18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: HISTORY 18
+http://mega4k.one:8080/23004/23004/74499
+#EXTINF:-1 tvg-id="" tvg-name="IN: TLC World" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="IND: DOCUMENTARYⱽᴵᴾ",IN: TLC World
+http://mega4k.one:8080/23004/23004/74536
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Investigation Discovery (ID)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" group-title="ASIA UK MIX",UK: Investigation Discovery (ID)
+http://mega4k.one:8080/23004/23004/88269
+
