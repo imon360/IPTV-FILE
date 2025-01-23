@@ -5,6 +5,21 @@ https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS - খেলা",
 
+#EXTINF:-1 tvg-id="" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
+https://koro-churi-jodi-na-paro-dhara.tiiny.io/stream.php/BPLSpecial.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 2
+https://streamline.sturls.com/BPLSpecial/index.fmp4.m3u8?token=cf67707c1518878bbfacee979465c8519b4b0c92-bb443911e8769835ff4445f177e52152-1737627345-1737616545
+
+#EXTINF:-1 tvg-id="" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 3
+https://koro-churi-jodi-na-paro-dhara.tiiny.io/stream.php/BPLSpecial.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 4
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/48010.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fancode" tvg-logo="https://i.ibb.co.com/16Cq5Xg/20250112-224933.png" group-title="SPORTS - খেলা", Fancode
+https://buddyxiptv.com/fancode/global/primary/114492_english_hls_5266ta-no/index.m3u8
+
 #EXTINF:-1 tvg-id="Star.Sports.1.HD.in" tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports 1 Eng 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74227
 #EXTINF:-1 tvg-id="Star.Sports.1.Hindi.HD.in" tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="IND | PAK | Sports 4K Ultra",Star Sports 1 Hindi 4K Ultra HD
@@ -110,4 +125,14 @@ https://live.tsports.com/live-01/index.m3u8
 https://live.tsports.com/live-02/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="A Sports" tvg-logo="" group-title="SPORTS - খেলা",A Sports
+https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Sports 18 1" tvg-logo="https://i.ibb.co.com/L8DLjPq/Sports18-1-HD.png" group-title="SPORTS - খেলা",Sports 18 1
+https://mycdn.tamilultratv.com/live.m3u8?id=1985
+
+#EXTINF:-1 tvg-id="" tvg-name="Sports 18 2" tvg-logo="https://i.ibb.co.com/17g5Y3f/Sports18-2.png" group-title="SPORTS - খেলা",Sports 18 2
+https://mycdn.tamilultratv.com/live.m3u8?id=2852
+
+#EXTINF:-1 tvg-id="" tvg-name="Sports 18 3" tvg-logo="https://i.ibb.co.com/0KkgW3w/Sports18-3.png" group-title="SPORTS - খেলা",Sports 18 3
+https://mycdn.tamilultratv.com/live.m3u8?id=2853

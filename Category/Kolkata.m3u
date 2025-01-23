@@ -5,6 +5,8 @@ https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOLKATA - কলকাতা",
 
+
+
 #EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha" tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="Kolkata",Star Jalsha
 http://172.20.3.1:81/StarJalsha/tracks-v1a1/mono.m3u8
 
@@ -28,6 +30,7 @@ http://mega4k.one:8080/23004/23004/132012
 
 #EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr 10 Bangla" tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="Kolkata",Interr 10 Bangla
 http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr10 Bangla" tvg-logo="https://i.ibb.co.com/GxR2Gnf/1000010334.png" group-title="Kolkata",Interr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 

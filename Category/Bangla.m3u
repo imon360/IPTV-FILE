@@ -42,4 +42,50 @@ https://app.ncare.live/live-orgin/smtvbd.stream/live-orgin/smtvbd.stream/chunks.
 https://app.ncare.live/live-orgin/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8?nimblesessionid=729836628
 
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="Bangla",Ruposhi Bangla
-https://app.ncare.live/live-orgin/ruposhibangla.stream/live-orgin/ruposhibangla.stream/chunks.m3u8?nimblesessionid=729838526
+https://app.ncare.live/live-orgin/ruposhibangla.stream/live-orgin/ruposhibangla.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="AsianTV" tvg-name="Asian TV" tvg-logo="http://172.20.3.1/assets/images/BD-Asian%20TV1731519990.png" group-title="Bangla",Asian TV
+http://172.20.3.1:81/AsianTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CHannel9HD" tvg-name="CHannel 9 HD" tvg-logo="http://172.20.3.1/assets/images/Channel%2091664824936.png" group-title="Bangla",CHannel 9 HD
+http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ChannelIHD" tvg-name="Channel I HD" tvg-logo="http://172.20.3.1/assets/images/Channel%20i1664976520.png" group-title="Bangla",Channel I HD
+http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ChannelS" tvg-name="Channel S" tvg-logo="http://172.20.3.1/assets/images/BD-Channel%20S1731598946.png" group-title="Bangla",Channel S
+http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoHD" tvg-name="Deepto HD" tvg-logo="http://172.20.3.1/assets/images/BD-Deepto%20Tv1676377276.png" group-title="Bangla",Deepto HD
+http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="http://172.20.3.1/assets/images/BD-Ekhon%20TV1731466649.png" group-title="Bangla",Ekhon TV
+http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" tvg-logo="http://172.20.3.1/assets/images/Independent%20TV1664976104.png" group-title="Bangla",Independent TV
+http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MasrangaTVHD" tvg-name="Masranga TV HD" tvg-logo="http://172.20.3.1/assets/images/Masranga1667751530.png" group-title="Bangla",Masranga TV HD
+http://172.20.3.1:81/MasrangaTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NagorikTVHD" tvg-name="Nagorik TV HD" tvg-logo="http://172.20.3.1/assets/images/BD-Nagorik%20Tv1725785084.png" group-title="Bangla",Nagorik TV HD
+http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="News24HD" tvg-name="News 24 HD" tvg-logo="http://172.20.3.1/assets/images/BD-News%20241664826177.png" group-title="Bangla",News 24 HD
+http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTVHD" tvg-name="Somoy TV HD" tvg-logo="http://172.20.3.1/assets/images/SomoyTV1689411430.png" group-title="Bangla",Somoy TV HD
+http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTvBangla" tvg-name="Peace Tv Bangla" tvg-logo="" group-title="",Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="channel24" tvg-name="channel 24" tvg-logo="" group-title="Bangla",channel 24
+https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="anandatv" tvg-name="Ananda Tv" tvg-logo="" group-title="Bangla",
+https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="globaltv" tvg-name="Global Tv" tvg-logo="" group-title="Bangla",Global Tv
+https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8

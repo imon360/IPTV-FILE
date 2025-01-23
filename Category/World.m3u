@@ -4,3 +4,9 @@
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD - বিশ্ব",
+
+#EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="Discovery HD" tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Entertainment",Discovery HD
+http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BBCLifestyleHD" tvg-name="BBC LifeStyle HD" tvg-logo="http://172.20.3.1/assets/images/BBC%20Lifestyle.png" group-title="Entertainment",BBC LifeStyle HD
+http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8

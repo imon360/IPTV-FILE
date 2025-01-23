@@ -6,3 +6,5 @@ https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 #EXTINF:-1 tvg-id="143" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="143" group-title="",Name
 https://
 
+#EXTINF:-1 tvg-id="ABPAnanda" tvg-name="ABP Ananda" tvg-logo="https://i.ibb.co.com/nMH5kzv/download-300x166.jpg" group-title="News",ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
