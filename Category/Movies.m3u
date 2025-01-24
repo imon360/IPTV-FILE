@@ -191,5 +191,10 @@ http://mega4k.one:8080/23004/23004/131803
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max HD *" tvg-logo="https://static.epg.best/hu/SonyMax.hu.png" group-title="UK India",Sony Max HD *
 http://mega4k.one:8080/23004/23004/119053
 
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="Hindi",Sony Max 2
+http://watchindia.net:8880/live/82963/72037/2024.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Hindi",Sony Max HD
+http://watchindia.net:8880/live/82963/72037/788.ts
+
 
 

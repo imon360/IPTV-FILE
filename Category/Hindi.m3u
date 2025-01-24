@@ -110,3 +110,18 @@ http://mega4k.one:8080/23004/23004/119064
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Zee TV ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-tv-in.png" group-title="ASIA UK MIX",UK: Zee TV ᴴᴰ
 http://mega4k.one:8080/23004/23004/88285
+
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (1)
+http://watchindia.net:8880/live/82963/72037/801.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (2)
+http://watchindia.net:8880/live/82963/72037/2264.ts
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors TV HD UK" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD UK
+http://watchindia.net:8880/live/82963/72037/2187.ts
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Colors Rishtey HD" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_Rishtey_Asia.png" group-title="Hindi",Colors Rishtey HD
+http://watchindia.net:8880/live/82963/72037/830.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Hindi",Sony TV HD (1)
+http://watchindia.net:8880/live/82963/72037/1969.ts
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Hindi",Sony TV HD (2)
+http://watchindia.net:8880/live/82963/72037/2141.ts
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="Sony TV UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Hindi",Sony TV UK
+http://watchindia.net:8880/live/82963/72037/2117.ts
