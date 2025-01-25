@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="143" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="143" group-title="",Name
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD+" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Kids",Nick HD+
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD+" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" tvg-chno="1" group-title="Kids",Nick HD+
 http://mega4k.one:8080/23004/23004/92409
-#EXTINF:-1 tvg-id="" tvg-name="Pogo_Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",Pogo_Kids
+#EXTINF:-1 tvg-id="" tvg-name="Pogo_Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" tvg-chno="2" group-title="Kids",Pogo_Kids
 http://mega4k.one:8080/23004/23004/92410
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Kids",Nick Junior
 http://mega4k.one:8080/23004/23004/92411
-#EXTINF:-1 tvg-id="" tvg-name="Sonic_Hindi" tvg-logo="https://img-cdn.curl.pk/channels_icon/76823199191.png" group-title="Kids",Sonic_Hindi
+#EXTINF:-1 tvg-id="" tvg-name="Sonic_Hindi" tvg-chno="3"  tvg-logo="https://img-cdn.curl.pk/channels_icon/76823199191.png" group-title="Kids",Sonic_Hindi
 http://mega4k.one:8080/23004/23004/92412
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Kids",Discovery Kids
 http://mega4k.one:8080/23004/23004/92413
-#EXTINF:-1 tvg-id="" tvg-name="Nick SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="Kids",Nick SD
+#EXTINF:-1 tvg-id="" tvg-name="Nick SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" tvg-chno="4" group-title="Kids",Nick SD
 http://mega4k.one:8080/23004/23004/92414
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network SD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" tvg-chno="101" group-title="Kids",Cartoon Network SD
 http://mega4k.one:8080/23004/23004/92415
-#EXTINF:-1 tvg-id="" tvg-name="Disney Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Kids
+#EXTINF:-1 tvg-id="" tvg-name="Disney Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids" tvg-chno="102",Disney Kids
 http://mega4k.one:8080/23004/23004/92416
-#EXTINF:-1 tvg-id="" tvg-name="Hungama TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Kids",Hungama TV
+#EXTINF:-1 tvg-id="" tvg-chno="103" tvg-name="Hungama TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Kids",Hungama TV
 http://mega4k.one:8080/23004/23004/92417
 #EXTINF:-1 tvg-id="" tvg-name="Gubbare  Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Kids",Gubbare  Kids
 http://mega4k.one:8080/23004/23004/92418
