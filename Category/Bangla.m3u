@@ -1,388 +1,464 @@
 #EXTM3U
 ###--------------------------Bangla--------------------------###
-#EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="BANGLA - বাংলা",IH IPTV
+#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="BANGLA - বাংলা",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BANGLA - বাংলা",
 
-#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/5nHFDLy/1000010336.png" group-title="Bangla",Ekhon TV
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/5nHFDLy/1000010336.png" group-title="BANGLA - বাংলা",Ekhon TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/5nHFDLy/1000010336.png" group-title="Bangla",Ekhon TV
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/5nHFDLy/1000010336.png" group-title="BANGLA - বাংলা",Ekhon TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="News24" tvg-name="News 24" tvg-logo="https://i.ibb.co.com/j4qgs5B/AEn0k-sf1r2ka-Cg-It-PJ61-ZMHe-q43x-J-1xo6xc7kl-Al-NOgm9-MQIVGie-Mtq-Id7-WOCi6qjl-RUI8o-G6l5-IF-ks2-Q.png" group-title="Bangla",News 24
+#EXTINF:-1 tvg-id="News24" tvg-name="News 24" tvg-logo="https://i.ibb.co.com/j4qgs5B/AEn0k-sf1r2ka-Cg-It-PJ61-ZMHe-q43x-J-1xo6xc7kl-Al-NOgm9-MQIVGie-Mtq-Id7-WOCi6qjl-RUI8o-G6l5-IF-ks2-Q.png" group-title="BANGLA - বাংলা",News 24
 https://app.ncare.live/live-orgin/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="MAASRANGA" tvg-name="MAASRANGA" tvg-logo="" group-title="Bangla",MAASRANGA
+#EXTINF:-1 tvg-id="MAASRANGA" tvg-name="MAASRANGA" tvg-logo="" group-title="BANGLA - বাংলা",MAASRANGA
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u
 
-#EXTINF:-1 tvg-id="GolobalHD" tvg-name="Golobal HD" tvg-logo="" group-title="Bangla",Golobal HD
+#EXTINF:-1 tvg-id="GolobalHD" tvg-name="Golobal HD" tvg-logo="" group-title="BANGLA - বাংলা",Golobal HD
 https://app.ncare.live/live-orgin/Global-tv.stream/live-orgin/Global-tv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ATN" tvg-name="ATN" tvg-logo="" group-title="Bangla",ATN
+#EXTINF:-1 tvg-id="ATN" tvg-name="ATN" tvg-logo="" group-title="BANGLA - বাংলা",ATN
 https://app.ncare.live/live-orgin/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BoishakhiTV" tvg-name="Boishakhi TV" tvg-logo="" group-title="Bangla",Boishakhi TV
+#EXTINF:-1 tvg-id="BoishakhiTV" tvg-name="Boishakhi TV" tvg-logo="" group-title="BANGLA - বাংলা",Boishakhi TV
 https://app.ncare.live/live-orgin/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TheChannelTV" tvg-name="The Channel TV" tvg-logo="" group-title="Bangla",The Channel TV
+#EXTINF:-1 tvg-id="TheChannelTV" tvg-name="The Channel TV" tvg-logo="" group-title="BANGLA - বাংলা",The Channel TV
 https://app.ncare.live/live-orgin/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="biswabanglatv" tvg-name="Biswa Bangla Tv" tvg-logo="" group-title="Bangla",Biswa Bangla Tv
+#EXTINF:-1 tvg-id="BiswaBanglaTv" tvg-name="Biswa Bangla Tv" tvg-logo="" group-title="BANGLA - বাংলা",Biswa Bangla Tv
 https://app.ncare.live/live-orgin/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="SamiTV" tvg-name="" tvg-logo="" group-title="Bangla",Sami TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BANGLA - বাংলা",Sami TV
 https://app.ncare.live/live-orgin/smtvbd.stream/live-orgin/smtvbd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="smtvbd" tvg-name="Sm Tv" tvg-logo="" group-title="Bangla",Sm Tv
+#EXTINF:-1 tvg-id="SmTv" tvg-name="Sm Tv" tvg-logo="" group-title="BANGLA - বাংলা",Sm Tv
 https://app.ncare.live/live-orgin/smtvbd.stream/live-orgin/smtvbd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Movie Bangla TV" tvg-name="Movie Bangla TV" tvg-logo="" group-title="Bangla",Movie Bangla TV
+#EXTINF:-1 tvg-id="MovieBanglaTV" tvg-name="Movie Bangla TV" tvg-logo="" group-title="BANGLA - বাংলা",Movie Bangla TV
 https://app.ncare.live/live-orgin/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="Bangla",Ruposhi Bangla
+#EXTINF:-1 tvg-id="RuposhiBangla" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="BANGLA - বাংলা",Ruposhi Bangla
 https://app.ncare.live/live-orgin/ruposhibangla.stream/live-orgin/ruposhibangla.stream/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id="AsianTV" tvg-name="Asian TV" tvg-logo="http://172.20.3.1/assets/images/BD-Asian%20TV1731519990.png" group-title="Bangla",Asian TV
+#EXTINF:-1 tvg-id="AsianTV" tvg-name="Asian TV" tvg-logo="http://172.20.3.1/assets/images/BD-Asian%20TV1731519990.png" group-title="BANGLA - বাংলা",Asian TV
 http://172.20.3.1:81/AsianTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CHannel9HD" tvg-name="CHannel 9 HD" tvg-logo="http://172.20.3.1/assets/images/Channel%2091664824936.png" group-title="Bangla",CHannel 9 HD
+#EXTINF:-1 tvg-id="CHannel9HD" tvg-name="CHannel 9 HD" tvg-logo="http://172.20.3.1/assets/images/Channel%2091664824936.png" group-title="BANGLA - বাংলা",CHannel 9 HD
 http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ChannelIHD" tvg-name="Channel I HD" tvg-logo="http://172.20.3.1/assets/images/Channel%20i1664976520.png" group-title="Bangla",Channel I HD
+#EXTINF:-1 tvg-id="ChannelIHD" tvg-name="Channel I HD" tvg-logo="http://172.20.3.1/assets/images/Channel%20i1664976520.png" group-title="BANGLA - বাংলা",Channel I HD
 http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ChannelS" tvg-name="Channel S" tvg-logo="http://172.20.3.1/assets/images/BD-Channel%20S1731598946.png" group-title="Bangla",Channel S
+#EXTINF:-1 tvg-id="ChannelS" tvg-name="Channel S" tvg-logo="http://172.20.3.1/assets/images/BD-Channel%20S1731598946.png" group-title="BANGLA - বাংলা",Channel S
 http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DeeptoHD" tvg-name="Deepto HD" tvg-logo="http://172.20.3.1/assets/images/BD-Deepto%20Tv1676377276.png" group-title="Bangla",Deepto HD
+#EXTINF:-1 tvg-id="DeeptoHD" tvg-name="Deepto HD" tvg-logo="http://172.20.3.1/assets/images/BD-Deepto%20Tv1676377276.png" group-title="BANGLA - বাংলা",Deepto HD
 http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="http://172.20.3.1/assets/images/BD-Ekhon%20TV1731466649.png" group-title="Bangla",Ekhon TV
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="http://172.20.3.1/assets/images/BD-Ekhon%20TV1731466649.png" group-title="BANGLA - বাংলা",Ekhon TV
 http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" tvg-logo="http://172.20.3.1/assets/images/Independent%20TV1664976104.png" group-title="Bangla",Independent TV
+#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" tvg-logo="http://172.20.3.1/assets/images/Independent%20TV1664976104.png" group-title="BANGLA - বাংলা",Independent TV
 http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MasrangaTVHD" tvg-name="Masranga TV HD" tvg-logo="http://172.20.3.1/assets/images/Masranga1667751530.png" group-title="Bangla",Masranga TV HD
+#EXTINF:-1 tvg-id="MasrangaTVHD" tvg-name="Masranga TV HD" tvg-logo="http://172.20.3.1/assets/images/Masranga1667751530.png" group-title="BANGLA - বাংলা",Masranga TV HD
 http://172.20.3.1:81/MasrangaTVHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NagorikTVHD" tvg-name="Nagorik TV HD" tvg-logo="http://172.20.3.1/assets/images/BD-Nagorik%20Tv1725785084.png" group-title="Bangla",Nagorik TV HD
+#EXTINF:-1 tvg-id="NagorikTVHD" tvg-name="Nagorik TV HD" tvg-logo="http://172.20.3.1/assets/images/BD-Nagorik%20Tv1725785084.png" group-title="BANGLA - বাংলা",Nagorik TV HD
 http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="News24HD" tvg-name="News 24 HD" tvg-logo="http://172.20.3.1/assets/images/BD-News%20241664826177.png" group-title="Bangla",News 24 HD
+#EXTINF:-1 tvg-id="News24HD" tvg-name="News 24 HD" tvg-logo="http://172.20.3.1/assets/images/BD-News%20241664826177.png" group-title="BANGLA - বাংলা",News 24 HD
 http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SomoyTVHD" tvg-name="Somoy TV HD" tvg-logo="http://172.20.3.1/assets/images/SomoyTV1689411430.png" group-title="Bangla",Somoy TV HD
+#EXTINF:-1 tvg-id="SomoyTVHD" tvg-name="Somoy TV HD" tvg-logo="http://172.20.3.1/assets/images/SomoyTV1689411430.png" group-title="BANGLA - বাংলা",Somoy TV HD
 http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PeaceTvBangla" tvg-name="Peace Tv Bangla" tvg-logo="" group-title="",Peace Tv Bangla
+#EXTINF:-1 tvg-id="PeaceTvBangla" tvg-name="Peace Tv Bangla" tvg-logo="" group-title="BANGLA - বাংলা",Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
-#EXTINF:-1 tvg-id="channel24" tvg-name="channel 24" tvg-logo="" group-title="Bangla",channel 24
+#EXTINF:-1 tvg-id="channel24" tvg-name="channel 24" tvg-logo="" group-title="BANGLA - বাংলা",channel 24
 https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="anandatv" tvg-name="Ananda Tv" tvg-logo="" group-title="Bangla",
+#EXTINF:-1 tvg-id="AnandaTv" tvg-name="Ananda Tv" tvg-logo="" group-title="BANGLA - বাংলা",
 https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="globaltv" tvg-name="Global Tv" tvg-logo="" group-title="Bangla",Global Tv
+#EXTINF:-1 tvg-id="GlobalTv" tvg-name="Global Tv" tvg-logo="" group-title="BANGLA - বাংলা",Global Tv
 https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Channel S BD" tvg-logo="" group-title="IND: BANGLA",BD-loc: Channel S BD
+#EXTINF:-1 tvg-id="BD-loc:ChannelSBD" tvg-name="BD-loc: Channel S BD" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: Channel S BD
 http://mega4k.one:8080/23004/23004/131991
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc:  btv national" tvg-logo="" group-title="IND: BANGLA",BD-loc:  btv national
+
+#EXTINF:-1 tvg-id="BD-loc:btvnational" tvg-name="BD-loc: btv national" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: btv national
 http://mega4k.one:8080/23004/23004/131992
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc:  Desh Tv" tvg-logo="" group-title="IND: BANGLA",bd-loc:  Desh Tv
+
+#EXTINF:-1 tvg-id="bd-loc:DeshTv" tvg-name="bd-loc: Desh Tv" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: Desh Tv
 http://mega4k.one:8080/23004/23004/131993
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: 71banglatv" tvg-logo="" group-title="IND: BANGLA",BD-LOC: 71banglatv
+
+#EXTINF:-1 tvg-id="BD-LOC:71banglatv" tvg-name="BD-LOC: 71banglatv" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: 71banglatv
 http://mega4k.one:8080/23004/23004/131994
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: AakaashBangla" tvg-logo="" group-title="IND: BANGLA",BD-loc: AakaashBangla
+
+#EXTINF:-1 tvg-id="BD-loc:AakaashBangla" tvg-name="BD-loc: AakaashBangla" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: AakaashBangla
 http://mega4k.one:8080/23004/23004/131995
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: AnandaTV" tvg-logo="" group-title="IND: BANGLA",BD-loc: AnandaTV
+
+#EXTINF:-1 tvg-id="BD-loc:AnandaTV" tvg-name="BD-loc: AnandaTV" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: AnandaTV
 http://mega4k.one:8080/23004/23004/131996
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: asiantv" tvg-logo="" group-title="IND: BANGLA",BD-LOC: asiantv
+
+#EXTINF:-1 tvg-id="BD-LOC:asiantv" tvg-name="BD-LOC: asiantv" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: asiantv
 http://mega4k.one:8080/23004/23004/131997
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: atn-bangla" tvg-logo="" group-title="IND: BANGLA",BD-LOC: atn-bangla
+
+#EXTINF:-1 tvg-id="BD-LOC:atn-bangla" tvg-name="BD-LOC: atn-bangla" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: atn-bangla
 http://mega4k.one:8080/23004/23004/131998
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: atnnews" tvg-logo="" group-title="IND: BANGLA",BD-LOC: atnnews
+
+#EXTINF:-1 tvg-id="BD-LOC:atnnews" tvg-name="BD-LOC: atnnews" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: atnnews
 http://mega4k.one:8080/23004/23004/131999
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: bangla RTV" tvg-logo="" group-title="IND: BANGLA",BD-LOC: bangla RTV
+
+#EXTINF:-1 tvg-id="BD-LOC:banglaRTV" tvg-name="BD-LOC: bangla RTV" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: bangla RTV
 http://mega4k.one:8080/23004/23004/132000
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: BANGLA TIMES" tvg-logo="" group-title="IND: BANGLA",bd-loc: BANGLA TIMES
+
+#EXTINF:-1 tvg-id="bd-loc:BANGLATIMES" tvg-name="bd-loc: BANGLA TIMES" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: BANGLA TIMES
 http://mega4k.one:8080/23004/23004/132001
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: banglatv" tvg-logo="" group-title="IND: BANGLA",BD-LOC: banglatv
+
+#EXTINF:-1 tvg-id="BD-LOC:banglatv" tvg-name="BD-LOC: banglatv" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: banglatv
 http://mega4k.one:8080/23004/23004/132002
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: bijoy_tv" tvg-logo="" group-title="IND: BANGLA",bd-loc: bijoy_tv
+
+#EXTINF:-1 tvg-id="bd-loc:bijoy_tv" tvg-name="bd-loc: bijoy_tv" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: bijoy_tv
 http://mega4k.one:8080/23004/23004/132003
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: boishakhi" tvg-logo="" group-title="IND: BANGLA",BD-loc: boishakhi
+
+#EXTINF:-1 tvg-id="BD-loc:boishakhi" tvg-name="BD-loc: boishakhi" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: boishakhi
 http://mega4k.one:8080/23004/23004/132004
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Btv world" tvg-logo="" group-title="IND: BANGLA",BD-loc: Btv world
+
+#EXTINF:-1 tvg-id="BD-loc:Btvworld" tvg-name="BD-loc: Btv world" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: Btv world
 http://mega4k.one:8080/23004/23004/132005
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: BTV-" tvg-logo="" group-title="IND: BANGLA",BD-loc: BTV-
+
+#EXTINF:-1 tvg-id="BD-loc:BTV-" tvg-name="BD-loc: BTV-" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: BTV-
 http://mega4k.one:8080/23004/23004/132006
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: btv-chittagong" tvg-logo="" group-title="IND: BANGLA",BD-LOC: btv-chittagong
+
+#EXTINF:-1 tvg-id="BD-LOC:btv-chittagong" tvg-name="BD-LOC: btv-chittagong" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: btv-chittagong
 http://mega4k.one:8080/23004/23004/132007
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Channel 9" tvg-logo="" group-title="IND: BANGLA",BD-loc: Channel 9
+
+#EXTINF:-1 tvg-id="BD-loc:Channel9" tvg-name="BD-loc: Channel 9" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: Channel 9
 http://mega4k.one:8080/23004/23004/132008
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: channel I" tvg-logo="" group-title="IND: BANGLA",BD-LOC: channel I
+
+#EXTINF:-1 tvg-id="BD-LOC:channelI" tvg-name="BD-LOC: channel I" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: channel I
 http://mega4k.one:8080/23004/23004/132009
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Channel24" tvg-logo="" group-title="IND: BANGLA",BD-loc: Channel24
+
+#EXTINF:-1 tvg-id="BD-loc:Channel24" tvg-name="BD-loc: Channel24" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: Channel24
 http://mega4k.one:8080/23004/23004/132010
-#EXTINF:-1 tvg-id="" tvg-name="BD-Loc: CNN BANGLA" tvg-logo="" group-title="IND: BANGLA",BD-Loc: CNN BANGLA
+
+#EXTINF:-1 tvg-id="BD-Loc:CNNBANGLA" tvg-name="BD-Loc: CNN BANGLA" tvg-logo="" group-title="BANGLA - বাংলা",BD-Loc: CNN BANGLA
 http://mega4k.one:8080/23004/23004/132011
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: colors bangla hd" tvg-logo="" group-title="IND: BANGLA",BD-loc: colors bangla hd
+
+#EXTINF:-1 tvg-id="BD-loc:colorsbanglahd" tvg-name="BD-loc: colors bangla hd" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: colors bangla hd
 http://mega4k.one:8080/23004/23004/132012
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: dbcnews" tvg-logo="" group-title="IND: BANGLA",BD-LOC: dbcnews
+
+#EXTINF:-1 tvg-id="BD-LOC:dbcnews" tvg-name="BD-LOC: dbcnews" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: dbcnews
 http://mega4k.one:8080/23004/23004/132013
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Deepto tv" tvg-logo="" group-title="IND: BANGLA",BD-loc: Deepto tv
+
+#EXTINF:-1 tvg-id="BD-loc:Deeptotv" tvg-name="BD-loc: Deepto tv" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: Deepto tv
 http://mega4k.one:8080/23004/23004/132014
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: dhoom_music" tvg-logo="" group-title="IND: BANGLA",BD-loc: dhoom_music
+
+#EXTINF:-1 tvg-id="BD-loc:dhoom_music" tvg-name="BD-loc: dhoom_music" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: dhoom_music
 http://mega4k.one:8080/23004/23004/132015
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: ekattortv" tvg-logo="" group-title="IND: BANGLA",BD-LOC: ekattortv
+
+#EXTINF:-1 tvg-id="BD-LOC:ekattortv" tvg-name="BD-LOC: ekattortv" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: ekattortv
 http://mega4k.one:8080/23004/23004/132016
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="IND: BANGLA",bd-loc: Ekushey TV
+
+#EXTINF:-1 tvg-id="bd-loc:EkusheyTV" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: Ekushey TV
 http://mega4k.one:8080/23004/23004/132017
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Frontior tv" tvg-logo="" group-title="IND: BANGLA",bd-loc: Frontior tv
+
+#EXTINF:-1 tvg-id="bd-loc:Frontiortv" tvg-name="bd-loc: Frontior tv" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: Frontior tv
 http://mega4k.one:8080/23004/23004/132018
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Gaanbangla HD" tvg-logo="" group-title="IND: BANGLA",bd-loc: Gaanbangla HD
+
+#EXTINF:-1 tvg-id="bd-loc:GaanbanglaHD" tvg-name="bd-loc: Gaanbangla HD" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: Gaanbangla HD
 http://mega4k.one:8080/23004/23004/132019
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: independent" tvg-logo="" group-title="IND: BANGLA",BD-LOC: independent
+
+#EXTINF:-1 tvg-id="BD-LOC:independent" tvg-name="BD-LOC: independent" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: independent
 http://mega4k.one:8080/23004/23004/132020
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: jamunatv" tvg-logo="" group-title="IND: BANGLA",BD-LOC: jamunatv
+
+#EXTINF:-1 tvg-id="BD-LOC:jamunatv" tvg-name="BD-LOC: jamunatv" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: jamunatv
 http://mega4k.one:8080/23004/23004/132021
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Masranga HD" tvg-logo="" group-title="IND: BANGLA",BD-loc: Masranga HD
+
+#EXTINF:-1 tvg-id="BD-loc:MasrangaHD" tvg-name="BD-loc: Masranga HD" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: Masranga HD
 http://mega4k.one:8080/23004/23004/132022
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Massranga" tvg-logo="" group-title="IND: BANGLA",BD-loc: Massranga
+
+#EXTINF:-1 tvg-id="BD-loc:Massranga" tvg-name="BD-loc: Massranga" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: Massranga
 http://mega4k.one:8080/23004/23004/132023
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: mohona_tv" tvg-logo="" group-title="IND: BANGLA",BD-loc: mohona_tv
+
+#EXTINF:-1 tvg-id="BD-loc:mohona_tv" tvg-name="BD-loc: mohona_tv" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: mohona_tv
 http://mega4k.one:8080/23004/23004/132024
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: MyTv hd" tvg-logo="" group-title="IND: BANGLA",bd-loc: MyTv hd
+
+#EXTINF:-1 tvg-id="bd-loc:MyTvhd" tvg-name="bd-loc: MyTv hd" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: MyTv hd
 http://mega4k.one:8080/23004/23004/132025
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Nagorik tv" tvg-logo="" group-title="IND: BANGLA",bd-loc: Nagorik tv
+
+#EXTINF:-1 tvg-id="bd-loc:Nagoriktv" tvg-name="bd-loc: Nagorik tv" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: Nagorik tv
 http://mega4k.one:8080/23004/23004/132026
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: News Time Bd" tvg-logo="" group-title="IND: BANGLA",bd-loc: News Time Bd
+
+#EXTINF:-1 tvg-id="bd-loc:NewsTimeBd" tvg-name="bd-loc: News Time Bd" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: News Time Bd
 http://mega4k.one:8080/23004/23004/132027
-#EXTINF:-1 tvg-id="" tvg-name="BD-Loc: Nexus TV" tvg-logo="" group-title="IND: BANGLA",BD-Loc: Nexus TV
+
+#EXTINF:-1 tvg-id="BD-Loc:NexusTV" tvg-name="BD-Loc: Nexus TV" tvg-logo="" group-title="BANGLA - বাংলা",BD-Loc: Nexus TV
 http://mega4k.one:8080/23004/23004/132028
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: ntv" tvg-logo="" group-title="IND: BANGLA",BD-loc: ntv
+
+#EXTINF:-1 tvg-id="BD-loc:ntv" tvg-name="BD-loc: ntv" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: ntv
 http://mega4k.one:8080/23004/23004/132029
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: RTV PLUS" tvg-logo="" group-title="IND: BANGLA",BD-LOC: RTV PLUS
+
+#EXTINF:-1 tvg-id="BD-LOC:RTVPLUS" tvg-name="BD-LOC: RTV PLUS" tvg-logo="" group-title="BANGLA - বাংলা",BD-LOC: RTV PLUS
 http://mega4k.one:8080/23004/23004/132030
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: RTV PLUS GOLD" tvg-logo="" group-title="IND: BANGLA",bd-loc: RTV PLUS GOLD
+
+#EXTINF:-1 tvg-id="bd-loc:RTVPLUSGOLD" tvg-name="bd-loc: RTV PLUS GOLD" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: RTV PLUS GOLD
 http://mega4k.one:8080/23004/23004/132031
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: RupshiBangla" tvg-logo="" group-title="IND: BANGLA",BD-loc: RupshiBangla
+
+#EXTINF:-1 tvg-id="BD-loc:RupshiBangla" tvg-name="BD-loc: RupshiBangla" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: RupshiBangla
 http://mega4k.one:8080/23004/23004/132032
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: SA tv bd" tvg-logo="" group-title="IND: BANGLA",bd-loc: SA tv bd
+
+#EXTINF:-1 tvg-id="bd-loc:SAtvbd" tvg-name="bd-loc: SA tv bd" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: SA tv bd
 http://mega4k.one:8080/23004/23004/132033
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: sangeet bangla" tvg-logo="" group-title="IND: BANGLA",BD-loc: sangeet bangla
+
+#EXTINF:-1 tvg-id="BD-loc:sangeetbangla" tvg-name="BD-loc: sangeet bangla" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: sangeet bangla
 http://mega4k.one:8080/23004/23004/132034
-#EXTINF:-1 tvg-id="" tvg-name="bd-loc: SANGSAD BANGLADESH" tvg-logo="" group-title="IND: BANGLA",bd-loc: SANGSAD BANGLADESH
+
+#EXTINF:-1 tvg-id="bd-loc:SANGSADBANGLADESH" tvg-name="bd-loc: SANGSAD BANGLADESH" tvg-logo="" group-title="BANGLA - বাংলা",bd-loc: SANGSAD BANGLADESH
 http://mega4k.one:8080/23004/23004/132035
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: somoy_tv" tvg-logo="" group-title="IND: BANGLA",BD-loc: somoy_tv
+
+#EXTINF:-1 tvg-id="BD-loc:somoy_tv" tvg-name="BD-loc: somoy_tv" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: somoy_tv
 http://mega4k.one:8080/23004/23004/132036
-#EXTINF:-1 tvg-id="" tvg-name="Bangldesh: Itv 24" tvg-logo="" group-title="IND: BANGLA",Bangldesh: Itv 24
+
+#EXTINF:-1 tvg-id="Bangldesh:Itv24" tvg-name="Bangldesh: Itv 24" tvg-logo="" group-title="BANGLA - বাংলা",Bangldesh: Itv 24
 http://mega4k.one:8080/23004/23004/132037
-#EXTINF:-1 tvg-id="" tvg-name="Bangldesh: Khushboo TV" tvg-logo="" group-title="IND: BANGLA",Bangldesh: Khushboo TV
+
+#EXTINF:-1 tvg-id="Bangldesh:KhushbooTV" tvg-name="Bangldesh: Khushboo TV" tvg-logo="" group-title="BANGLA - বাংলা",Bangldesh: Khushboo TV
 http://mega4k.one:8080/23004/23004/132038
-#EXTINF:-1 tvg-id="" tvg-name="Bangldesh: Kolkata TV" tvg-logo="" group-title="IND: BANGLA",Bangldesh: Kolkata TV
+
+#EXTINF:-1 tvg-id="Bangldesh:KolkataTV" tvg-name="Bangldesh: Kolkata TV" tvg-logo="" group-title="BANGLA - বাংলা",Bangldesh: Kolkata TV
 http://mega4k.one:8080/23004/23004/132039
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel i ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_i.png" group-title="ASIA UK MIX",UK: Channel i ᴴᴰ
+#EXTINF:-1 tvg-id="UK:Channeliᴴᴰ" tvg-name="UK: Channel i ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_i.png" group-title="BANGLA - বাংলা",UK: Channel i ᴴᴰ
 http://mega4k.one:8080/23004/23004/88257
 
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: IQRA Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iqra-bangla-uk.png" group-title="ASIA UK MIX",UK: IQRA Bangla
+#EXTINF:-1 tvg-id="UK:IQRABangla" tvg-name="UK: IQRA Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iqra-bangla-uk.png" group-title="BANGLA - বাংলা",UK: IQRA Bangla
 http://mega4k.one:8080/23004/23004/88270
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png",MAASRANGA TV HD
+#EXTINF:-1 group-title="BANGLA - বাংলা" tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png",MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png",DEEPTO TV HD
+
+#EXTINF:-1 group-title="BANGLA - বাংলা" tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png",DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 
-
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png",DEEPTO TV
+#EXTINF:-1 group-title="BANGLA - বাংলা" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png",MY TV HD
+
+#EXTINF:-1 group-title="BANGLA - বাংলা" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png",MY TV HD
 https://mytvbangla.com/0.m3u8
 
-
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/rtvhd.png", RTV
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/rtvhd.png" group-title="BANGLA - বাংলা", RTV
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/112.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/banglavision.png", Bangla Vision
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/banglavision.png" group-title="BANGLA - বাংলা", Bangla Vision
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/84.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/atnbangla.png", ATN Bangla
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/atnbangla.png" group-title="BANGLA - বাংলা", ATN Bangla
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/81.ts
-#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/atnnews.png", ATN News
+
+#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/atnnews.png" group-title="BANGLA - বাংলা", ATN News
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/83.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png", Movie Bangla
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="BANGLA - বাংলা", Movie Bangla
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/104.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/mytv.png", MY TV
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/mytv.png" group-title="BANGLA - বাংলা", MY TV
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/106.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/asiantv.png", Asian
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/asiantv.png" group-title="BANGLA - বাংলা", Asian
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/80.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Bijoy1664824527.png", Bijoy TV
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Bijoy1664824527.png" group-title="BANGLA - বাংলা", Bijoy TV
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/85.ts
-#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/channel24.png", Channel 24
+
+#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/channel24.png" group-title="BANGLA - বাংলা", Channel 24
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/87.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Boishakhi1664824558.jpg", Boishakhi
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Boishakhi1664824558.jpg" group-title="BANGLA - বাংলা", Boishakhi
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/86.ts
-#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/ekattortv.png", Ekattor
+
+#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="BANGLA - বাংলা", Ekattor
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/95.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/ekusheytv.png", Ekushey TV
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/ekusheytv.png" group-title="BANGLA - বাংলা", Ekushey TV
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/96.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Channel%2091664824936.png", Channel 9
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Channel%2091664824936.png" group-title="BANGLA - বাংলা", Channel 9
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/88.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/mohona.png", Mohona TV
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/mohona.png" group-title="BANGLA - বাংলা", Mohona TV
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/103.ts
-#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/news24.png", News 24
+
+#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/news24.png" group-title="BANGLA - বাংলা", News 24
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/107.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Ntv1664826430.png", NTV
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/Ntv1664826430.png" group-title="BANGLA - বাংলা", NTV
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/109.ts
-#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/satv.png", SATV
+
+#EXTINF:-1 tvg-group="Bangladesh" tvg-logo="http://toffe.top/images/satv.png" group-title="BANGLA - বাংলা", SATV
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/114.ts
 
-#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/Somoytv.png", Somoy News
+#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="BANGLA - বাংলা", Somoy News
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/115.ts
-#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/Jamuna.png", Jamuna
+
+#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/Jamuna.png" group-title="BANGLA - বাংলা", Jamuna
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/100.ts
-#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/independenttv.png", Independent
+
+#EXTINF:-1 tvg-group="News" tvg-logo="http://toffe.top/images/independenttv.png" group-title="BANGLA - বাংলা", Independent
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/99.ts
 
-
-#EXTINF:-1 tvg-id="3802" tvg-name="BD: Nagorik Tv HD" tvg-logo="" group-title="BANGLA",BD: Nagorik Tv HD
+#EXTINF:-1 tvg-id="BD:NagorikTvHD" tvg-name="BD: Nagorik Tv HD" tvg-logo="" group-title="BANGLA - বাংলা",BD: Nagorik Tv HD
 http://starshare.live:8080/live/852963741/852963741/3802.m3u8
-#EXTINF:-1 tvg-id="257227" tvg-name="BD: GreenTv" tvg-logo="" group-title="BANGLA",BD: GreenTv
+
+#EXTINF:-1 tvg-id="BD:GreenTv" tvg-name="BD: GreenTv" tvg-logo="" group-title="BANGLA - বাংলা",BD: GreenTv
 http://starshare.live:8080/live/852963741/852963741/257227.m3u8
 
-#EXTINF:-1 tvg-id="3800" tvg-name="BD: ATN Bangla uk" tvg-logo="" group-title="BANGLA",BD: ATN Bangla uk
+#EXTINF:-1 tvg-id="BD:ATNBanglauk" tvg-name="BD: ATN Bangla uk" tvg-logo="" group-title="BANGLA - বাংলা",BD: ATN Bangla uk
 http://starshare.live:8080/live/852963741/852963741/3800.m3u8
 
-
-#EXTINF:-1 tvg-id="34665" tvg-name="BD: CHANNEL I" tvg-logo="" group-title="BANGLA",BD: CHANNEL I
+#EXTINF:-1 tvg-id="BD:CHANNELI" tvg-name="BD: CHANNEL I" tvg-logo="" group-title="BANGLA - বাংলা",BD: CHANNEL I
 http://starshare.live:8080/live/852963741/852963741/34665.m3u8
 
-
-#EXTINF:-1 tvg-id="390" tvg-name="BD_BOISAKHI HD" tvg-logo="" group-title="BANGLA",BD_BOISAKHI HD
+#EXTINF:-1 tvg-id="BD_BOISAKHIHD" tvg-name="BD_BOISAKHI HD" tvg-logo="" group-title="BANGLA - বাংলা",BD_BOISAKHI HD
 http://starshare.live:8080/live/852963741/852963741/390.m3u8
-#EXTINF:-1 tvg-id="392" tvg-name="BD_Channel I UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="BANGLA",BD_Channel I UK
+
+#EXTINF:-1 tvg-id="BD_ChannelIUK" tvg-name="BD_Channel I UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="BANGLA - বাংলা",BD_Channel I UK
 http://starshare.live:8080/live/852963741/852963741/392.m3u8
 
-
-#EXTINF:-1 tvg-id="391" tvg-name="BD_CHANNEL 24 HD" tvg-logo="" group-title="BANGLA",BD_CHANNEL 24 HD
+#EXTINF:-1 tvg-id="BD_CHANNEL24HD" tvg-name="BD_CHANNEL 24 HD" tvg-logo="" group-title="BANGLA - বাংলা",BD_CHANNEL 24 HD
 http://starshare.live:8080/live/852963741/852963741/391.m3u8
-#EXTINF:-1 tvg-id="393" tvg-name="BD_Channel S" tvg-logo="" group-title="BANGLA",BD_Channel S
+
+#EXTINF:-1 tvg-id="BD_ChannelS" tvg-name="BD_Channel S" tvg-logo="" group-title="BANGLA - বাংলা",BD_Channel S
 http://starshare.live:8080/live/852963741/852963741/393.m3u8
-#EXTINF:-1 tvg-id="394" tvg-name="BD_DESH TV" tvg-logo="" group-title="BANGLA",BD_DESH TV
+
+#EXTINF:-1 tvg-id="BD_DESHTV" tvg-name="BD_DESH TV" tvg-logo="" group-title="BANGLA - বাংলা",BD_DESH TV
 http://starshare.live:8080/live/852963741/852963741/394.m3u8
 
-#EXTINF:-1 tvg-id="398" tvg-name="BD_MY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BANGLA",BD_MY TV
+#EXTINF:-1 tvg-id="BD_MYTV" tvg-name="BD_MY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BANGLA - বাংলা",BD_MY TV
 http://starshare.live:8080/live/852963741/852963741/398.m3u8
-#EXTINF:-1 tvg-id="401" tvg-name="BD_RTV HD" tvg-logo="https://i.pinimg.com/originals/c6/63/b8/c663b8c78194a9d43844f3ec0007fc49.png" group-title="BANGLA",BD_RTV HD
+
+#EXTINF:-1 tvg-id="BD_RTVHD" tvg-name="BD_RTV HD" tvg-logo="https://i.pinimg.com/originals/c6/63/b8/c663b8c78194a9d43844f3ec0007fc49.png" group-title="BANGLA - বাংলা",BD_RTV HD
 http://starshare.live:8080/live/852963741/852963741/401.m3u8
-#EXTINF:-1 tvg-id="402" tvg-name="BD_BANGLA TIMES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="BANGLA",BD_BANGLA TIMES
+
+#EXTINF:-1 tvg-id="BD_BANGLATIMES" tvg-name="BD_BANGLA TIMES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="BANGLA - বাংলা",BD_BANGLA TIMES
 http://starshare.live:8080/live/852963741/852963741/402.m3u8
-#EXTINF:-1 tvg-id="397" tvg-name="BD_MOHONA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="BANGLA",BD_MOHONA TV
+
+#EXTINF:-1 tvg-id="BD_MOHONATV" tvg-name="BD_MOHONA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="BANGLA - বাংলা",BD_MOHONA TV
 http://starshare.live:8080/live/852963741/852963741/397.m3u8
-#EXTINF:-1 tvg-id="399" tvg-name="BD_AnandaTV" tvg-logo="" group-title="BANGLA",BD_AnandaTV
+
+#EXTINF:-1 tvg-id="BD_AnandaTV" tvg-name="BD_AnandaTV" tvg-logo="" group-title="BANGLA - বাংলা",BD_AnandaTV
 http://starshare.live:8080/live/852963741/852963741/399.m3u8
 
+#EXTINF:-1 tvg-id="BD_BijoyTv" tvg-name="BD_Bijoy Tv" tvg-logo="" group-title="BANGLA - বাংলা",BD_Bijoy Tv
 
-#EXTINF:-1 tvg-id="408" tvg-name="BD_Bijoy Tv" tvg-logo="" group-title="BANGLA",BD_Bijoy Tv
-
-
-#EXTINF:-1 tvg-id="411" tvg-name="BD_Nexus TV" tvg-logo="" group-title="BANGLA",BD_Nexus TV
+#EXTINF:-1 tvg-id="BD_NexusTV" tvg-name="BD_Nexus TV" tvg-logo="" group-title="BANGLA - বাংলা",BD_Nexus TV
 http://starshare.live:8080/live/852963741/852963741/411.m3u8
-#EXTINF:-1 tvg-id="413" tvg-name="BD_Songsad TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",BD_Songsad TV FHD
+
+#EXTINF:-1 tvg-id="BD_SongsadTVFHD" tvg-name="BD_Songsad TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA - বাংলা",BD_Songsad TV FHD
 http://starshare.live:8080/live/852963741/852963741/413.m3u8
-#EXTINF:-1 tvg-id="414" tvg-name="BD_DESHITV HD" tvg-logo="" group-title="BANGLA",BD_DESHITV HD
+
+#EXTINF:-1 tvg-id="BD_DESHITVHD" tvg-name="BD_DESHITV HD" tvg-logo="" group-title="BANGLA - বাংলা",BD_DESHITV HD
 http://starshare.live:8080/live/852963741/852963741/414.m3u8
-#EXTINF:-1 tvg-id="420" tvg-name="BD_DBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",BD_DBC HD
+
+#EXTINF:-1 tvg-id="BD_DBCHD" tvg-name="BD_DBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA - বাংলা",BD_DBC HD
 http://starshare.live:8080/live/852963741/852963741/420.m3u8
-#EXTINF:-1 tvg-id="421" tvg-name="BD_Jamuna TV" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" group-title="BANGLA",BD_Jamuna TV
+
+#EXTINF:-1 tvg-id="BD_JamunaTV" tvg-name="BD_Jamuna TV" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" group-title="BANGLA - বাংলা",BD_Jamuna TV
 http://starshare.live:8080/live/852963741/852963741/421.m3u8
-#EXTINF:-1 tvg-id="422" tvg-name="BD_Somoy TV" tvg-logo="" group-title="BANGLA",BD_Somoy TV
+
+#EXTINF:-1 tvg-id="BD_SomoyTV" tvg-name="BD_Somoy TV" tvg-logo="" group-title="BANGLA - বাংলা",BD_Somoy TV
 http://starshare.live:8080/live/852963741/852963741/422.m3u8
-#EXTINF:-1 tvg-id="423" tvg-name="BD_Independent TV" tvg-logo="" group-title="BANGLA",BD_Independent TV
+
+#EXTINF:-1 tvg-id="BD_IndependentTV" tvg-name="BD_Independent TV" tvg-logo="" group-title="BANGLA - বাংলা",BD_Independent TV
 http://starshare.live:8080/live/852963741/852963741/423.m3u8
-#EXTINF:-1 tvg-id="424" tvg-name="BD_NTV Bangla HD" tvg-logo="" group-title="BANGLA",BD_NTV Bangla HD
+
+#EXTINF:-1 tvg-id="BD_NTVBanglaHD" tvg-name="BD_NTV Bangla HD" tvg-logo="" group-title="BANGLA - বাংলা",BD_NTV Bangla HD
 http://starshare.live:8080/live/852963741/852963741/424.m3u8
-#EXTINF:-1 tvg-id="426" tvg-name="BD: BANGLA VISION" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="BANGLA",BD: BANGLA VISION
+
+#EXTINF:-1 tvg-id="BD:BANGLAVISION" tvg-name="BD: BANGLA VISION" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="BANGLA - বাংলা",BD: BANGLA VISION
 http://starshare.live:8080/live/852963741/852963741/426.m3u8
-#EXTINF:-1 tvg-id="427" tvg-name="BD: ATN NEWS HD" tvg-logo="" group-title="BANGLA",BD: ATN NEWS HD
+
+#EXTINF:-1 tvg-id="BD:ATNNEWSHD" tvg-name="BD: ATN NEWS HD" tvg-logo="" group-title="BANGLA - বাংলা",BD: ATN NEWS HD
 http://starshare.live:8080/live/852963741/852963741/427.m3u8
-#EXTINF:-1 tvg-id="428" tvg-name="BD:Ekattor tv" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" group-title="BANGLA",BD:Ekattor tv
+
+#EXTINF:-1 tvg-id="BD:Ekattortv" tvg-name="BD:Ekattor tv" tvg-logo="https://i.pinimg.com/originals/84/9f/59/849f59af67ee6f8f136c4190af9c3e51.png" group-title="BANGLA - বাংলা",BD:Ekattor tv
 http://starshare.live:8080/live/852963741/852963741/428.m3u8
-#EXTINF:-1 tvg-id="429" tvg-name="BD: BOISAKHI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="BANGLA",BD: BOISAKHI HD
+
+#EXTINF:-1 tvg-id="BD:BOISAKHIHD" tvg-name="BD: BOISAKHI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="BANGLA - বাংলা",BD: BOISAKHI HD
 http://starshare.live:8080/live/852963741/852963741/429.m3u8
-#EXTINF:-1 tvg-id="431" tvg-name="BD: ATN BANGLA" tvg-logo="" group-title="BANGLA",BD: ATN BANGLA
+
+#EXTINF:-1 tvg-id="BD:ATNBANGLA" tvg-name="BD: ATN BANGLA" tvg-logo="" group-title="BANGLA - বাংলা",BD: ATN BANGLA
 http://starshare.live:8080/live/852963741/852963741/431.m3u8
-#EXTINF:-1 tvg-id="433" tvg-name="BD_Duronto TV HD" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" group-title="BANGLA",BD_Duronto TV HD
+
+#EXTINF:-1 tvg-id="BD_DurontoTVHD" tvg-name="BD_Duronto TV HD" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg/revision/latest?cb=20190624161303" group-title="BANGLA - বাংলা",BD_Duronto TV HD
 http://starshare.live:8080/live/852963741/852963741/433.m3u8
-#EXTINF:-1 tvg-id="430" tvg-name="BD: ASIAN TV" tvg-logo="" group-title="BANGLA",BD: ASIAN TV
+
+#EXTINF:-1 tvg-id="BD:ASIANTV" tvg-name="BD: ASIAN TV" tvg-logo="" group-title="BANGLA - বাংলা",BD: ASIAN TV
 http://starshare.live:8080/live/852963741/852963741/430.m3u8
-#EXTINF:-1 tvg-id="434" tvg-name="BD_Channel 9 HD" tvg-logo="" group-title="BANGLA",BD_Channel 9 HD
+
+#EXTINF:-1 tvg-id="BD_Channel9HD" tvg-name="BD_Channel 9 HD" tvg-logo="" group-title="BANGLA - বাংলা",BD_Channel 9 HD
 http://starshare.live:8080/live/852963741/852963741/434.m3u8
 
-
-#EXTINF:-1 tvg-id="767" tvg-name="BD: Gazi TV HD" tvg-logo="" group-title="BANGLA",BD: Gazi TV HD
+#EXTINF:-1 tvg-id="BD:GaziTVHD" tvg-name="BD: Gazi TV HD" tvg-logo="" group-title="BANGLA - বাংলা",BD: Gazi TV HD
 http://starshare.live:8080/live/852963741/852963741/767.m3u8
-#EXTINF:-1 tvg-id="998" tvg-name="BD : BTV BD" tvg-logo="" group-title="BANGLA",BD : BTV BD
+
+#EXTINF:-1 tvg-id="BD:BTVBD" tvg-name="BD : BTV BD" tvg-logo="" group-title="BANGLA - বাংলা",BD : BTV BD
 http://starshare.live:8080/live/852963741/852963741/998.m3u8
-#EXTINF:-1 tvg-id="999" tvg-name="BD: iTV" tvg-logo="" group-title="BANGLA",BD: iTV
+
+#EXTINF:-1 tvg-id="BD:iTV" tvg-name="BD: iTV" tvg-logo="" group-title="BANGLA - বাংলা",BD: iTV
 http://starshare.live:8080/live/852963741/852963741/999.m3u8
-#EXTINF:-1 tvg-id="1000" tvg-name="BD : NRB TV" tvg-logo="" group-title="BANGLA",BD : NRB TV
+
+#EXTINF:-1 tvg-id="BD:NRBTV" tvg-name="BD : NRB TV" tvg-logo="" group-title="BANGLA - বাংলা",BD : NRB TV
 http://starshare.live:8080/live/852963741/852963741/1000.m3u8
-#EXTINF:-1 tvg-id="1034" tvg-name="BD: Deepto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",BD: Deepto
+
+#EXTINF:-1 tvg-id="BD:Deepto" tvg-name="BD: Deepto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA - বাংলা",BD: Deepto
 http://starshare.live:8080/live/852963741/852963741/1034.m3u8
-#EXTINF:-1 tvg-id="1035" tvg-name="BD: TIMES24 TV FHD" tvg-logo="" group-title="BANGLA",BD: TIMES24 TV FHD
+
+#EXTINF:-1 tvg-id="BD:TIMES24TVFHD" tvg-name="BD: TIMES24 TV FHD" tvg-logo="" group-title="BANGLA - বাংলা",BD: TIMES24 TV FHD
 http://starshare.live:8080/live/852963741/852963741/1035.m3u8
-#EXTINF:-1 tvg-id="1036" tvg-name="BD: Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BANGLA",BD: Maasranga TV
+
+#EXTINF:-1 tvg-id="BD:MaasrangaTV" tvg-name="BD: Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BANGLA - বাংলা",BD: Maasranga TV
 http://starshare.live:8080/live/852963741/852963741/1036.m3u8
-#EXTINF:-1 tvg-id="1331" tvg-name="BD:DEEPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",BD:DEEPTO TV
+
+#EXTINF:-1 tvg-id="BD:DEEPTOTV" tvg-name="BD:DEEPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA - বাংলা",BD:DEEPTO TV
 http://starshare.live:8080/live/852963741/852963741/1331.m3u8
-#EXTINF:-1 tvg-id="2882" tvg-name="BD: TIME TV" tvg-logo="" group-title="BANGLA",BD: TIME TV
+
+#EXTINF:-1 tvg-id="BD:TIMETV" tvg-name="BD: TIME TV" tvg-logo="" group-title="BANGLA - বাংলা",BD: TIME TV
 http://starshare.live:8080/live/852963741/852963741/2882.m3u8
-#EXTINF:-1 tvg-id="2883" tvg-name="BD: DESHE BIDESHE" tvg-logo="" group-title="BANGLA",BD: DESHE BIDESHE
+
+#EXTINF:-1 tvg-id="BD:DESHEBIDESHE" tvg-name="BD: DESHE BIDESHE" tvg-logo="" group-title="BANGLA - বাংলা",BD: DESHE BIDESHE
 http://starshare.live:8080/live/852963741/852963741/2883.m3u8
 
-
-#EXTINF:-1 tvg-id="3799" tvg-name="BD: RTV Music" tvg-logo="" group-title="BANGLA",BD: RTV Music
+#EXTINF:-1 tvg-id="BD:RTVMusic" tvg-name="BD: RTV Music" tvg-logo="" group-title="BANGLA - বাংলা",BD: RTV Music
 http://starshare.live:8080/live/852963741/852963741/3799.m3u8
 
-
-#EXTINF:-1 tvg-id="3803" tvg-name="BD: Bangla Tv" tvg-logo="" group-title="BANGLA",BD: Bangla Tv
+#EXTINF:-1 tvg-id="BD:BanglaTv" tvg-name="BD: Bangla Tv" tvg-logo="" group-title="BANGLA - বাংলা",BD: Bangla Tv
 http://starshare.live:8080/live/852963741/852963741/3803.m3u8
 
-
-#EXTINF:-1 tvg-id="3810" tvg-name="BD: News 24 Tv" tvg-logo="" group-title="BANGLA",BD: News 24 Tv
+#EXTINF:-1 tvg-id="BD:News24Tv" tvg-name="BD: News 24 Tv" tvg-logo="" group-title="BANGLA - বাংলা",BD: News 24 Tv
 http://starshare.live:8080/live/852963741/852963741/3810.m3u8
-#EXTINF:-1 tvg-id="3812" tvg-name="BD: Gaan Bangla" tvg-logo="" group-title="BANGLA",BD: Gaan Bangla
+
+#EXTINF:-1 tvg-id="BD:GaanBangla" tvg-name="BD: Gaan Bangla" tvg-logo="" group-title="BANGLA - বাংলা",BD: Gaan Bangla
 http://starshare.live:8080/live/852963741/852963741/3812.m3u8
-#EXTINF:-1 tvg-id="3814" tvg-name="BD: SA Tv" tvg-logo="" group-title="BANGLA",BD: SA Tv
+
+#EXTINF:-1 tvg-id="BD:SATv" tvg-name="BD: SA Tv" tvg-logo="" group-title="BANGLA - বাংলা",BD: SA Tv
 http://starshare.live:8080/live/852963741/852963741/3814.m3u8
 
-#EXTINF:-1 tvg-id="3818" tvg-name="BD : BTvChattogram" tvg-logo="" group-title="BANGLA",BD : BTvChattogram
+#EXTINF:-1 tvg-id="BD:BTvChattogram" tvg-name="BD : BTvChattogram" tvg-logo="" group-title="BANGLA - বাংলা",BD : BTvChattogram
 http://starshare.live:8080/live/852963741/852963741/3818.m3u8
 
-#EXTINF:-1 tvg-id="4231" tvg-name="BD: GlobalTv_HD" tvg-logo="" group-title="BANGLA",BD: GlobalTv_HD
+#EXTINF:-1 tvg-id="BD:GlobalTv_HD" tvg-name="BD: GlobalTv_HD" tvg-logo="" group-title="BANGLA - বাংলা",BD: GlobalTv_HD
 http://starshare.live:8080/live/852963741/852963741/4231.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/lRpkGHj.png",Ekushey TV
+#EXTINF:-1 group-title="BANGLA - বাংলা" tvg-logo="https://i.imgur.com/lRpkGHj.png",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 tvg-id="3807" tvg-name="BD: Gaan Bangla" tvg-logo="" group-title="BANGLA",BD: Gaan Bangla
+#EXTINF:-1 tvg-id="BD:GaanBangla" tvg-name="BD: Gaan Bangla" tvg-logo="" group-title="BANGLA - বাংলা",BD: Gaan Bangla
 http://starshare.live:8080/live/852963741/852963741/3807.m3u8

@@ -1,153 +1,168 @@
 #EXTM3U
 ###--------------------------News--------------------------###
-#EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="NEWS - খবর",IH IPTV
+#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="NEWS - খবর",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
-#EXTINF:-1 tvg-id="143" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="143" group-title="",Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS - খবর",Name
 https://
 
-#EXTINF:-1 tvg-id="ABPAnanda" tvg-name="ABP Ananda" tvg-logo="https://i.ibb.co.com/nMH5kzv/download-300x166.jpg" group-title="News",ABP Ananda
+#EXTINF:-1 tvg-id="ABPAnanda" tvg-name="ABP Ananda" tvg-logo="https://i.ibb.co.com/nMH5kzv/download-300x166.jpg" group-title="NEWS - খবর",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE 24 BENGALI " tvg-logo="" group-title="IND | News",IN: ZEE 24 BENGALI 
+#EXTINF:-1 tvg-id="IN:ZEE24BENGALI" tvg-name="IN: ZEE 24 BENGALI " tvg-logo="" group-title="NEWS - খবর",IN: ZEE 24 BENGALI
 http://mega4k.one:8080/23004/23004/62231
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV India ⱽᴵᴾ" tvg-logo="https://i.pinimg.com/originals/94/7e/40/947e405ff7b832e61e4c1de5913f51a3.png" group-title="IND | News",IN: NDTV India ⱽᴵᴾ
+#EXTINF:-1 tvg-id="IN:NDTVIndiaⱽᴵᴾ" tvg-name="IN: NDTV India ⱽᴵᴾ" tvg-logo="https://i.pinimg.com/originals/94/7e/40/947e405ff7b832e61e4c1de5913f51a3.png" group-title="NEWS - খবর",IN: NDTV India ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62142
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee News ⱽᴵᴾ" tvg-logo="https://i.pinimg.com/originals/78/21/1b/78211b3704c553a29d6a44ef5c83cfc1.png" group-title="IND | News",IN: Zee News ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IN:ZeeNewsⱽᴵᴾ" tvg-name="IN: Zee News ⱽᴵᴾ" tvg-logo="https://i.pinimg.com/originals/78/21/1b/78211b3704c553a29d6a44ef5c83cfc1.png" group-title="NEWS - খবর",IN: Zee News ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62158
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: 9X Tashan ⱽᴵᴾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/9X_Tashan_Logo.jpg/revision/latest?cb=20180625061313" group-title="IND | Music",IND: 9X Tashan ⱽᴵᴾ
+#EXTINF:-1 tvg-id="IND:9XTashanⱽᴵᴾ" tvg-name="IND: 9X Tashan ⱽᴵᴾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/9X_Tashan_Logo.jpg/revision/latest?cb=20180625061313" group-title="NEWS - খবর",IND: 9X Tashan ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62163
-#EXTINF:-1 tvg-id="" tvg-name="IND: Aaj Tak ⱽᴵᴾ" tvg-logo="https://toppng.com/uploads/preview/aaj-tak-logo-11550710006ti5wtxlvvp.png" group-title="IND | News",IND: Aaj Tak ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:AajTakⱽᴵᴾ" tvg-name="IND: Aaj Tak ⱽᴵᴾ" tvg-logo="https://toppng.com/uploads/preview/aaj-tak-logo-11550710006ti5wtxlvvp.png" group-title="NEWS - খবর",IND: Aaj Tak ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62164
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Hindustan ⱽᴵᴾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Zee-hindustan.png" group-title="IND | News",IND: Zee Hindustan ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:ZeeHindustanⱽᴵᴾ" tvg-name="IND: Zee Hindustan ⱽᴵᴾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Zee-hindustan.png" group-title="NEWS - খবর",IND: Zee Hindustan ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62173
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Business ⱽᴵᴾ" tvg-logo="https://www.dhirassociates.com/wp-content/uploads/2020/10/Zee-Business.png" group-title="IND | News",IND: Zee Business ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:ZeeBusinessⱽᴵᴾ" tvg-name="IND: Zee Business ⱽᴵᴾ" tvg-logo="https://www.dhirassociates.com/wp-content/uploads/2020/10/Zee-Business.png" group-title="NEWS - খবর",IND: Zee Business ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62176
-#EXTINF:-1 tvg-id="" tvg-name="Mar:: 9X Jhakaas ⱽᴵᴾ" tvg-logo="https://yt3.googleusercontent.com/VHP6wojIvnizCp5n3_TAsjj5baNOrx8AVvkibDupc_Qj0wVkjQSzcZNNcQ8fbpmTFwEWHZU6qQ=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Music",Mar:: 9X Jhakaas ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="Mar::9XJhakaasⱽᴵᴾ" tvg-name="Mar:: 9X Jhakaas ⱽᴵᴾ" tvg-logo="https://yt3.googleusercontent.com/VHP6wojIvnizCp5n3_TAsjj5baNOrx8AVvkibDupc_Qj0wVkjQSzcZNNcQ8fbpmTFwEWHZU6qQ=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS - খবর",Mar:: 9X Jhakaas ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62180
 
-#EXTINF:-1 tvg-id="" tvg-name="IND: ABP News ⱽᴵᴾ" tvg-logo="https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/campaignindia/campaign-india/content/ABP1.jpg&w=800&h=530&q=70&c=1" group-title="IND | News",IND: ABP News ⱽᴵᴾ
+#EXTINF:-1 tvg-id="IND:ABPNewsⱽᴵᴾ" tvg-name="IND: ABP News ⱽᴵᴾ" tvg-logo="https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/campaignindia/campaign-india/content/ABP1.jpg&w=800&h=530&q=70&c=1" group-title="NEWS - খবর",IND: ABP News ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62190
-#EXTINF:-1 tvg-id="" tvg-name="IND: India Today ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: India Today ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:IndiaTodayⱽᴵᴾ" tvg-name="IND: India Today ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: India Today ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62192
-#EXTINF:-1 tvg-id="" tvg-name="IND: Pitaara-tv ⱽᴵᴾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRYcTtpKHHpuTrl41_AoK9jZupuKrLvKmeA2Eb2MkUsDptrYOCYkqvOx_en_hVZNy5kQ&usqp=CAU" group-title="IND | Music",IND: Pitaara-tv ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:Pitaara-tvⱽᴵᴾ" tvg-name="IND: Pitaara-tv ⱽᴵᴾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRYcTtpKHHpuTrl41_AoK9jZupuKrLvKmeA2Eb2MkUsDptrYOCYkqvOx_en_hVZNy5kQ&usqp=CAU" group-title="NEWS - খবর",IND: Pitaara-tv ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62198
-#EXTINF:-1 tvg-id="" tvg-name="IND: india TV ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: india TV ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:indiaTVⱽᴵᴾ" tvg-name="IND: india TV ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: india TV ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62214
-#EXTINF:-1 tvg-id="" tvg-name="IND: India News Haryana ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: India News Haryana ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:IndiaNewsHaryanaⱽᴵᴾ" tvg-name="IND: India News Haryana ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: India News Haryana ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62215
-#EXTINF:-1 tvg-id="" tvg-name="IND: India News Rajasthan ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: India News Rajasthan ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:IndiaNewsRajasthanⱽᴵᴾ" tvg-name="IND: India News Rajasthan ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: India News Rajasthan ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62216
-#EXTINF:-1 tvg-id="" tvg-name="IND: India News Madhya Pradesh Chhattisgarh ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: India News Madhya Pradesh Chhattisgarh ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:IndiaNewsMadhyaPradeshChhattisgarhⱽᴵᴾ" tvg-name="IND: India News Madhya Pradesh Chhattisgarh ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: India News Madhya Pradesh Chhattisgarh ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62217
-#EXTINF:-1 tvg-id="" tvg-name="IND: India News UP UK ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: India News UP UK ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:IndiaNewsUPUKⱽᴵᴾ" tvg-name="IND: India News UP UK ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: India News UP UK ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62218
-#EXTINF:-1 tvg-id="" tvg-name="IND: India News ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: India News ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:IndiaNewsⱽᴵᴾ" tvg-name="IND: India News ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: India News ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62219
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Delhi NCR Haryana ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: Zee Delhi NCR Haryana ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:ZeeDelhiNCRHaryanaⱽᴵᴾ" tvg-name="IND: Zee Delhi NCR Haryana ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: Zee Delhi NCR Haryana ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62220
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee UP UK ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: Zee UP UK ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:ZeeUPUKⱽᴵᴾ" tvg-name="IND: Zee UP UK ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: Zee UP UK ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62221
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Madhya Pradesh Chhattisgarh ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: Zee Madhya Pradesh Chhattisgarh ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:ZeeMadhyaPradeshChhattisgarhⱽᴵᴾ" tvg-name="IND: Zee Madhya Pradesh Chhattisgarh ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: Zee Madhya Pradesh Chhattisgarh ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62222
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Rajasthan ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: Zee Rajasthan ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:ZeeRajasthanⱽᴵᴾ" tvg-name="IND: Zee Rajasthan ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: Zee Rajasthan ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62223
-#EXTINF:-1 tvg-id="" tvg-name="IND: ET Now Swadesh ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: ET Now Swadesh ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:ETNowSwadeshⱽᴵᴾ" tvg-name="IND: ET Now Swadesh ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: ET Now Swadesh ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62224
-#EXTINF:-1 tvg-id="" tvg-name="IND: News 24 ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IND: News 24 ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IND:News24ⱽᴵᴾ" tvg-name="IND: News 24 ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IND: News 24 ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62226
-#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now Navbharat ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IN: Times Now Navbharat ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IN:TimesNowNavbharatⱽᴵᴾ" tvg-name="IN: Times Now Navbharat ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IN: Times Now Navbharat ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62228
-#EXTINF:-1 tvg-id="" tvg-name="IN: ABP ANANDA BANGLA ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IN: ABP ANANDA BANGLA ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IN:ABPANANDABANGLAⱽᴵᴾ" tvg-name="IN: ABP ANANDA BANGLA ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IN: ABP ANANDA BANGLA ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62229
-#EXTINF:-1 tvg-id="" tvg-name="IN: R PLUS Bengal ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IN: R PLUS Bengal ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IN:RPLUSBengalⱽᴵᴾ" tvg-name="IN: R PLUS Bengal ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IN: R PLUS Bengal ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62230
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Awaaz ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IN: CNBC Awaaz ⱽᴵᴾ
+#EXTINF:-1 tvg-id="IN:CNBCAwaazⱽᴵᴾ" tvg-name="IN: CNBC Awaaz ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IN: CNBC Awaaz ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62232
-#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Bajar ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IN: CNBC Bajar ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IN:CNBCBajarⱽᴵᴾ" tvg-name="IN: CNBC Bajar ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IN: CNBC Bajar ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62233
-#EXTINF:-1 tvg-id="" tvg-name="IN: TV9 Bangla ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IN: TV9 Bangla ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IN:TV9Banglaⱽᴵᴾ" tvg-name="IN: TV9 Bangla ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IN: TV9 Bangla ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62235
-#EXTINF:-1 tvg-id="" tvg-name="IN: Rajya Sabha ⱽᴵᴾ" tvg-logo="" group-title="IND | News",IN: Rajya Sabha ⱽᴵᴾ
+
+#EXTINF:-1 tvg-id="IN:RajyaSabhaⱽᴵᴾ" tvg-name="IN: Rajya Sabha ⱽᴵᴾ" tvg-logo="" group-title="NEWS - খবর",IN: Rajya Sabha ⱽᴵᴾ
 http://mega4k.one:8080/23004/23004/62236
 
-#EXTINF:-1 tvg-id="" tvg-name="ABP News *" tvg-logo="" group-title="UK India",ABP News *
+#EXTINF:-1 tvg-id="ABPNews*" tvg-name="ABP News *" tvg-logo="" group-title="NEWS - খবর",ABP News *
 http://mega4k.one:8080/23004/23004/119062
 
-#EXTINF:-1 tvg-id="143" tvg-name="CNBC Tv18 Prime HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" tvg-chno="143" group-title="Business News",CNBC Tv18 Prime HD
+#EXTINF:-1 tvg-id="CNBCTv18PrimeHD" tvg-name="CNBC Tv18 Prime HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="NEWS - খবর",CNBC Tv18 Prime HD
 https://mycdn.tamilultratv.com/live.m3u8?id=143
 
-#EXTINF:-1 group-title="EngNEWS",CBNS-US NEWS
+#EXTINF:-1 group-title="NEWS - খবর",CBNS-US NEWS
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1 group-title="EngNEWS",YAHOO NEWS
+
+#EXTINF:-1 group-title="NEWS - খবর",YAHOO NEWS
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",YAHOO FIN NEWS
+
+#EXTINF:-1 group-title="NEWS - খবর",YAHOO FIN NEWS
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="EngNEWS",DW NEWS
+
+#EXTINF:-1 group-title="NEWS - খবর",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" tvg-chno="193" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="NEWS - খবর",CNN
 https://mycdn.tamilultratv.com/live.m3u8?id=193
 
-#EXTINF:-1 tvg-id="464" tvg-name="24 Ghanta TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" tvg-chno="464" group-title="News",24 Ghanta TV
+#EXTINF:-1 tvg-id="24GhantaTV" tvg-name="24 Ghanta TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="NEWS - খবর",24 Ghanta TV
 https://mycdn.tamilultratv.com/live.m3u8?id=464
 
-#EXTINF:-1 tvg-id="494" tvg-name="AL Jazeera" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" tvg-chno="494" group-title="News",AL Jazeera
+#EXTINF:-1 tvg-id="ALJazeera" tvg-name="AL Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="NEWS - খবর",AL Jazeera
 https://mycdn.tamilultratv.com/live.m3u8?id=494
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",AlJazeera English
+#EXTINF:-1 group-title="NEWS - খবর" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",AlJazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
+
+#EXTINF:-1 group-title="NEWS - খবর" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="News",ABC
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NEWS - খবর",ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News",BBC WORLD NEWS
+
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="NEWS - খবর",BBC WORLD NEWS
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="News",CNBC FHD
+#EXTINF:-1 tvg-id="CNBCFHD" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="NEWS - খবর",CNBC FHD
 http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="NEWS - খবর",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="News",CNN INTERNATIONAL
+
+#EXTINF:-1 tvg-id="CNNINTERNATIONAL" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="NEWS - খবর",CNN INTERNATIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News",FOX News Channel
+#EXTINF:-1 tvg-id="FOXNewsChannel" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="NEWS - খবর",FOX News Channel
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
 
-#EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="ABC News" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png" group-title="USA Network",ABC News
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="ABC News" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png" group-title="NEWS - খবর",ABC News
 http://watchindia.net:8880/live/82963/72037/2120.ts
 
-
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC World News" tvg-logo="http://watchindia.net/images/channels/usa/BBC_World_News.png" group-title="USA Network",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNews" tvg-name="BBC World News" tvg-logo="http://watchindia.net/images/channels/usa/BBC_World_News.png" group-title="NEWS - খবর",BBC World News
 http://watchindia.net:8880/live/82963/72037/2579.ts
 
-
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="USA Network",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="NEWS - খবর",CNN
 http://watchindia.net:8880/live/82963/72037/2058.ts
 
-
 http://watchindia.net:8880/live/82963/72037/2309.ts
-#EXTINF:-1 tvg-id="nbcnetwork.us" tvg-name="NBC News Now" tvg-logo="https://watchindia.net/images/channels/usa/NBC_News_Now.png" group-title="USA Network",NBC News Now
+
+#EXTINF:-1 tvg-id="NBCNewsNow" tvg-name="NBC News Now" tvg-logo="https://watchindia.net/images/channels/usa/NBC_News_Now.png" group-title="NEWS - খবর",NBC News Now
 http://watchindia.net:8880/live/82963/72037/2580.ts
 
-
-#EXTINF:-1 tvg-id="wion.in" tvg-name="WION News" tvg-logo="https://watchindia.net/images/channels/hindi/Wion_News.png" group-title="Hindi",WION News
+#EXTINF:-1 tvg-id="WIONNews" tvg-name="WION News" tvg-logo="https://watchindia.net/images/channels/hindi/Wion_News.png" group-title="NEWS - খবর",WION News
 http://watchindia.net:8880/live/82963/72037/816.ts
-

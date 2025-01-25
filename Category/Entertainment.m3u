@@ -1,96 +1,87 @@
 #EXTM3U
 ###-----------------------Entertainment------------------------###
-#EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="ENTERTAINMENT - বিনোদন",IH IPTV
+#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="ENTERTAINMENT - বিনোদন",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT - বিনোদন",
 
-#EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="Discovery HD" tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Entertainment",Discovery HD
+#EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="Discovery HD" tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="ENTERTAINMENT - বিনোদন",Discovery HD
 http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyleHD" tvg-name="BBC LifeStyle HD" tvg-logo="http://172.20.3.1/assets/images/BBC%20Lifestyle.png" group-title="Entertainment",BBC LifeStyle HD
+
+#EXTINF:-1 tvg-id="BBCLifeStyleHD" tvg-name="BBC LifeStyle HD" tvg-logo="http://172.20.3.1/assets/images/BBC%20Lifestyle.png" group-title="ENTERTAINMENT - বিনোদন",BBC LifeStyle HD
 http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC" tvg-logo="http://watchindia.net/images/channels/usa/MSNBC.png" group-title="USA Network",MSNBC
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="http://watchindia.net/images/channels/usa/MSNBC.png" group-title="ENTERTAINMENT - বিনোদন",MSNBC
 http://watchindia.net:8880/live/82963/72037/2060.ts
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="http://watchindia.net/images/channels/usa/MTV.png" group-title="USA Network",MTV
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://watchindia.net/images/channels/usa/MTV.png" group-title="ENTERTAINMENT - বিনোদন",MTV
 http://watchindia.net:8880/live/82963/72037/2062.ts
 
-
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime" tvg-logo="http://watchindia.net/images/channels/usa/Showtime.png" group-title="USA Network",Showtime
+#EXTINF:-1 tvg-id="Showtime" tvg-name="Showtime" tvg-logo="http://watchindia.net/images/channels/usa/Showtime.png" group-title="ENTERTAINMENT - বিনোদন",Showtime
 http://watchindia.net:8880/live/82963/72037/2054.ts
 
-
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="Hindi",& Pictures HD
+#EXTINF:-1 tvg-id="&PicturesHD" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="ENTERTAINMENT - বিনোদন",& Pictures HD
 http://watchindia.net:8880/live/82963/72037/783.ts
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="Hindi",& TV HD
+
+#EXTINF:-1 tvg-id="&TVHD" tvg-name="& TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="ENTERTAINMENT - বিনোদন",& TV HD
 http://watchindia.net:8880/live/82963/72037/782.ts
 
-
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="Hindi",Colors Cineplex HD
+#EXTINF:-1 tvg-id="ColorsCineplexHD" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="ENTERTAINMENT - বিনোদন",Colors Cineplex HD
 http://watchindia.net:8880/live/82963/72037/803.ts
 
-
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV India HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="Hindi",MTV India HD
+#EXTINF:-1 tvg-id="MTVIndiaHD" tvg-name="MTV India HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="ENTERTAINMENT - বিনোদন",MTV India HD
 http://watchindia.net:8880/live/82963/72037/825.ts
 
-
-#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Hindi",Zee Action
+#EXTINF:-1 tvg-id="ZeeAction" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="ENTERTAINMENT - বিনোদন",Zee Action
 http://watchindia.net:8880/live/82963/72037/821.ts
 
-
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="Hindi",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="ZeeAnmolCinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="ENTERTAINMENT - বিনোদন",Zee Anmol Cinema
 http://watchindia.net:8880/live/82963/72037/820.ts
-#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="Hindi",Zee Bollywood
+
+#EXTINF:-1 tvg-id="ZeeBollywood" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="ENTERTAINMENT - বিনোদন",Zee Bollywood
 http://watchindia.net:8880/live/82963/72037/822.ts
 
-#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="248" group-title="Music",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="ENTERTAINMENT - বিনোদন",MTV
 https://mycdn.tamilultratv.com/live.m3u8?id=248
 
-#EXTINF:-1 tvg-id="1145" tvg-name="MTV HD Plus" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-chno="1145" group-title="Music",MTV HD Plus
+#EXTINF:-1 tvg-id="MTVHDPlus" tvg-name="MTV HD Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="ENTERTAINMENT - বিনোদন",MTV HD Plus
 https://mycdn.tamilultratv.com/live.m3u8?id=1145
 
-#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-chno="482" group-title="Movies",Colors Cineplex
+#EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="ENTERTAINMENT - বিনোদন",Colors Cineplex
 https://mycdn.tamilultratv.com/live.m3u8?id=482
 
-#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" tvg-chno="1450" group-title="Movies",Colors Cineplex Superhit
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="ENTERTAINMENT - বিনোদন",Colors Cineplex Superhit
 https://mycdn.tamilultratv.com/live.m3u8?id=1450
 
-
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movies",Showtime
+#EXTINF:-1 tvg-id="Showtime" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="ENTERTAINMENT - বিনোদন",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movies",Showtime 2
+#EXTINF:-1 tvg-id="Showtime2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="ENTERTAINMENT - বিনোদন",Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movies",Showtime Extreme
+#EXTINF:-1 tvg-id="ShowtimeExtreme" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="ENTERTAINMENT - বিনোদন",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movies",Showtime Next
+
+#EXTINF:-1 tvg-id="ShowtimeNext" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="ENTERTAINMENT - বিনোদন",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movies",Showtime Women
+
+#EXTINF:-1 tvg-id="ShowtimeWomen" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="ENTERTAINMENT - বিনোদন",Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-id="481" tvg-name="Epic" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" tvg-chno="481" group-title="Entertainment",Epic
+#EXTINF:-1 tvg-id="Epic" tvg-name="Epic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="ENTERTAINMENT - বিনোদন",Epic
 https://mycdn.tamilultratv.com/live.m3u8?id=481
 
-
-#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" tvg-chno="527" group-title="Entertainment",Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="Investigation Discovery" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="ENTERTAINMENT - বিনোদন",Investigation Discovery
 https://mycdn.tamilultratv.com/live.m3u8?id=527
 
-#EXTINF:-1 tvg-id="mtvU.us" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="ENTERTAINMENT - বিনোদন",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Entertainment",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="ENTERTAINMENT - বিনোদন",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="ENTERTAINMENT - বিনোদন",TNT
 http://fl2.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="WGN.Chicago.(LOCAL).us" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="Entertainment",WGN
+#EXTINF:-1 tvg-id="WGN" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="ENTERTAINMENT - বিনোদন",WGN
 http://fl2.moveonjoy.com/WGN/index.m3u8
-
-
-

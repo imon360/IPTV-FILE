@@ -1,53 +1,51 @@
 #EXTM3U
 ###--------------------------Web Series Collection--------------------------###
-#EXTINF:-1 tvg-id="" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="WEB SERIES COLLECTION",IH IPTV
+#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="WEB SERIES COLLECTION",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WEB SERIES COLLECTION",
 
-#EXTINF:-1 tvg-id="" tvg-name="The Kapil Sharma Show Season 4 24/7" tvg-logo="https://i.ibb.co.com/D8t3mHt/kapi-shorma-ki-show.jpg" group-title="WEB SERIES COLLECTION",The Kapil Sharma Show Season 4 24/7
+#EXTINF:-1 tvg-id="TheKapilSharmaShowSeason424/7" tvg-name="The Kapil Sharma Show Season 4 24/7" tvg-logo="https://i.ibb.co.com/D8t3mHt/kapi-shorma-ki-show.jpg" group-title="WEB SERIES COLLECTION",The Kapil Sharma Show Season 4 24/7
 http://mega4k.one:8080/23004/23004/85273
 
-#EXTINF:-1 tvg-id="" tvg-name="India's Best Dancer 3 24/7" tvg-logo="https://i.ibb.co.com/pz8dWWM/india-best-dancer.jpg" group-title="WEB SERIES COLLECTION",India's Best Dancer 3 24/7
+#EXTINF:-1 tvg-id="India'sBestDancer324/7" tvg-name="India's Best Dancer 3 24/7" tvg-logo="https://i.ibb.co.com/pz8dWWM/india-best-dancer.jpg" group-title="WEB SERIES COLLECTION",India's Best Dancer 3 24/7
 http://mega4k.one:8080/23004/23004/94424
 
-#EXTINF:-1 tvg-id="" tvg-name="Happu Ki Ultan Paltan 24/7" tvg-logo="https://i.ibb.co.com/qxnY47R/happu-ki-ultan-paltan-1.jpg" group-title="WEB SERIES COLLECTION",Happu Ki Ultan Paltan 24/7
+#EXTINF:-1 tvg-id="HappuKiUltanPaltan24/7" tvg-name="Happu Ki Ultan Paltan 24/7" tvg-logo="https://i.ibb.co.com/qxnY47R/happu-ki-ultan-paltan-1.jpg" group-title="WEB SERIES COLLECTION",Happu Ki Ultan Paltan 24/7
 http://mega4k.one:8080/23004/23004/95962
 
-#EXTINF:-1 tvg-id="" tvg-name="Savdhaan India: Criminal Decoded 24/7" tvg-logo="https://i.ibb.co.com/hYTMQG1/Criminal-Decoded.jpg" group-title="WEB SERIES COLLECTION",Savdhaan India: Criminal Decoded 24/7
+#EXTINF:-1 tvg-id="SavdhaanIndia:CriminalDecoded24/7" tvg-name="Savdhaan India: Criminal Decoded 24/7" tvg-logo="https://i.ibb.co.com/hYTMQG1/Criminal-Decoded.jpg" group-title="WEB SERIES COLLECTION",Savdhaan India: Criminal Decoded 24/7
 http://mega4k.one:8080/23004/23004/97473
 
-#EXTINF:-1 tvg-id="" tvg-name="Taarak Mehta Ka Ooltah Chashmah 24/7" tvg-logo="https://i.ibb.co.com/HHbbPQg/MTV-Hustle-2-0.png" group-title="WEB SERIES COLLECTION",Taarak Mehta Ka Ooltah Chashmah 24/7
+#EXTINF:-1 tvg-id="TaarakMehtaKaOoltahChashmah24/7" tvg-name="Taarak Mehta Ka Ooltah Chashmah 24/7" tvg-logo="https://i.ibb.co.com/d5XVWjQ/Taarak-Mehta-Ka-Ooltah-Chashmah-247.jpg" group-title="WEB SERIES COLLECTION",Taarak Mehta Ka Ooltah Chashmah 24/7
 http://mega4k.one:8080/23004/23004/97474
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hustle Season 3.0 24/7" tvg-logo="" group-title="WEB SERIES COLLECTION",MTV Hustle Season 3.0 24/7
+#EXTINF:-1 tvg-id="MTVHustleSeason3.024/7" tvg-name="MTV Hustle Season 3.0 24/7" tvg-logo="https://i.ibb.co.com/HHbbPQg/MTV-Hustle-2-0.png" group-title="WEB SERIES COLLECTION",MTV Hustle Season 3.0 24/7
 http://mega4k.one:8080/23004/23004/118179
 
-#EXTINF:-1 tvg-id="" tvg-name="Dance Plus Pro 24/7" tvg-logo="https://i.ibb.co.com/NTQP2kY/dance-plus-pro.jpg" group-title="WEB SERIES COLLECTION",Dance Plus Pro 24/7
+#EXTINF:-1 tvg-id="DancePlusPro24/7" tvg-name="Dance Plus Pro 24/7" tvg-logo="https://i.ibb.co.com/NTQP2kY/dance-plus-pro.jpg" group-title="WEB SERIES COLLECTION",Dance Plus Pro 24/7
 http://mega4k.one:8080/23004/23004/118180
 
-#EXTINF:-1 tvg-id="" tvg-name="Jhalak Dikhhla Jaa Season 11 24/7" tvg-logo="https://i.ibb.co.com/6YGcgtq/Jhalak-Dikhhla-Jaa-Season-11.jpg" group-title="WEB SERIES COLLECTION",Jhalak Dikhhla Jaa Season 11 24/7
+#EXTINF:-1 tvg-id="JhalakDikhhlaJaaSeason1124/7" tvg-name="Jhalak Dikhhla Jaa Season 11 24/7" tvg-logo="https://i.ibb.co.com/6YGcgtq/Jhalak-Dikhhla-Jaa-Season-11.jpg" group-title="WEB SERIES COLLECTION",Jhalak Dikhhla Jaa Season 11 24/7
 http://mega4k.one:8080/23004/23004/118181
 
-#EXTINF:-1 tvg-id="" tvg-name="Indian Idol Season 14 24/7" tvg-logo="https://i.ibb.co.com/tLfQN06/104166058.png" group-title="WEB SERIES COLLECTION",Indian Idol Season 14 24/7
+#EXTINF:-1 tvg-id="IndianIdolSeason1424/7" tvg-name="Indian Idol Season 14 24/7" tvg-logo="https://i.ibb.co.com/tLfQN06/104166058.png" group-title="WEB SERIES COLLECTION",Indian Idol Season 14 24/7
 http://mega4k.one:8080/23004/23004/118182
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E01
+#EXTINF:-1 tvg-id="BeastGamesS01E01" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E01
 https://vgorigin.hakunaymatata.com/resource/bf7c1c5a22ef3de3cd922c8112025258.mp4?Expires=1738895108&KeyName=wefeed&Signature=my4LVaKFXJQaurEdBxFvP99gdmZnOIyi3Ak6WvKxOJbrYq1a0eQApCd_feIXo71xiBsMg9s_lq9ik1mR-o-VAQ
 
-#EXTINF:-1 tvg-id="" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E02
+#EXTINF:-1 tvg-id="BeastGamesS01E01" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E02
 https://macdn.hakunaymatata.com/resource/db3564a1b9647e142bdca0e186a12a02.mp4?Expires=1738895867&Signature=ZbNuPm8qMWhA9CXDeVtr7yCIfBjeUmaiaPFsmh0jpl5u2rWYah7QaywN8BvAuw6PN9HGvQv~WFC5bYuwxjMeFzv01oQuknuIsgcaogXPfmsGduX13TjKA2CuzgPNd7uEY-91C2hwuuBVMam-Hdfht3bUeFCbfyfdmKrcoWKZNtbzq~0g43eGvkFAA0EiRc2YMMJBipKZQQoSHUVSm4v0quh1GGXfeyvHHnwS20LwScYznxcPdjQpdsnYQsaWNTtlNKJxqqbjGbTHk6a7OgdU34tr5yOrcWQ90dddeg15pyckKLqcp~m~DB94SaL6-AxAG90AGfOYjjdq4bu3FmbqOA__&Key-Pair-Id=KMHN1LQ1HEUPL
 
-#EXTINF:-1 tvg-id="" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E03
+#EXTINF:-1 tvg-id="BeastGamesS01E01" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E03
 https://vgorigin.hakunaymatata.com/resource/9c1c0d9aa3f9b7cbc480497753bbd214.mp4?Expires=1738895913&KeyName=wefeed&Signature=H0FpdirF86FShTr6AkI3COFNFVzhQbgKidHKj-xaIeJDfoKopCGVoh3C51iiF2z_wMWBdP1ySXxu32o3g_FIAQ
 
-#EXTINF:-1 tvg-id="" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E04
+#EXTINF:-1 tvg-id="BeastGamesS01E01" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E04
 https://macdn.hakunaymatata.com/resource/583e6581376dedee2a2bb44620fa118f.mp4?Expires=1738895675&Signature=lHZMkOatZeSy0C04tGiPqwvDxiR3SKAD3u8u4F0FqzGulVwOsjcLD4TWU8~-z-loAD4tWZfUqL3-XUauaz~EvTa7Ui78yvn3BCkyCTJALiQLNyJzTYWDj1SggKDs9bWoWSyQtSllWMIW-UnxCve4eBjsFOkFz76VRI02zzvHsyeSz3rzcLJ5PasEXZfkg7nI4DoJZYXnsbnNDcGNN3u8HWBS7UvMhL3zIiDBiyWUP00OGIiqAXWclUul2oCpFmldqr64CBrxt0Y3CZgAllggANBe6Xa~h-3FSC2WyK2jV6UZZVH2cbgw~qGRoTUniZERK8fH44hpKozEPKSwoWHjhA__&Key-Pair-Id=KMHN1LQ1HEUPL
 
-#EXTINF:-1 tvg-id="" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E05
+#EXTINF:-1 tvg-id="BeastGamesS01E01" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E05
 https://macdn.hakunaymatata.com/resource/7f6e831889151adb1a66cfff4b198064.mp4?Expires=1738892444&Signature=668cSu3nLdIBU03q7bCnalETJCnnsh1iDs-a-4zwmrADT~kNZiDcWjQ-EiOgHzc2XUxZj43KeugSErbbZwbqZaFythq5kOra~8-acVS0zwWND8allxKLg8oYzNf6H3fgKTl7sgtRMh0md42GKn-Fe2FEuWtZ3TKdE6JqRqJBw4EvUu4bvdz265AasoaBDr27lkJOd4YHfq9fiMmCi-jGX0kNGzcTDA4IAsBox7BxRZnRMUgOgIMnuGUX5XKlPU3A5IRwi-2CcWQaBB7f8KwLejezIiKZzEtJxZMg4sSZFBmNAbIJxzhfzuyTIMSOPVozVcNbdNrx0rOaiqMUzxoWTQ__&Key-Pair-Id=KMHN1LQ1HEUPL
 
-#EXTINF:-1 tvg-id="" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E06
+#EXTINF:-1 tvg-id="BeastGamesS01E01" tvg-name="Beast Games S01 E01" tvg-logo="https://i.ibb.co.com/jwBW2JL/Beast-Games-Poster.jpg" group-title="WEB SERIES COLLECTION",Beast Games S01 E06
 https://macdn.hakunaymatata.com/resource/f4d9a2eb37bc9906b9c461e3d17d13aa.mp4?Expires=1738894994&Signature=v5qBmmXezsZ74VXRoqibMxE6cSXBihsClSzSEPhDn8a6me-k4moOdNwglMOJ7h~bkP7Bk~F1G~7N7cnE9zeKCsybQ1J3u6J2O-koTPCSQeOkqRNdrBVM214GDOIDC~YIiZx6U4eXbbgVUN-mQ8TQdGmmyhsgDOh8mFrJrHYudJaaxs47tTaHx6uTBOMtOKfrTRMPPJThhFrq3~La4g9mAAuilgqgFDfEGt1y-zWtQII8qPqZQVHZr6F9M3Mr0D7q54191k8UTlUHWHP71XhYZ6A0u63KxlQtM0fi-hGpPIzPx7xUbfXn-UZbrmx~CbuPjBUy4n7JQKgeYS2M4TZWHw__&Key-Pair-Id=KMHN1LQ1HEUPL
-
