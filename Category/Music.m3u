@@ -78,3 +78,105 @@ http://mega4k.one:8080/23004/23004/127027
 #EXTINF:-1 tvg-id="" tvg-name="Zoom *" tvg-logo="" group-title="UK India",Zoom *
 http://mega4k.one:8080/23004/23004/119060
 
+#EXTINF:-1 tvg-id="9x.jhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://watchindia.net/images/channels/marathi/9X_Jhakaas.png" group-title="Marathi",9X Jhakaas
+http://watchindia.net:8880/live/82963/72037/926.ts
+
+#EXTINF:-1 ,Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+#EXTINF:-1 ,YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,The BAYWATCH
+https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8
+
+#EXTINF:-1 ,Balle Balle
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+#EXTINF:-1 ,Saga Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="405" tvg-name="BD_Sangeet Bangali" tvg-logo="" group-title="BANGLA",BD_Sangeet Bangali
+http://starshare.live:8080/live/852963741/852963741/405.m3u8
+
+
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png" group-title="Hindi",9X Jalwa
+http://watchindia.net:8880/live/82963/72037/828.ts
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM Music" tvg-logo="https://watchindia.net/images/channels/hindi/9XM_Music.png" group-title="Hindi",9XM Music
+http://watchindia.net:8880/live/82963/72037/827.ts
+
+
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="Hindi",B4U Music
+http://watchindia.net:8880/live/82963/72037/2113.ts
+
+#EXTINF:-1 tvg-id="e24.in" tvg-name="E24" tvg-logo="https://watchindia.net/images/channels/hindi/E24.png" group-title="Hindi",E24
+http://watchindia.net:8880/live/82963/72037/829.ts
+
+
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Hindi",Kadak Hits HD
+http://watchindia.net:8880/live/82963/72037/798.ts
+#EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Hindi",Mastiii
+http://watchindia.net:8880/live/82963/72037/826.ts
+#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi",MTV Beats HD
+http://watchindia.net:8880/live/82963/72037/786.ts
+
+
+#EXTINF:-1 tvg-id="musicindia.in" tvg-name="Music India" tvg-logo="https://watchindia.net/images/channels/hindi/Music_India.png" group-title="Hindi",Music India
+http://watchindia.net:8880/live/82963/72037/2293.ts
+
+
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png" group-title="Hindi",Zoom
+http://watchindia.net:8880/live/82963/72037/842.ts
+
+
+
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-chno="183" group-title="Music",B4U Music
+https://mycdn.tamilultratv.com/live.m3u8?id=183
+
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-chno="250" group-title="Music",Music India
+https://mycdn.tamilultratv.com/live.m3u8?id=250
+
+
+
+#EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" tvg-chno="440" group-title="Music",9X Jalwa
+https://mycdn.tamilultratv.com/live.m3u8?id=440
+#EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" tvg-chno="441" group-title="Music",9x Jhakaas
+https://mycdn.tamilultratv.com/live.m3u8?id=441
+#EXTINF:-1 tvg-id="584" tvg-name="Mastiii" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png" tvg-chno="584" group-title="Music",Mastiii
+https://mycdn.tamilultratv.com/live.m3u8?id=584
+
+#EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-chno="592" group-title="Music",ZOOM
+https://mycdn.tamilultratv.com/live.m3u8?id=592
+
+#EXTINF:-1 tvg-id="740" tvg-name="Sangeet Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" tvg-chno="740" group-title="Music",Sangeet Bangla
+https://mycdn.tamilultratv.com/live.m3u8?id=740
+
+
+#EXTINF:-1 tvg-id="753" tvg-name="MTV Beats HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" tvg-chno="753" group-title="Music",MTV Beats HD
+https://mycdn.tamilultratv.com/live.m3u8?id=753
+
+#EXTINF:-1 tvg-id="2065" tvg-name="Saregama Music" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" tvg-chno="2065" group-title="Music",Saregama Music
+https://mycdn.tamilultratv.com/live.m3u8?id=2065
+
+#EXTINF:-1 tvg-id="2745" tvg-name="Saregama Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Telugu.png" tvg-chno="2745" group-title="Music",Saregama Telugu
+https://mycdn.tamilultratv.com/live.m3u8?id=2745
+
+
+#EXTINF:-1 tvg-id="2752" tvg-name="Ghaint Punjab" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ghaint_Punjab.png" tvg-chno="2752" group-title="Music",Ghaint Punjab
+https://mycdn.tamilultratv.com/live.m3u8?id=2752
+
+
+#EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-chno="2753" group-title="Music",YRF Music
+https://mycdn.tamilultratv.com/live.m3u8?id=2753
+
+#EXTINF:-1 tvg-id="3006" tvg-name="Dhoom Music Bangla" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png" tvg-chno="3006" group-title="Music",Dhoom Music Bangla
+https://mycdn.tamilultratv.com/live.m3u8?id=3006
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png",AB MASTI III
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png",YRF MUSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV.png",V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Entertainment",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+

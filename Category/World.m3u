@@ -41,3 +41,105 @@ http://mega4k.one:8080/23004/23004/74536
 #EXTINF:-1 tvg-id="" tvg-name="UK: Investigation Discovery (ID)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" group-title="ASIA UK MIX",UK: Investigation Discovery (ID)
 http://mega4k.one:8080/23004/23004/88269
 
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/discovery.png", Discovery Hindi
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/164.ts
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSuvvjyBkV7gROSbjyblBMSd2JHmFPhMb9tRdKIeWgi-jiFyrtWiiZNo&s=10", Discovery Science
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/166.ts
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwo22A-pPDJiH4PPJ5ugo5qZ19vGjkDwjgA&s", Investigation Discovery
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/4227.ts
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/nationalgeo.png", National Geographic
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/125057.ts
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/natgeo.png", National Geographic Wild
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/177.ts
+
+#EXTINF:-1 ,ANIMAX
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="406" tvg-name="BD_Discovery_Channel_Bengali" tvg-logo="" group-title="BANGLA",BD_Discovery_Channel_Bengali
+http://starshare.live:8080/live/852963741/852963741/406.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="Documentary",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentary",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-name="DISCOVERY LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Documentary",DISCOVERY LIFE
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Discovery Science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="Documentary",Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" group-title="Documentary",LOVE NATURE
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary",National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Documentary",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 group-title="Information",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="Information" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" tvg-chno="242" group-title="Infotainment",Discovery
+https://mycdn.tamilultratv.com/live.m3u8?id=242
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" tvg-chno="286" group-title="Infotainment",Animal Planet HD World
+https://mycdn.tamilultratv.com/live.m3u8?id=286
+
+
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-chno="463" group-title="Infotainment",Discovery HD World
+https://mycdn.tamilultratv.com/live.m3u8?id=463
+#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-chno="541" group-title="Infotainment",Discovery Turbo
+https://mycdn.tamilultratv.com/live.m3u8?id=541
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" tvg-chno="566" group-title="Infotainment",Animal Planet Hindi
+https://mycdn.tamilultratv.com/live.m3u8?id=566
+
+#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet English" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Eng.png" tvg-chno="567" group-title="Infotainment",Animal Planet English
+https://mycdn.tamilultratv.com/live.m3u8?id=567
+#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-chno="568" group-title="Infotainment",Discovery Science
+https://mycdn.tamilultratv.com/live.m3u8?id=568
+
+
+#EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-chno="573" group-title="Infotainment",Discovery Bengali
+https://mycdn.tamilultratv.com/live.m3u8?id=573
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" tvg-chno="575" group-title="Infotainment",Discovery Hindi
+https://mycdn.tamilultratv.com/live.m3u8?id=575
+
+
+
+#EXTINF:-1 tvg-id="2437" tvg-name="Wild Earth" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" tvg-chno="2437" group-title="Infotainment",Wild Earth
+https://mycdn.tamilultratv.com/live.m3u8?id=2437
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="USA Network",Animal Planet
+http://watchindia.net:8880/live/82963/72037/2039.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title="USA Network",Discovery Channel
+http://watchindia.net:8880/live/82963/72037/2036.ts
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="Discovery Life" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Life.png" group-title="USA Network",Discovery Life
+http://watchindia.net:8880/live/82963/72037/2124.ts
+
+
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild" tvg-logo="http://watchindia.net/images/channels/usa/NAT_GEO_Wild.png" group-title="USA Network",Nat Geo Wild
+http://watchindia.net:8880/live/82963/72037/2047.ts
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="USA Network",National Geographic
+http://watchindia.net:8880/live/82963/72037/2037.ts
+
+
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="Sony BBC Earth HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" group-title="Hindi",Sony BBC Earth HD
+http://watchindia.net:8880/live/82963/72037/789.ts
+
+
+#EXTINF:-1 tvg-id="discovery.in" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="Hindi",Discovery Channel Hindi
+http://watchindia.net:8880/live/82963/72037/841.ts
+

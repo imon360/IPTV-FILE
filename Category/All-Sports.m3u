@@ -137,3 +137,22 @@ http://mega4k.one:8080/23004/23004/97304
 http://mega4k.one:8080/23004/23004/97305
 #EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 3 ᶠᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/ssc-sa.png" group-title="SSC Sports",SSC-EXTRA 3 ᶠᴴᴰ
 http://mega4k.one:8080/23004/23004/97306
+
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://watchindia.net/images/channels/usa/ESPN.png" group-title="USA Network",ESPN
+http://watchindia.net:8880/live/82963/72037/2161.ts
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://watchindia.net/images/channels/usa/ESPN2.png" group-title="USA Network",ESPN2
+http://watchindia.net:8880/live/82963/72037/2307.ts
+
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" group-title="USA Network",NBA TV
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="NBC Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/NBC_Sports.png" group-title="USA Network",NBC Sports Network
+http://watchindia.net:8880/live/82963/72037/2266.ts
+
+
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="NewsNation" tvg-logo="http://watchindia.net/images/channels/usa/NewsNation.png" group-title="USA Network",NewsNation
+http://watchindia.net:8880/live/82963/72037/2509.ts
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="http://watchindia.net/images/channels/usa/NFL_Network.png" group-title="USA Network",NFL Network
+http://watchindia.net:8880/live/82963/72037/2165.ts
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL RedZone" tvg-logo="https://watchindia.net/images/channels/usa/NFL_RedZone.png" group-title="USA Network",NFL RedZone
+http://watchindia.net:8880/live/82963/72037/2160.ts
+

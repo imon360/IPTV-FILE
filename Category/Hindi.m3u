@@ -125,3 +125,69 @@ http://watchindia.net:8880/live/82963/72037/1969.ts
 http://watchindia.net:8880/live/82963/72037/2141.ts
 #EXTINF:-1 tvg-id="sonytv.uk" tvg-name="Sony TV UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="Hindi",Sony TV UK
 http://watchindia.net:8880/live/82963/72037/2117.ts
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colors.jpg", Colors
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/160.ts
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/217.ts
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png", Sony Sab
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/191.ts
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlV9XWJCyWa4-fd46JwqZdJKWHHUPVMkEi2gtOKC2kbsOULNJC0P4lIao&s=10", And TV
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/140.ts
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonyent.png", Set HD
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/193.ts
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starplus.png", Star Plus
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/200.ts
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/stargold.png", Star Gold
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/196.ts
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png", Colors Infinity
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/157.ts
+
+
+
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Hindi",Sony Sab HD
+http://watchindia.net:8880/live/82963/72037/2323.ts
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="Sony Sab UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="Hindi",Sony Sab UK
+http://watchindia.net:8880/live/82963/72037/2189.ts
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="Hindi",Sony Pal
+http://watchindia.net:8880/live/82963/72037/812.ts
+
+
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="Hindi",Star Bharat HD
+http://watchindia.net:8880/live/82963/72037/780.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
+http://watchindia.net:8880/live/82963/72037/785.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Hindi",Star Gold Select HD
+http://watchindia.net:8880/live/82963/72037/784.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="Hindi",Star Plus HD
+http://watchindia.net:8880/live/82963/72037/1924.ts
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Utsav.png" group-title="Hindi",Star Utsav
+http://watchindia.net:8880/live/82963/72037/2493.ts
+
+
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="Hindi",Zee Cinema HD
+http://watchindia.net:8880/live/82963/72037/787.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="Hindi",Zee Classic
+http://watchindia.net:8880/live/82963/72037/802.ts
+
+
+#EXTINF:-1 tvg-id="peacetv.in" tvg-name="Peace TV" tvg-logo="" group-title="Urdu",Peace TV
+http://watchindia.net:8880/live/82963/72037/1063.ts
+
+
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-chno="1763" group-title="Movies",Colors Cineplex Bollywood
+https://mycdn.tamilultratv.com/live.m3u8?id=1763
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-chno="144" group-title="Entertainment",Colors HD
+https://mycdn.tamilultratv.com/live.m3u8?id=144
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-chno="154" group-title="Entertainment",Sony SAB
+https://mycdn.tamilultratv.com/live.m3u8?id=154
+
+
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-chno="291" group-title="Entertainment",SET HD
+https://mycdn.tamilultratv.com/live.m3u8?id=291
+
+
