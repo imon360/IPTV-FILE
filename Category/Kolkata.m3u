@@ -14,7 +14,7 @@ http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" tvg-logo="http://172.20.3.1/assets/images/Sun%20Bangla1664976074.png" group-title="KOLKATA - কলকাতা",Sun Bangla
 http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD" tvg-logo="http://172.20.3.1/assets/images/Zee%20Bangla1664976875.png" group-title="KOLKATA - কলকাতা",Zee Bangla HD
+#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD FTP" tvg-logo="http://172.20.3.1/assets/images/Zee%20Bangla1664976875.png" group-title="KOLKATA - কলকাতা",Zee Bangla HD FTP
 http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarJalshaHD" tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/w7MSMxb/starjalsahd.png" group-title="KOLKATA - কলকাতা",Star Jalsha HD
@@ -219,3 +219,6 @@ https://mycdn.tamilultratv.com/live.m3u8?id=1657
 
 #EXTINF:-1 tvg-id="Enterr10" tvg-name="Enterr 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="KOLKATA - কলকাতা",Enterr 10
 https://mycdn.tamilultratv.com/live.m3u8?id=485
+
+#EXTINF:-1 tvg-id="BD-loc:AakaashBangla" tvg-name="Aakash 8" tvg-logo="" group-title="KOLKATA - কলকাতা",Aakash 8
+http://mega4k.one:8080/23004/23004/131995
