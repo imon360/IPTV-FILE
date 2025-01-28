@@ -154,3 +154,9 @@ http://watchindia.net:8880/live/82963/72037/789.ts
 
 #EXTINF:-1 tvg-id="DiscoveryChannelHindi" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="WORLD - বিশ্ব",Discovery Channel Hindi
 http://watchindia.net:8880/live/82963/72037/841.ts
+
+#EXTINF:-1 tvg-id="BD:GaanBangla" tvg-name="Discovery Turbo" tvg-logo="" group-title="BANGLA - বাংলা",Discovery Turbo
+http://starshare.live:8080/live/852963741/852963741/3807.m3u8
+
+#EXTINF:-1 tvg-id="BD:GaanBangla" tvg-name="Discovery Turbo" tvg-logo="" group-title="BANGLA - বাংলা",Discovery Turbo
+http://starshare.live:8080/live/852963741/852963741/3812.m3u8

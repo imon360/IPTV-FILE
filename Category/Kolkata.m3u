@@ -222,3 +222,6 @@ https://mycdn.tamilultratv.com/live.m3u8?id=485
 
 #EXTINF:-1 tvg-id="BD-loc:AakaashBangla" tvg-name="Aakash 8" tvg-logo="" group-title="KOLKATA - কলকাতা",Aakash 8
 http://mega4k.one:8080/23004/23004/131995
+
+#EXTINF:-1 tvg-id="BD-loc:colorsbanglahd" tvg-name="Colors Bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",Colors Bangla HD
+http://mega4k.one:8080/23004/23004/132012
