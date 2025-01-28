@@ -43,7 +43,7 @@ https://bit.ly/IH-IPTV-Movies
 - ENTERTAINMENT - বিনোদন
 
 ```bash
-https://bit.ly/IH-IPTV-Entertainment
+https://bit.ly/IH-IPTV-Entertainments
 ```
 
 - KIDS - কার্টুন

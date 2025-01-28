@@ -184,3 +184,6 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVLive" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="MUSIC - গান",MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="BD-loc:sangeetbangla" tvg-name="BD-loc: sangeet bangla" tvg-logo="" group-title="BANGLA - বাংলা",BD-loc: sangeet bangla
+http://mega4k.one:8080/23004/23004/132034
