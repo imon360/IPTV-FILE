@@ -5,11 +5,10 @@ https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOLKATA - কলকাতা",
 
-#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha" tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA - কলকাতা",Star Jalsha
+#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha BDIX" tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA - কলকাতা",Star Jalsha
 http://172.20.3.1:81/StarJalsha/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" tvg-logo="http://172.20.3.1/assets/images/Star%20Plus1667751169.png" group-title="KOLKATA - কলকাতা",Star Plus
-http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" tvg-logo="http://172.20.3.1/assets/images/Sun%20Bangla1664976074.png" group-title="KOLKATA - কলকাতা",Sun Bangla
 http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8

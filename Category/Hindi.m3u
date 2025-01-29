@@ -5,6 +5,9 @@ https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HINDI - হিন্দি",
 
+#EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus BDIX" tvg-logo="http://172.20.3.1/assets/images/Star%20Plus1667751169.png" group-title="KOLKATA - কলকাতা",Star Plus
+http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="SonyMAXHD" tvg-name="Sony MAX HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20Max%20HD1667728133.png" group-title="HINDI - হিন্দি",Sony MAX HD
 http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 
