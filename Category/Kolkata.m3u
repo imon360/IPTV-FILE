@@ -3,69 +3,52 @@
 #EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="KOLKATA - কলকাতা",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOLKATA - কলকাতা",
-
 #EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha BDIX" tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA - কলকাতা",Star Jalsha
 http://172.20.3.1:81/StarJalsha/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" tvg-logo="http://172.20.3.1/assets/images/Sun%20Bangla1664976074.png" group-title="KOLKATA - কলকাতা",Sun Bangla
-http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD FTP" tvg-logo="http://172.20.3.1/assets/images/Zee%20Bangla1664976875.png" group-title="KOLKATA - কলকাতা",Zee Bangla HD FTP
-http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="StarJalshaHD" tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/w7MSMxb/starjalsahd.png" group-title="KOLKATA - কলকাতা",Star Jalsha HD
+#EXTINF:-1 tvg-id="StarJalshaHD" tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/bzDhHLm/Star-Jalsha.png" group-title="KOLKATA - কলকাতা",Star Jalsha HD
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
 
-#EXTINF:-1 tvg-id="ColorsBanglaHD" tvg-name="Colors Bangla HD" tvg-logo="https://i.ibb.co.com/3hVp5rv/Colorsb-NGLAHD3.png" group-title="KOLKATA - কলকাতা",Colors Bangla HD
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8?hdnts=
-
-#EXTINF:-1 tvg-id="BD-loc:colorsbanglahd" tvg-name="BD-loc: colors bangla hd" tvg-logo="" group-title="KOLKATA - কলকাতা",BD-loc: colors bangla hd
-http://mega4k.one:8080/23004/23004/132012
-
-#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr 10 Bangla" tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="KOLKATA - কলকাতা",Interr 10 Bangla
-http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr10 Bangla" tvg-logo="https://i.ibb.co.com/GxR2Gnf/1000010334.png" group-title="KOLKATA - কলকাতা",Interr10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Enterr10Bangla" tvg-name="Enterr 10 Bangla" tvg-logo="https://i.ibb.co.com/GxR2Gnf/1000010334.png" group-title="KOLKATA - কলকাতা",Enterr 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Akash8" tvg-name="Akash 8" tvg-logo="https://i.ibb.co.com/ctrZPGV/1000010587.png" group-title="KOLKATA - কলকাতা",Akash 8
-https://mycdn.tamilultratv.com/live.m3u8?chunks=fde70923a5f003591dbf855be5c8b32896a837e7d73a963acface3ba870abed3b66af2b20c189f248ef66cae9036be6075682721b6bbbcf8f7175b42270125821f36abdb6899d0f8f3a7d6269690047d3b7b3ea7345ae814dcfc45e27422cebe4a7cdc278e4627a7c8479c8e520a693f76219abf451249b195e6306a5a23a2292f66f18d7aaff60523a2d973967391bf691a63d0ce7c8f249c85dc84fcb86ca7b92e7b0a9c574a20246bd17cc6e601d597031cd65029ae944f36235216dd8fb5a9f6d4f1b8954129a0a1285042cdd3339414886e094294a4a5c377a46a743f39b629e518d155444753b0a511d9527ced609621cb3bb0dbce6ae3cc183d55b248&vtoken=
-
-#EXTINF:-1 tvg-id="ColorsBanglaFHD1080" tvg-name="Colors Bangla FHD 1080" tvg-logo="" group-title="KOLKATA - কলকাতা",Colors Bangla FHD 1080
-http://mega4k.one:8080/23004/23004/131981
-
-#EXTINF:-1 tvg-id="IND-Bangla:ColorsBanglaHD" tvg-name="IND-Bangla: Colors Bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: Colors Bangla HD
-http://mega4k.one:8080/23004/23004/131982
-
-#EXTINF:-1 tvg-id="IND-Bangla:JalsaMoviesHD" tvg-name="IND-Bangla: Jalsa Movies HD" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: Jalsa Movies HD
-http://mega4k.one:8080/23004/23004/131983
-
-#EXTINF:-1 tvg-id="IND-Bangla:StarJalsaHD" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: Star Jalsa HD
+#EXTINF:-1 tvg-id="StarJalshaHD" tvg-name="Star Jalsha HD" tvg-logo="https://i.ibb.co.com/bzDhHLm/Star-Jalsha.png" group-title="KOLKATA - কলকাতা",Star Jalsha HD
 http://mega4k.one:8080/23004/23004/131984
 
-#EXTINF:-1 tvg-id="IND-Bangla:SUNBangla" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: SUN Bangla
-http://mega4k.one:8080/23004/23004/131985
-
-#EXTINF:-1 tvg-id="IND-Bangla:ZeeBanglaCinema" tvg-name="IND-Bangla: Zee Bangla Cinema" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: Zee Bangla Cinema
-http://mega4k.one:8080/23004/23004/131986
-
-#EXTINF:-1 tvg-id="IND-Bangla:ZeeBanglaHD" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: Zee Bangla HD
-http://mega4k.one:8080/23004/23004/131987
-
-#EXTINF:-1 tvg-id="IND-Bangla:ZEE_BANGLA_CINE" tvg-name="IND-Bangla: ZEE_BANGLA_CINE" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: ZEE_BANGLA_CINE
-http://mega4k.one:8080/23004/23004/131988
 
 #EXTINF:-1 tvg-id="STARJALSA" tvg-name="STAR JALSA" tvg-logo="https://i.ibb.co.com/jhFssnZ/AEn0k-u-I7-L4-W9a-DYq-HDD0-SYfa4-X2-U7-JHk-ICu-Ajj-Blr-s-Ppo-Nsmh2-Sb-X8w-hi-Nr-TV35-Aa-EWvjuchr-Ey8.png" group-title="KOLKATA - কলকাতা",STAR JALSA
 http://mega4k.one:8080/23004/23004/131989
 
-#EXTINF:-1 tvg-id="BD-loc:StarJalshaMovie" tvg-name="BD-loc: StarJalshaMovie" tvg-logo="" group-title="KOLKATA - কলকাতা",BD-loc: StarJalshaMovie
-http://mega4k.one:8080/23004/23004/131990
+#EXTINF:-1 group-title="KOLKATA - কলকাতা" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",jalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="StarJalshaHD" tvg-name="Star Jalsha HD" tvg-logo="https://watchindia.net/images/channels/bengali/Star_Jalsha_HD.png" group-title="KOLKATA - কলকাতা",Star Jalsha HD
+http://watchindia.net:8880/live/82963/72037/2281.ts
+
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="KOLKATA - কলকাতা", Star Jalsha
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/116.ts
+
+
+#EXTINF:-1 tvg-id="BD:StarJalsha(FHD)" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/340?cb=20190224050806" group-title="KOLKATA - কলকাতা",BD: Star Jalsha (FHD)
+http://starshare.live:8080/live/852963741/852963741/23218.m3u8
+
+#EXTINF:-1 tvg-id="BD:StarJalsaHD" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="KOLKATA - কলকাতা",BD : Star Jalsa HD
+http://starshare.live:8080/live/852963741/852963741/198.m3u8
+
+
+#EXTINF:-1 tvg-id="BD:StarJalsa(HD)" tvg-name="BD: Star Jalsa (HD)" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: Star Jalsa (HD)
+http://starshare.live:8080/live/852963741/852963741/8540.m3u8
+
+#EXTINF:-1 tvg-id="BD:STARJALSHA(4K)." tvg-name="BD: STAR JALSHA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD: STAR JALSHA (4K).
+http://starshare.live:8080/live/852963741/852963741/98883.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD BDIX" tvg-logo="http://172.20.3.1/assets/images/Zee%20Bangla1664976875.png" group-title="KOLKATA - কলকাতা",Zee Bangla HD FTP
+http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD" tvg-logo="https://watchindia.net/images/channels/bengali/Zee_Bangla_HD.png" group-title="KOLKATA - কলকাতা",Zee Bangla HD
+http://watchindia.net:8880/live/82963/72037/2283.ts
+
+
+#EXTINF:-1 tvg-id="IND-Bangla:ZeeBanglaHD" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",IND-Bangla: Zee Bangla HD
+http://mega4k.one:8080/23004/23004/131987
 
 #EXTINF:-1 tvg-id="UK:ZeeBangla" tvg-name="UK: Zee Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-s-uk.png" group-title="KOLKATA - কলকাতা",UK: Zee Bangla
 http://mega4k.one:8080/23004/23004/88258
@@ -73,134 +56,58 @@ http://mega4k.one:8080/23004/23004/88258
 #EXTINF:-1 tvg-id="UK:ZeeBangla" tvg-name="UK: Zee Bangla" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-bangla-in.png" group-title="KOLKATA - কলকাতা",UK: Zee Bangla
 http://mega4k.one:8080/23004/23004/88284
 
-#EXTINF:-1 group-title="KOLKATA - কলকাতা" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",jalsha
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="AakashAath" tvg-name="Aakash Aath" tvg-logo="https://watchindia.net/images/channels/bengali/Aakash_Aath.png" group-title="KOLKATA - কলকাতা",Aakash Aath
-http://watchindia.net:8880/live/82963/72037/2295.ts
-
-#EXTINF:-1 tvg-id="ABPAnanda" tvg-name="ABP Ananda" tvg-logo="https://watchindia.net/images/channels/bengali/ABP_Ananda.png" group-title="KOLKATA - কলকাতা",ABP Ananda
-http://watchindia.net:8880/live/82963/72037/2285.ts
-
-#EXTINF:-1 tvg-id="ColorsBanglaHD" tvg-name="Colors Bangla HD" tvg-logo="https://watchindia.net/images/channels/bengali/Colors_Bangla_HD.png" group-title="KOLKATA - কলকাতা",Colors Bangla HD
-http://watchindia.net:8880/live/82963/72037/2284.ts
-
-#EXTINF:-1 tvg-id="DhoomMusic" tvg-name="Dhoom Music" tvg-logo="https://watchindia.net/images/channels/bengali/Dhoom_Music.png" group-title="KOLKATA - কলকাতা",Dhoom Music
-http://watchindia.net:8880/live/82963/72037/2289.ts
-
-#EXTINF:-1 tvg-id="JalshaMovies" tvg-name="Jalsha Movies" tvg-logo="https://watchindia.net/images/channels/bengali/Jalsha_Movies.png" group-title="KOLKATA - কলকাতা",Jalsha Movies
-http://watchindia.net:8880/live/82963/72037/2282.ts
-
-#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" tvg-logo="https://watchindia.net/images/channels/bengali/Sangeet_Bangla.png" group-title="KOLKATA - কলকাতা",Sangeet Bangla
-http://watchindia.net:8880/live/82963/72037/2288.ts
-
-#EXTINF:-1 tvg-id="SonyAath" tvg-name="Sony Aath" tvg-logo="https://watchindia.net/images/channels/bengali/Sony_Aath.png" group-title="KOLKATA - কলকাতা",Sony Aath
-http://watchindia.net:8880/live/82963/72037/2286.ts
-
-#EXTINF:-1 tvg-id="StarJalshaHD" tvg-name="Star Jalsha HD" tvg-logo="https://watchindia.net/images/channels/bengali/Star_Jalsha_HD.png" group-title="KOLKATA - কলকাতা",Star Jalsha HD
-http://watchindia.net:8880/live/82963/72037/2281.ts
-
-#EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" tvg-logo="https://watchindia.net/images/channels/bengali/ABP_Ananda.png" group-title="KOLKATA - কলকাতা",Sun Bangla
-http://watchindia.net:8880/live/82963/72037/2290.ts
-
-#EXTINF:-1 tvg-id="ZeeBanglaCinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://watchindia.net/images/channels/bengali/Zee_Bangla_Cinema.png" group-title="KOLKATA - কলকাতা",Zee Bangla Cinema
-http://watchindia.net:8880/live/82963/72037/2287.ts
-
-#EXTINF:-1 tvg-id="ZeeBanglaHD" tvg-name="Zee Bangla HD" tvg-logo="https://watchindia.net/images/channels/bengali/Zee_Bangla_HD.png" group-title="KOLKATA - কলকাতা",Zee Bangla HD
-http://watchindia.net:8880/live/82963/72037/2283.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="KOLKATA - কলকাতা", Star Jalsha
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/116.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="KOLKATA - কলকাতা", Colors Bangla
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/92.ts
-
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="KOLKATA - কলকাতা", Zee Bangla
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/120.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonyath.png" group-title="KOLKATA - কলকাতা", Sony Aath
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/44150.ts
-
-#EXTINF:-1 group-title="KOLKATA - কলকাতা",colorsbanglahd
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="BD:ColorBanglaCinema" tvg-name="BD: Color Bangla Cinema" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: Color Bangla Cinema
-http://starshare.live:8080/live/852963741/852963741/271038.m3u8
-
-#EXTINF:-1 tvg-id="BD:STARJALSHAMOVIESFHD" tvg-name="BD: STAR JALSHA MOVIES FHD" tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="KOLKATA - কলকাতা",BD: STAR JALSHA MOVIES FHD
-http://starshare.live:8080/live/852963741/852963741/425.m3u8
-
-#EXTINF:-1 tvg-id="BD:SUNBangla(4K)" tvg-name="BD : SUN Bangla (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD : SUN Bangla (4K)
-http://starshare.live:8080/live/852963741/852963741/3753.m3u8
-
-#EXTINF:-1 tvg-id="IN:SONYAath" tvg-name="IN: SONY Aath" tvg-logo="" group-title="KOLKATA - কলকাতা",IN: SONY Aath
-http://starshare.live:8080/live/852963741/852963741/4083.m3u8
-
-#EXTINF:-1 tvg-id="IN:TravelxpHD(BANGLA)" tvg-name="IN: Travelxp HD (BANGLA)" tvg-logo="" group-title="KOLKATA - কলকাতা",IN: Travelxp HD (BANGLA)
-
-http://starshare.live:8080/live/852963741/852963741/20622.m3u8
-
-#EXTINF:-1 tvg-id="BD:StarJalsha(FHD)" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/340?cb=20190224050806" group-title="KOLKATA - কলকাতা",BD: Star Jalsha (FHD)
-http://starshare.live:8080/live/852963741/852963741/23218.m3u8
-
-#EXTINF:-1 tvg-id="BD:JALSHAMOVIES(FHD)" tvg-name="BD: JALSHA MOVIES (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/340?cb=20190806073703" group-title="KOLKATA - কলকাতা",BD: JALSHA MOVIES (FHD)
-http://starshare.live:8080/live/852963741/852963741/23304.m3u8
 
 #EXTINF:-1 tvg-id="BD:ZEEBANGLA(FHD)" tvg-name="BD: ZEE BANGLA (FHD)" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: ZEE BANGLA (FHD)
 http://starshare.live:8080/live/852963741/852963741/23305.m3u8
 
-#EXTINF:-1 tvg-id="BD:COLORSBANGLA(FHD)" tvg-name="BD: COLORS BANGLA (FHD)" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: COLORS BANGLA (FHD)
-http://starshare.live:8080/live/852963741/852963741/23306.m3u8
-
-#EXTINF:-1 tvg-id="BD:ZEEBANGLACINEMA" tvg-name="BD: ZEE BANGLA CINEMA" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: ZEE BANGLA CINEMA
-http://starshare.live:8080/live/852963741/852963741/49615.m3u8
-
-#EXTINF:-1 tvg-id="IN:Colors_Bengali_HD" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://thumbnail.imgbin.com/20/15/16/imgbin-colors-bangla-bengali-television-show-television-channel-nepalis-mMkyqFccg0kQacbaxGNmpXFFv_t.jpg" group-title="KOLKATA - কলকাতা",IN: Colors_Bengali_HD
-http://starshare.live:8080/live/852963741/852963741/183.m3u8
-
-#EXTINF:-1 tvg-id="BD:StarJalsaHD" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="KOLKATA - কলকাতা",BD : Star Jalsa HD
-http://starshare.live:8080/live/852963741/852963741/198.m3u8
-
-#EXTINF:-1 tvg-id="BD_AakaashAath" tvg-name="BD_Aakaash Aath" tvg-logo="" group-title="KOLKATA - কলকাতা",BD_Aakaash Aath
-http://starshare.live:8080/live/852963741/852963741/396.m3u8
-
-http://starshare.live:8080/live/852963741/852963741/408.m3u8
-
-#EXTINF:-1 tvg-id="BD_Rupashibangla" tvg-name="BD_Rupashi bangla" tvg-logo="" group-title="KOLKATA - কলকাতা",BD_Rupashi bangla
-http://starshare.live:8080/live/852963741/852963741/409.m3u8
-
-#EXTINF:-1 tvg-id="BD_ZEECINMEABangali" tvg-name="BD_ZEE CINMEA Bangali" tvg-logo="" group-title="KOLKATA - কলকাতা",BD_ZEE CINMEA Bangali
-http://starshare.live:8080/live/852963741/852963741/410.m3u8
-
 #EXTINF:-1 tvg-id="BD:ZEEBANGLAHD" tvg-name="BD: ZEE BANGLA HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="KOLKATA - কলকাতা",BD: ZEE BANGLA HD
 http://starshare.live:8080/live/852963741/852963741/435.m3u8
-
-#EXTINF:-1 tvg-id="BD:enter10banglaHD" tvg-name="BD: enter 10 bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: enter 10 bangla HD
-http://starshare.live:8080/live/852963741/852963741/3801.m3u8
-
-#EXTINF:-1 tvg-id="BD:KHUSHBOOTVHD" tvg-name="BD : KHUSHBOO TV HD" tvg-logo="" group-title="KOLKATA - কলকাতা",BD : KHUSHBOO TV HD
-http://starshare.live:8080/live/852963741/852963741/3808.m3u8
-
-#EXTINF:-1 tvg-id="BD:StarJalsa(HD)" tvg-name="BD: Star Jalsa (HD)" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: Star Jalsa (HD)
-http://starshare.live:8080/live/852963741/852963741/8540.m3u8
-
-#EXTINF:-1 tvg-id="BD:ABPAnanda" tvg-name="BD: ABP Ananda" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: ABP Ananda
-http://starshare.live:8080/live/852963741/852963741/5436.m3u8
-
-#EXTINF:-1 tvg-id="BD:Zee24Ghanta" tvg-name="BD: Zee24Ghanta" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: Zee24Ghanta
-http://starshare.live:8080/live/852963741/852963741/144510.m3u8
 
 #EXTINF:-1 tvg-id="BD:ZEEBANGLA(4K)." tvg-name="BD: ZEE BANGLA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD: ZEE BANGLA (4K).
 http://starshare.live:8080/live/852963741/852963741/98881.m3u8
 
+
+#EXTINF:-1 tvg-id="ColorsBanglaHD" tvg-name="Colors Bangla HD" tvg-logo="https://i.ibb.co.com/hdGsVc6/color-bangla-hd.png" group-title="KOLKATA - কলকাতা",Colors Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8?hdnts=
+
+#EXTINF:-1 tvg-id="ColorsBanglaHD" tvg-name="Colors Bangla HD" tvg-logo="https://i.ibb.co.com/hdGsVc6/color-bangla-hd.png" group-title="KOLKATA - কলকাতা",Colors Bangla HD
+http://mega4k.one:8080/23004/23004/132012
+
+#EXTINF:-1 tvg-id="ColorsBanglaHD" tvg-name="Colors Bangla HD" tvg-logo="https://watchindia.net/images/channels/bengali/Colors_Bangla_HD.png" group-title="KOLKATA - কলকাতা",Colors Bangla HD
+http://watchindia.net:8880/live/82963/72037/2284.ts
+
+#EXTINF:-1 tvg-id="ColorsBanglaHD" tvg-name="Colors Bangla HD" tvg-logo="https://i.ibb.co.com/hdGsVc6/color-bangla-hd.png" group-title="KOLKATA - কলকাতা",Colors Bangla HD
+http://mega4k.one:8080/23004/23004/131981
+
+#EXTINF:-1 tvg-id="ColorsBanglaHD" tvg-name="Colors Bangla HD" tvg-logo="https://i.ibb.co.com/hdGsVc6/color-bangla-hd.png" group-title="KOLKATA - কলকাতা",Colors Bangla HD
+http://mega4k.one:8080/23004/23004/131982
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="KOLKATA - কলকাতা", Colors Bangla
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/92.ts
+
+#EXTINF:-1 group-title="KOLKATA - কলকাতা",colorsbanglahd
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BD:COLORSBANGLA(FHD)" tvg-name="BD: COLORS BANGLA (FHD)" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: COLORS BANGLA (FHD)
+http://starshare.live:8080/live/852963741/852963741/23306.m3u8
+#EXTINF:-1 tvg-id="IN:Colors_Bengali_HD" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://thumbnail.imgbin.com/20/15/16/imgbin-colors-bangla-bengali-television-show-television-channel-nepalis-mMkyqFccg0kQacbaxGNmpXFFv_t.jpg" group-title="KOLKATA - কলকাতা",IN: Colors_Bengali_HD
+http://starshare.live:8080/live/852963741/852963741/183.m3u8
+
+#EXTINF:-1 tvg-id="BD-loc:colorsbanglahd" tvg-name="Colors Bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",Colors Bangla HD
+http://mega4k.one:8080/23004/23004/132012
+
 #EXTINF:-1 tvg-id="BD:COLORSBANGLA(4K)." tvg-name="BD: COLORS BANGLA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD: COLORS BANGLA (4K).
 http://starshare.live:8080/live/852963741/852963741/98882.m3u8
 
-#EXTINF:-1 tvg-id="BD:STARJALSHA(4K)." tvg-name="BD: STAR JALSHA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD: STAR JALSHA (4K).
-http://starshare.live:8080/live/852963741/852963741/98883.m3u8
 
-#EXTINF:-1 tvg-id="BD:JALSHAMOVIES(4K)." tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD: JALSHA MOVIES (4K).
-http://starshare.live:8080/live/852963741/852963741/98884.m3u8
+#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr 10 Bangla BDIX" tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="KOLKATA - কলকাতা",Interr 10 Bangla BDIX
+http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Interr10Bangla" tvg-name="Interr 10 Bangla" tvg-logo="https://i.ibb.co.com/5BTsvr5/1000010334.png" group-title="KOLKATA - কলকাতা",Interr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 
 #EXTINF:-1 group-title="KOLKATA - কলকাতা" tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -211,16 +118,125 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="KOLKATA - কলকাতা" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg",ENTEER TEN BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
-https://mycdn.tamilultratv.com/live.m3u8?id=1633
-
-#EXTINF:-1 tvg-id="ColorsBanglaCinema" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="KOLKATA - কলকাতা",Colors Bangla Cinema
-https://mycdn.tamilultratv.com/live.m3u8?id=1657
 
 #EXTINF:-1 tvg-id="Enterr10" tvg-name="Enterr 10" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="KOLKATA - কলকাতা",Enterr 10
 https://mycdn.tamilultratv.com/live.m3u8?id=485
 
+#EXTINF:-1 tvg-id="BD:enter10banglaHD" tvg-name="BD: enter 10 bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: enter 10 bangla HD
+http://starshare.live:8080/live/852963741/852963741/3801.m3u8
+
+#EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla BDIX" tvg-logo="http://172.20.3.1/assets/images/Sun%20Bangla1664976074.png" group-title="KOLKATA - কলকাতা",Sun Bangla
+http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="IND-Bangla:SUNBangla" tvg-name="Sun Bangla" tvg-logo="https://i.ibb.co.com/MV5NqB4/Sun-Bangla.png" group-title="KOLKATA - কলকাতা",Sun Bangla
+http://mega4k.one:8080/23004/23004/131985
+
+#EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" tvg-logo="https://watchindia.net/images/channels/bengali/ABP_Ananda.png" group-title="KOLKATA - কলকাতা",Sun Bangla
+http://watchindia.net:8880/live/82963/72037/2290.ts
+
+#EXTINF:-1 tvg-id="BD:SUNBangla(4K)" tvg-name="BD : SUN Bangla (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD : SUN Bangla (4K)
+http://starshare.live:8080/live/852963741/852963741/3753.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath" tvg-name="Sony Aath" tvg-logo="https://watchindia.net/images/channels/bengali/Sony_Aath.png" group-title="KOLKATA - কলকাতা",Sony Aath
+http://watchindia.net:8880/live/82963/72037/2286.ts
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonyath.png" group-title="KOLKATA - কলকাতা", Sony Aath
+https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/44150.ts
+
+#EXTINF:-1 tvg-id="IN:SONYAath" tvg-name="IN: SONY Aath" tvg-logo="" group-title="KOLKATA - কলকাতা",IN: SONY Aath
+http://starshare.live:8080/live/852963741/852963741/4083.m3u8
+
+
+#EXTINF:-1 tvg-id="IND-Bangla:JalsaMoviesHD" tvg-name="Jalsa Movies HD" tvg-logo="https://i.ibb.co.com/4gMS0h4/Jhalsa-Movies.png" group-title="KOLKATA - কলকাতা",Jalsa Movies HD
+http://mega4k.one:8080/23004/23004/131983
+
+#EXTINF:-1 tvg-id="IND-Bangla:JalsaMoviesHD" tvg-name="Jalsa Movies" tvg-logo="https://i.ibb.co.com/4gMS0h4/Jhalsa-Movies.png" group-title="KOLKATA - কলকাতা",Jalsa Movies
+http://watchindia.net:8880/live/82963/72037/2282.ts
+
+#EXTINF:-1 tvg-id="IND-Bangla:JalsaMoviesHD" tvg-name="Jalsa Movies HD" tvg-logo="https://i.ibb.co.com/4gMS0h4/Jhalsa-Movies.png" group-title="KOLKATA - কলকাতা",Jalsa Movies HD
+http://mega4k.one:8080/23004/23004/131990
+
+#EXTINF:-1 tvg-id="BD:JALSHAMOVIES(FHD)" tvg-name="BD: JALSHA MOVIES (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/340?cb=20190806073703" group-title="KOLKATA - কলকাতা",BD: JALSHA MOVIES (FHD)
+http://starshare.live:8080/live/852963741/852963741/23304.m3u8
+
+#EXTINF:-1 tvg-id="BD:STARJALSHAMOVIESFHD" tvg-name="BD: STAR JALSHA MOVIES FHD" tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="KOLKATA - কলকাতা",BD: STAR JALSHA MOVIES FHD
+http://starshare.live:8080/live/852963741/852963741/425.m3u8
+
+#EXTINF:-1 tvg-id="BD:JALSHAMOVIES(4K)." tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KOLKATA - কলকাতা",BD: JALSHA MOVIES (4K).
+http://starshare.live:8080/live/852963741/852963741/98884.m3u8
+
+#EXTINF:-1 tvg-id="IND-Bangla:ZeeBanglaCinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.ibb.co.com/7RZCKTt/Zee-Bangla-Chinema.png" group-title="KOLKATA - কলকাতা",Zee Bangla Cinema
+http://mega4k.one:8080/23004/23004/131986
+
+#EXTINF:-1 tvg-id="IND-Bangla:ZeeBanglaCinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.ibb.co.com/7RZCKTt/Zee-Bangla-Chinema.png" group-title="KOLKATA - কলকাতা",Zee Bangla Cinema
+http://mega4k.one:8080/23004/23004/131988
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://watchindia.net/images/channels/bengali/Zee_Bangla_Cinema.png" group-title="KOLKATA - কলকাতা",Zee Bangla Cinema
+http://watchindia.net:8880/live/82963/72037/2287.ts
+
+#EXTINF:-1 tvg-id="BD:ZEEBANGLACINEMA" tvg-name="BD: ZEE BANGLA CINEMA" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: ZEE BANGLA CINEMA
+http://starshare.live:8080/live/852963741/852963741/49615.m3u8
+
+#EXTINF:-1 tvg-id="BD_ZEECINMEABangali" tvg-name="BD_ZEE CINMEA Bangali" tvg-logo="" group-title="KOLKATA - কলকাতা",BD_ZEE CINMEA Bangali
+http://starshare.live:8080/live/852963741/852963741/410.m3u8
+
+#EXTINF:-1 tvg-id="BD:ColorBanglaCinema" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://i.ibb.co.com/BZhKh8W/Color-Bangla-Chinema.png" group-title="KOLKATA - কলকাতা",BD: Color Bangla Cinema
+http://starshare.live:8080/live/852963741/852963741/271038.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="KOLKATA - কলকাতা",Colors Bangla Cinema
+https://mycdn.tamilultratv.com/live.m3u8?id=1657
+
+#EXTINF:-1 tvg-id="Akash8" tvg-name="Akash Aath" tvg-logo="https://i.ibb.co.com/xm0Mdnb/Akash8.png" group-title="KOLKATA - কলকাতা",Akash Aath
+https://mycdn.tamilultratv.com/live.m3u8?chunks=fde70923a5f003591dbf855be5c8b32896a837e7d73a963acface3ba870abed3b66af2b20c189f248ef66cae9036be6075682721b6bbbcf8f7175b42270125821f36abdb6899d0f8f3a7d6269690047d3b7b3ea7345ae814dcfc45e27422cebe4a7cdc278e4627a7c8479c8e520a693f76219abf451249b195e6306a5a23a2292f66f18d7aaff60523a2d973967391bf691a63d0ce7c8f249c85dc84fcb86ca7b92e7b0a9c574a20246bd17cc6e601d597031cd65029ae944f36235216dd8fb5a9f6d4f1b8954129a0a1285042cdd3339414886e094294a4a5c377a46a743f39b629e518d155444753b0a511d9527ced609621cb3bb0dbce6ae3cc183d55b248&vtoken=
+
+#EXTINF:-1 tvg-id="AakashAath" tvg-name="Aakash Aath" tvg-logo="https://watchindia.net/images/channels/bengali/Aakash_Aath.png" group-title="KOLKATA - কলকাতা",Aakash Aath
+http://watchindia.net:8880/live/82963/72037/2295.ts
+
+#EXTINF:-1 tvg-id="BD_AakaashAath" tvg-name="BD_Aakaash Aath" tvg-logo="" group-title="KOLKATA - কলকাতা",BD_Aakaash Aath
+http://starshare.live:8080/live/852963741/852963741/396.m3u8
+
 #EXTINF:-1 tvg-id="BD-loc:AakaashBangla" tvg-name="Aakash 8" tvg-logo="" group-title="KOLKATA - কলকাতা",Aakash 8
 http://mega4k.one:8080/23004/23004/131995
 
-#EXTINF:-1 tvg-id="BD-loc:colorsbanglahd" tvg-name="Colors Bangla HD" tvg-logo="" group-title="KOLKATA - কলকাতা",Colors Bangla HD
-http://mega4k.one:8080/23004/23004/132012
+#EXTINF:-1 tvg-id="DhoomMusic" tvg-name="Dhoom Music" tvg-logo="https://watchindia.net/images/channels/bengali/Dhoom_Music.png" group-title="KOLKATA - কলকাতা",Dhoom Music
+http://watchindia.net:8880/live/82963/72037/2289.ts
+
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" tvg-logo="https://watchindia.net/images/channels/bengali/Sangeet_Bangla.png" group-title="KOLKATA - কলকাতা",Sangeet Bangla
+http://watchindia.net:8880/live/82963/72037/2288.ts
+
+
+#EXTINF:-1 tvg-id="IN:TravelxpHD(BANGLA)" tvg-name="IN: Travelxp HD (BANGLA)" tvg-logo="" group-title="KOLKATA - কলকাতা",IN: Travelxp HD (BANGLA)
+http://starshare.live:8080/live/852963741/852963741/20622.m3u8
+
+
+#EXTINF:-1 tvg-id="BD_Rupashibangla" tvg-name="BD_Rupashi bangla" tvg-logo="" group-title="KOLKATA - কলকাতা",BD_Rupashi bangla
+http://starshare.live:8080/live/852963741/852963741/409.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BD:KHUSHBOOTVHD" tvg-name="BD : KHUSHBOO TV HD" tvg-logo="" group-title="KOLKATA - কলকাতা",BD : KHUSHBOO TV HD
+http://starshare.live:8080/live/852963741/852963741/3808.m3u8
+
+
+#EXTINF:-1 tvg-id="BD:ABPAnanda" tvg-name="BD: ABP Ananda" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: ABP Ananda
+http://starshare.live:8080/live/852963741/852963741/5436.m3u8
+
+#EXTINF:-1 tvg-id="ABPAnanda" tvg-name="ABP Ananda" tvg-logo="https://watchindia.net/images/channels/bengali/ABP_Ananda.png" group-title="KOLKATA - কলকাতা",ABP Ananda
+http://watchindia.net:8880/live/82963/72037/2285.ts
+
+#EXTINF:-1 tvg-id="BD:Zee24Ghanta" tvg-name="BD: Zee24Ghanta" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: Zee24Ghanta
+http://starshare.live:8080/live/852963741/852963741/144510.m3u8
+
+
+
+
+
+
+
+
+
+
+
+http://starshare.live:8080/live/852963741/852963741/408.m3u8
+
+https://mycdn.tamilultratv.com/live.m3u8?id=1633
