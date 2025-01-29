@@ -93,7 +93,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BD:MaasrangaTV" tvg-name="Maasranga TV" tvg-logo="https://i.ibb.co.com/Swm828T/20250127-204636.png" group-title="BANGLA - বাংলা",Maasranga TV
 http://starshare.live:8080/live/852963741/852963741/1036.m3u8
 
-#EXTINF:-1 tvg-id="DurontoTVHD" tvg-name="Duronto TV BDIX" tvg-logo="http://172.20.3.1/assets/images/Duronto1665400494.png" group-title="KIDS - কার্টুন",Duronto TV BDIX
+#EXTINF:-1 tvg-id="DurontoTVHD" tvg-name="Duronto TV BDIX" tvg-logo="http://172.20.3.1/assets/images/Duronto1665400494.png" group-title="BANGLA - বাংলা",Duronto TV BDIX
 http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BD_DurontoTVHD" tvg-name="Duronto TV HD" tvg-logo="https://i.ibb.co.com/k3JyTVm/20250127-203416.png" group-title="BANGLA - বাংলা",Duronto TV HD
@@ -237,6 +237,9 @@ http://mega4k.one:8080/23004/23004/132033
 
 #EXTINF:-1 tvg-id="BD-LOC:banglatv" tvg-name="Bangla TV" tvg-logo="https://i.ibb.co.com/TgNLD8m/AEn0k-ti-I5o-B-m662-P5bd-Edq-KH1-Xex-Z9-VJg-Isq96y-BM0nco3-Yu97-Pz-OZgoeah22-QC-RY0-D46-Vt-STUu-F6-L.png" group-title="BANGLA - বাংলা",Bangla TV
 http://mega4k.one:8080/23004/23004/132002
+
+#EXTINF:-1 tvg-id="bd-loc:bijoy_tv" tvg-name="Bijoy TV" tvg-logo="https://i.ibb.co.com/hHZfNgV/20250127-201637.png" group-title="BANGLA - বাংলা",Bijoy TV
+http://starshare.live:8080/live/852963741/852963741/408.m3u8
 
 #EXTINF:-1 tvg-id="bd-loc:bijoy_tv" tvg-name="Bijoy TV" tvg-logo="https://i.ibb.co.com/hHZfNgV/20250127-201637.png" group-title="BANGLA - বাংলা",Bijoy TV
 http://mega4k.one:8080/23004/23004/132003

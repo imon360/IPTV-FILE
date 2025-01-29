@@ -223,3 +223,7 @@ https://mycdn.tamilultratv.com/live.m3u8?id=154
 
 #EXTINF:-1 tvg-id="SETHD" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HINDI - হিন্দি",SET HD
 https://mycdn.tamilultratv.com/live.m3u8?id=291
+
+#EXTINF:-1 tvg-id="BD:ABPAnanda" tvg-name="BD: ABP Ananda" tvg-logo="" group-title="KOLKATA - কলকাতা",BD: ABP Ananda
+http://starshare.live:8080/live/852963741/852963741/5436.m3u8
+

@@ -454,3 +454,7 @@ http://watchindia.net:8880/live/82963/72037/2104.ts
 
 #EXTINF:-1 tvg-id="NickHindi" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_Hindi.png" group-title="KIDS - কার্টুন",Nick Hindi
 http://watchindia.net:8880/live/82963/72037/2182.ts
+
+
+#EXTINF:-1 tvg-id="BD:KHUSHBOOTVHD" tvg-name="BD : KHUSHBOO TV HD" tvg-logo="" group-title="KOLKATA - কলকাতা",BD : KHUSHBOO TV HD
+http://starshare.live:8080/live/852963741/852963741/3808.m3u8
