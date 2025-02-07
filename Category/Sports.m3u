@@ -3,7 +3,14 @@
 #EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="SPORTS - খেলা",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS - খেলা",
+#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
+https://eplayhdtv.site/fancode1/tracks-v1a1/mono.ts.m3u8?token=ADM1-1738934817-7352f0c68a27a702912657769cfe223464fe1a0d
+
+#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
+https://eplayhdtv.site/6/tracks-v1a1/mono.ts.m3u8?token=ADM1-1738935032-c70f26de140eac83d76ecfd32ee66f87cd2ed9fb
+
+#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
+https://cdn.sadman.ip-ddns.com/live/fGE3nvUKb7/ajUDk6G0Jy/48010.ts
 
 #EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
 https://koro-churi-jodi-na-paro-dhara.tiiny.io/stream.php/BPLSpecial.m3u8
