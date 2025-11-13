@@ -1,414 +1,213 @@
-#EXTM3U
-###--------------------------Movies--------------------------###
-#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="MOVIES - সিনেমা",IH IPTV
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="IH IPTV" tvg-id="IHIPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="MOVIES - সিনেমা",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES - সিনেমা",
-
-#EXTINF:-1 tvg-id="SHAHRUKHKHANMOVIES24/7" tvg-name="SHAHRUKH KHAN MOVIES 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",SHAHRUKH KHAN MOVIES 24/7
-http://mega4k.one:8080/23004/23004/118207
-
-#EXTINF:-1 tvg-id="BollywoodMovies202224/7live" tvg-name=" Bollywood Movies 2022 24/7 live" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা", Bollywood Movies 2022 24/7 live
-http://mega4k.one:8080/23004/23004/118208
-
-#EXTINF:-1 tvg-id="BollywoodMovies202124/7live" tvg-name=" Bollywood Movies 2021 24/7 live" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা", Bollywood Movies 2021 24/7 live
-http://mega4k.one:8080/23004/23004/118222
-
-#EXTINF:-1 tvg-id="BollywoodMovies202024/7live" tvg-name=" Bollywood Movies 2020 24/7 live" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা", Bollywood Movies 2020 24/7 live
-http://mega4k.one:8080/23004/23004/118514
-
-#EXTINF:-1 tvg-id="PunjabiMovies24/7live" tvg-name="Punjabi Movies 24/7 live" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Punjabi Movies 24/7 live
-http://mega4k.one:8080/23004/23004/118629
-
-#EXTINF:-1 tvg-id="SalmanKhanMovies24/7" tvg-name="Salman Khan Movies 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Salman Khan Movies 24/7
-http://mega4k.one:8080/23004/23004/118844
-
-#EXTINF:-1 tvg-id="AamirKhanMovies24/7" tvg-name="Aamir Khan Movies 24/7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Aamir Khan Movies 24/7
-http://mega4k.one:8080/23004/23004/118845
-
-#EXTINF:-1 tvg-id="BollywoodMovie3" tvg-name="Bollywood Movie 3" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 3
-http://mega4k.one:8080/23004/23004/118846
-
-#EXTINF:-1 tvg-id="BollywoodMovie4" tvg-name="Bollywood Movie 4" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 4
-http://mega4k.one:8080/23004/23004/118847
-
-#EXTINF:-1 tvg-id="BollywoodMovie5" tvg-name="Bollywood Movie 5" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 5
-http://mega4k.one:8080/23004/23004/118848
-
-#EXTINF:-1 tvg-id="BollywoodMovie6" tvg-name="Bollywood Movie 6" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 6
-http://mega4k.one:8080/23004/23004/118849
-
-#EXTINF:-1 tvg-id="BollywoodMovie7" tvg-name="Bollywood Movie 7" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 7
-http://mega4k.one:8080/23004/23004/118850
-
-#EXTINF:-1 tvg-id="BollywoodMovie8" tvg-name="Bollywood Movie 8" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 8
-http://mega4k.one:8080/23004/23004/118851
-
-#EXTINF:-1 tvg-id="BollywoodMovie9" tvg-name="Bollywood Movie 9" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 9
-http://mega4k.one:8080/23004/23004/118852
-
-#EXTINF:-1 tvg-id="BollywoodMovie10" tvg-name="Bollywood Movie 10" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 10
-http://mega4k.one:8080/23004/23004/118853
-
-#EXTINF:-1 tvg-id="BollywoodMovie11" tvg-name="Bollywood Movie 11" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 11
-http://mega4k.one:8080/23004/23004/118854
-
-#EXTINF:-1 tvg-id="BollywoodMovie12" tvg-name="Bollywood Movie 12" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 12
-http://mega4k.one:8080/23004/23004/118855
-
-#EXTINF:-1 tvg-id="BollywoodMovie13" tvg-name="Bollywood Movie 13" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 13
-http://mega4k.one:8080/23004/23004/118856
-
-#EXTINF:-1 tvg-id="BollywoodMovie14" tvg-name="Bollywood Movie 14" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 14
-http://mega4k.one:8080/23004/23004/118857
-
-#EXTINF:-1 tvg-id="BollywoodMovie15" tvg-name="Bollywood Movie 15" tvg-logo="https://i.ibb.co/TY2HHhJ/istockphoto-1173930154-612x612.jpg" group-title="MOVIES - সিনেমা",Bollywood Movie 15
-http://mega4k.one:8080/23004/23004/118858
-
-#EXTINF:-1 tvg-id="24/7Movies:PunjabiBlockBuster2022" tvg-name="24/7 Movies: Punjabi BlockBuster 2022" tvg-logo="" group-title="MOVIES - সিনেমা",24/7 Movies: Punjabi BlockBuster 2022
+#EXTINF:-1  tvg-name="24/7 Movies: Punjabi BlockBuster 2022" tvg-id="24/7Movies:PunjabiBlockBuster2022" group-title="MOVIES - সিনেমা",24/7 Movies: Punjabi BlockBuster 2022
 http://mega4k.one:8080/23004/23004/94410
-
-#EXTINF:-1 tvg-id="UK:SonyMax2ᴴᴰ" tvg-name="UK: Sony Max 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_max_in_2.png" group-title="MOVIES - সিনেমা",UK: Sony Max 2 ᴴᴰ
-http://mega4k.one:8080/23004/23004/88231
-
-#EXTINF:-1 tvg-id="UK:SonyMaxᴴᴰ" tvg-name="UK: Sony Max ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_max_in.png" group-title="MOVIES - সিনেমা",UK: Sony Max ᴴᴰ
-http://mega4k.one:8080/23004/23004/88232
-
-#EXTINF:-1 tvg-id="UK:ColorsCineplex" tvg-name="UK: Colors Cineplex" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-cineplex-in.png" group-title="MOVIES - সিনেমা",UK: Colors Cineplex
-http://mega4k.one:8080/23004/23004/88237
-
-#EXTINF:-1 tvg-id="UK:B4UMovies" tvg-name="UK: B4U Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_movies_in.png" group-title="MOVIES - সিনেমা",UK: B4U Movies
-http://mega4k.one:8080/23004/23004/88243
-
-#EXTINF:-1 tvg-id="UK:B4UMusic" tvg-name="UK: B4U Music" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png" group-title="MOVIES - সিনেমা",UK: B4U Music
-http://mega4k.one:8080/23004/23004/88244
-
-#EXTINF:-1 tvg-id="UK:ZeeCinemaᴴᴰ" tvg-name="UK: Zee Cinema ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES - সিনেমা",UK: Zee Cinema ᴴᴰ
-http://mega4k.one:8080/23004/23004/88253
-
-#EXTINF:-1 tvg-id="IN|StarMoviesFHD" tvg-name="IN | Star Movies FHD" tvg-logo="http://bostv.one:8080/images/9bab347e290a3643559b32674242de33.png" group-title="MOVIES - সিনেমা",IN | Star Movies FHD
-http://mega4k.one:8080/23004/23004/74798
-
-#EXTINF:-1 tvg-id="IN|SonyPixHD" tvg-name="IN | Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES - সিনেমা",IN | Sony Pix HD
-http://mega4k.one:8080/23004/23004/74799
-
-#EXTINF:-1 tvg-id="IN|&PriveHD" tvg-name="IN | &Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="MOVIES - সিনেমা",IN | &Prive HD
-http://mega4k.one:8080/23004/23004/74800
-
-#EXTINF:-1 tvg-id="IN|HBOHD" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="MOVIES - সিনেমা",IN | HBO HD
+#EXTINF:-1  tvg-name="IN | HBO HD" tvg-id="IN|HBOHD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="MOVIES - সিনেমা",IN | HBO HD
 http://mega4k.one:8080/23004/23004/74801
-
-#EXTINF:-1 tvg-id="IN|&FlixHD" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES - সিনেমা",IN | & Flix HD
-http://mega4k.one:8080/23004/23004/74802
-
-#EXTINF:-1 tvg-id="IN|RomdyNowHD@" tvg-name="IN | Romdy Now HD @" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="MOVIES - সিনেমা",IN | Romdy Now HD @
-http://mega4k.one:8080/23004/23004/74804
-
-#EXTINF:-1 tvg-id="IN:MNXHD*" tvg-name="IN: MNX HD*" tvg-logo="https://i.imgur.com/Fo7n4xX.png" group-title="MOVIES - সিনেমা",IN: MNX HD*
+#EXTINF:-1  tvg-name="IN: MNX HD*" tvg-id="IN:MNXHD*" tvg-logo="https://i.imgur.com/Fo7n4xX.png" group-title="MOVIES - সিনেমা",IN: MNX HD*
 http://mega4k.one:8080/23004/23004/74805
-
-#EXTINF:-1 tvg-id="IN|MoviesNowHD*" tvg-name="IN | Movies Now HD*" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="MOVIES - সিনেমা",IN | Movies Now HD*
+#EXTINF:-1  tvg-name="IN | Movies Now HD*" tvg-id="IN|MoviesNowHD*" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="MOVIES - সিনেমা",IN | Movies Now HD*
 http://mega4k.one:8080/23004/23004/74806
-
-#EXTINF:-1 tvg-id="IN|ZeeCafeHD*" tvg-name="IN | Zee Cafe HD*" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="MOVIES - সিনেমা",IN | Zee Cafe HD*
+#EXTINF:-1  tvg-name="IN | Zee Cafe HD*" tvg-id="IN|ZeeCafeHD*" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="MOVIES - সিনেমা",IN | Zee Cafe HD*
 http://mega4k.one:8080/23004/23004/74810
-
-#EXTINF:-1 tvg-id="IN|AXNHD" tvg-name="IN | AXN HD" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="MOVIES - সিনেমা",IN | AXN HD
+#EXTINF:-1  tvg-name="IN | AXN HD" tvg-id="IN|AXNHD" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="MOVIES - সিনেমা",IN | AXN HD
 http://mega4k.one:8080/23004/23004/74811
-
-#EXTINF:-1 tvg-id="IN|StarMoviesSelectHD" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="MOVIES - সিনেমা",IN | Star Movies Select HD
+#EXTINF:-1  tvg-name="IN | Star Movies Select HD" tvg-id="IN|StarMoviesSelectHD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="MOVIES - সিনেমা",IN | Star Movies Select HD
 http://mega4k.one:8080/23004/23004/74812
-
-#EXTINF:-1 tvg-id="IN|StarWorldPremierHD*" tvg-name="IN | Star World Premier HD*" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" group-title="MOVIES - সিনেমা",IN | Star World Premier HD*
+#EXTINF:-1  tvg-name="IN | Star World Premier HD*" tvg-id="IN|StarWorldPremierHD*" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" group-title="MOVIES - সিনেমা",IN | Star World Premier HD*
 http://mega4k.one:8080/23004/23004/74813
-
-#EXTINF:-1 tvg-id="IN|BBOClassic" tvg-name="IN | BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO%20CLASSIC_TV_black_1.png" group-title="MOVIES - সিনেমা",IN | BBO Classic
+#EXTINF:-1  tvg-name="IN | BBO Classic" tvg-id="IN|BBOClassic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO%20CLASSIC_TV_black_1.png" group-title="MOVIES - সিনেমা",IN | BBO Classic
 http://mega4k.one:8080/23004/23004/74797
-
-#EXTINF:-1 tvg-id="IN:BBOYuppFlix" tvg-name="IN: BBO YuppFlix" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg" group-title="MOVIES - সিনেমা",IN: BBO YuppFlix
+#EXTINF:-1  tvg-name="IN: BBO YuppFlix" tvg-id="IN:BBOYuppFlix" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg" group-title="MOVIES - সিনেমা",IN: BBO YuppFlix
 http://mega4k.one:8080/23004/23004/85205
-
-#EXTINF:-1 tvg-id="IN|&PICTUREHD" tvg-name="IN | & PICTURE HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES - সিনেমা",IN | & PICTURE HD
+#EXTINF:-1  tvg-name="IN | & PICTURE HD" tvg-id="IN|&PICTUREHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES - সিনেমা",IN | & PICTURE HD
 http://mega4k.one:8080/23004/23004/85207
-
-#EXTINF:-1 tvg-id="IN|STARGOLDHD" tvg-name="IN | STAR GOLD HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="MOVIES - সিনেমা",IN | STAR GOLD HD
+#EXTINF:-1  tvg-name="IN | STAR GOLD HD" tvg-id="IN|STARGOLDHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="MOVIES - সিনেমা",IN | STAR GOLD HD
 http://mega4k.one:8080/23004/23004/85208
-
-#EXTINF:-1 tvg-id="IN|STARGOLDSELECTHD" tvg-name="IN | STAR GOLD SELECT HD" tvg-logo="http://bostv.one:8080/images/fe0ccc2b2cc21cd459c630263a1a771c.jpg" group-title="MOVIES - সিনেমা",IN | STAR GOLD SELECT HD
+#EXTINF:-1  tvg-name="IN | STAR GOLD SELECT HD" tvg-id="IN|STARGOLDSELECTHD" tvg-logo="http://bostv.one:8080/images/fe0ccc2b2cc21cd459c630263a1a771c.jpg" group-title="MOVIES - সিনেমা",IN | STAR GOLD SELECT HD
 http://mega4k.one:8080/23004/23004/85209
-
-#EXTINF:-1 tvg-id="IN|STARGOLD2" tvg-name="IN | STAR GOLD 2" tvg-logo="http://bostv.one:8080/images/0beac8610751fc39b67a1f7a9be349ea.jpg" group-title="MOVIES - সিনেমা",IN | STAR GOLD 2
+#EXTINF:-1  tvg-name="IN | STAR GOLD 2" tvg-id="IN|STARGOLD2" tvg-logo="http://bostv.one:8080/images/0beac8610751fc39b67a1f7a9be349ea.jpg" group-title="MOVIES - সিনেমা",IN | STAR GOLD 2
 http://mega4k.one:8080/23004/23004/85210
-
-#EXTINF:-1 tvg-id="IN|ZEECINEMAHD" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="MOVIES - সিনেমা",IN | ZEE CINEMA HD
+#EXTINF:-1  tvg-name="IN | ZEE CINEMA HD" tvg-id="IN|ZEECINEMAHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="MOVIES - সিনেমা",IN | ZEE CINEMA HD
 http://mega4k.one:8080/23004/23004/85212
-
-#EXTINF:-1 tvg-id="IN|ZEEBOLLYWOOD" tvg-name="IN | ZEE BOLLYWOOD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES - সিনেমা",IN | ZEE BOLLYWOOD
+#EXTINF:-1  tvg-name="IN | ZEE BOLLYWOOD" tvg-id="IN|ZEEBOLLYWOOD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES - সিনেমা",IN | ZEE BOLLYWOOD
 http://mega4k.one:8080/23004/23004/85213
-
-#EXTINF:-1 tvg-id="IN|ZEECLASSIC" tvg-name="IN | ZEE CLASSIC" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="MOVIES - সিনেমা",IN | ZEE CLASSIC
+#EXTINF:-1  tvg-name="IN | ZEE CLASSIC" tvg-id="IN|ZEECLASSIC" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="MOVIES - সিনেমা",IN | ZEE CLASSIC
 http://mega4k.one:8080/23004/23004/85214
-
-#EXTINF:-1 tvg-id="IN|ZEEACTION" tvg-name="IN | ZEE ACTION" tvg-logo="http://bostv.one:8080/images/3a386db5ee0b4f3adf74b53de3d6669f.jpg" group-title="MOVIES - সিনেমা",IN | ZEE ACTION
+#EXTINF:-1  tvg-name="IN | ZEE ACTION" tvg-id="IN|ZEEACTION" tvg-logo="http://bostv.one:8080/images/3a386db5ee0b4f3adf74b53de3d6669f.jpg" group-title="MOVIES - সিনেমা",IN | ZEE ACTION
 http://mega4k.one:8080/23004/23004/85215
-
-#EXTINF:-1 tvg-id="IN|SONYMAXHD" tvg-name="IN | SONY MAX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="MOVIES - সিনেমা",IN | SONY MAX HD
+#EXTINF:-1  tvg-name="IN | SONY MAX HD" tvg-id="IN|SONYMAXHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="MOVIES - সিনেমা",IN | SONY MAX HD
 http://mega4k.one:8080/23004/23004/85216
-
-#EXTINF:-1 tvg-id="IN|SONYMAX2" tvg-name="IN | SONY MAX 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES - সিনেমা",IN | SONY MAX 2
+#EXTINF:-1  tvg-name="IN | SONY MAX 2" tvg-id="IN|SONYMAX2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES - সিনেমা",IN | SONY MAX 2
 http://mega4k.one:8080/23004/23004/85217
-
-#EXTINF:-1 tvg-id="IN|B-FLIXMOVIES" tvg-name="IN | B-FLIX MOVIES" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png" group-title="MOVIES - সিনেমা",IN | B-FLIX MOVIES
+#EXTINF:-1  tvg-name="IN | B-FLIX MOVIES" tvg-id="IN|B-FLIXMOVIES" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png" group-title="MOVIES - সিনেমা",IN | B-FLIX MOVIES
 http://mega4k.one:8080/23004/23004/85218
-
-#EXTINF:-1 tvg-id="IN|COLORSCINEPLEXHD" tvg-name="IN | COLORS CINEPLEX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="MOVIES - সিনেমা",IN | COLORS CINEPLEX HD
+#EXTINF:-1  tvg-name="IN | COLORS CINEPLEX HD" tvg-id="IN|COLORSCINEPLEXHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="MOVIES - সিনেমা",IN | COLORS CINEPLEX HD
 http://mega4k.one:8080/23004/23004/85219
-
-#EXTINF:-1 tvg-id="IND:MINIPLEXHD" tvg-name="IND: MINIPLEX HD" tvg-logo="" group-title="MOVIES - সিনেমা",IND: MINIPLEX HD
+#EXTINF:-1  tvg-name="IND: MINIPLEX HD" tvg-id="IND:MINIPLEXHD" group-title="MOVIES - সিনেমা",IND: MINIPLEX HD
 http://mega4k.one:8080/23004/23004/89913
-
-#EXTINF:-1 tvg-id="IND:HiffMovies" tvg-name="IND: Hiff Movies" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/8a9669e6-d75c-4bb0-b189-9bea63dfb43d.jpg" group-title="MOVIES - সিনেমা",IND: Hiff Movies
+#EXTINF:-1  tvg-name="IND: Hiff Movies" tvg-id="IND:HiffMovies" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/8a9669e6-d75c-4bb0-b189-9bea63dfb43d.jpg" group-title="MOVIES - সিনেমা",IND: Hiff Movies
 http://mega4k.one:8080/23004/23004/89914
-
-#EXTINF:-1 tvg-id="IND:&EXPLORHD" tvg-name="IND: &EXPLOR HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="MOVIES - সিনেমা",IND: &EXPLOR HD
+#EXTINF:-1  tvg-name="IND: &EXPLOR HD" tvg-id="IND:&EXPLORHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="MOVIES - সিনেমা",IND: &EXPLOR HD
 http://mega4k.one:8080/23004/23004/89915
-
-#EXTINF:-1 tvg-id="IND:XumoBollywood&IndianCinema" tvg-name="IND: Xumo Bollywood & Indian Cinema" tvg-logo="" group-title="MOVIES - সিনেমা",IND: Xumo Bollywood & Indian Cinema
+#EXTINF:-1  tvg-name="IND: Xumo Bollywood & Indian Cinema" tvg-id="IND:XumoBollywood&IndianCinema" group-title="MOVIES - সিনেমা",IND: Xumo Bollywood & Indian Cinema
 http://mega4k.one:8080/23004/23004/89938
-
-#EXTINF:-1 tvg-id="IND:BOLLYWOODPREMIER" tvg-name="IND: BOLLYWOOD PREMIER" tvg-logo="" group-title="MOVIES - সিনেমা",IND: BOLLYWOOD PREMIER
+#EXTINF:-1  tvg-name="IND: BOLLYWOOD PREMIER" tvg-id="IND:BOLLYWOODPREMIER" group-title="MOVIES - সিনেমা",IND: BOLLYWOOD PREMIER
 http://mega4k.one:8080/23004/23004/89947
-
-#EXTINF:-1 tvg-id="IND:BOLLYWOODCLASSIC" tvg-name="IND: BOLLYWOOD CLASSIC" tvg-logo="" group-title="MOVIES - সিনেমা",IND: BOLLYWOOD CLASSIC
+#EXTINF:-1  tvg-name="IND: BOLLYWOOD CLASSIC" tvg-id="IND:BOLLYWOODCLASSIC" group-title="MOVIES - সিনেমা",IND: BOLLYWOOD CLASSIC
 http://mega4k.one:8080/23004/23004/89948
-
-#EXTINF:-1 tvg-id="IND:BOLLYWOODHD" tvg-name="IND: BOLLYWOOD HD" tvg-logo="" group-title="MOVIES - সিনেমা",IND: BOLLYWOOD HD
+#EXTINF:-1  tvg-name="IND: BOLLYWOOD HD" tvg-id="IND:BOLLYWOODHD" group-title="MOVIES - সিনেমা",IND: BOLLYWOOD HD
 http://mega4k.one:8080/23004/23004/89949
-
-#EXTINF:-1 tvg-id="IN|B4UKADAK" tvg-name="IN | B4U KADAK" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png" group-title="MOVIES - সিনেমা",IN | B4U KADAK
+#EXTINF:-1  tvg-name="IN | B4U KADAK" tvg-id="IN|B4UKADAK" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png" group-title="MOVIES - সিনেমা",IN | B4U KADAK
 http://mega4k.one:8080/23004/23004/95285
-
-#EXTINF:-1 tvg-id="IN|B4U_Movies" tvg-name="IN | B4U_Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="MOVIES - সিনেমা",IN | B4U_Movies
+#EXTINF:-1  tvg-name="IN | B4U_Movies" tvg-id="IN|B4U_Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="MOVIES - সিনেমা",IN | B4U_Movies
 http://mega4k.one:8080/23004/23004/95286
-
-#EXTINF:-1 tvg-id="IN|Enterr_10" tvg-name="IN | Enterr_10" tvg-logo="" group-title="MOVIES - সিনেমা",IN | Enterr_10
+#EXTINF:-1  tvg-name="IN | Enterr_10" tvg-id="IN|Enterr_10" group-title="MOVIES - সিনেমা",IN | Enterr_10
 http://mega4k.one:8080/23004/23004/95287
-
-#EXTINF:-1 tvg-id="IN|Goldmines" tvg-name="IN | Goldmines" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES - সিনেমা",IN | Goldmines
+#EXTINF:-1  tvg-name="IN | Goldmines" tvg-id="IN|Goldmines" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES - সিনেমা",IN | Goldmines
 http://mega4k.one:8080/23004/23004/95900
-
-#EXTINF:-1 tvg-id="IN|GoldminesBollywood" tvg-name="IN | Goldmines Bollywood" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES - সিনেমা",IN | Goldmines Bollywood
+#EXTINF:-1  tvg-name="IN | Goldmines Bollywood" tvg-id="IN|GoldminesBollywood" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES - সিনেমা",IN | Goldmines Bollywood
 http://mega4k.one:8080/23004/23004/95901
-
-#EXTINF:-1 tvg-id="IN|StarGoldRomance" tvg-name="IN | Star Gold Romance" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Gold-Romance-Transparent.png" group-title="MOVIES - সিনেমা",IN | Star Gold Romance
+#EXTINF:-1  tvg-name="IN | Star Gold Romance" tvg-id="IN|StarGoldRomance" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Gold-Romance-Transparent.png" group-title="MOVIES - সিনেমা",IN | Star Gold Romance
 http://mega4k.one:8080/23004/23004/95902
-
-#EXTINF:-1 tvg-id="IN|StarGoldThrills" tvg-name="IN | Star Gold Thrills" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Str-Gold-Thrills-Transparent.png" group-title="MOVIES - সিনেমা",IN | Star Gold Thrills
+#EXTINF:-1  tvg-name="IN | Star Gold Thrills" tvg-id="IN|StarGoldThrills" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Str-Gold-Thrills-Transparent.png" group-title="MOVIES - সিনেমা",IN | Star Gold Thrills
 http://mega4k.one:8080/23004/23004/95903
-
-#EXTINF:-1 tvg-id="IN|CineplexBollywood" tvg-name="IN | Cineplex Bollywood " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="MOVIES - সিনেমা",IN | Cineplex Bollywood
+#EXTINF:-1  tvg-name="IN | Cineplex Bollywood " tvg-id="IN|CineplexBollywood" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="MOVIES - সিনেমা",IN | Cineplex Bollywood
 http://mega4k.one:8080/23004/23004/97509
-
-#EXTINF:-1 tvg-id="IN|ManoranjanGrand" tvg-name="IN | Manoranjan Grand" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="MOVIES - সিনেমা",IN | Manoranjan Grand
+#EXTINF:-1  tvg-name="IN | Manoranjan Grand" tvg-id="IN|ManoranjanGrand" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="MOVIES - সিনেমা",IN | Manoranjan Grand
 http://mega4k.one:8080/23004/23004/100207
-
-#EXTINF:-1 tvg-id="IN|ColorsCineplexSuperhit" tvg-name="IN | Colors Cineplex Superhit" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png" group-title="MOVIES - সিনেমা",IN | Colors Cineplex Superhit
+#EXTINF:-1  tvg-name="IN | Colors Cineplex Superhit" tvg-id="IN|ColorsCineplexSuperhit" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png" group-title="MOVIES - সিনেমা",IN | Colors Cineplex Superhit
 http://mega4k.one:8080/23004/23004/100208
-
-#EXTINF:-1 tvg-id="ShemarooBollywood" tvg-name="Shemaroo Bollywood" tvg-logo="https://mhdmax.com/wp-content/uploads/2022/12/jkTKn6K.png" group-title="MOVIES - সিনেমা",Shemaroo Bollywood
+#EXTINF:-1  tvg-name="Shemaroo Bollywood" tvg-id="ShemarooBollywood" tvg-logo="https://mhdmax.com/wp-content/uploads/2022/12/jkTKn6K.png" group-title="MOVIES - সিনেমা",Shemaroo Bollywood
 http://mega4k.one:8080/23004/23004/123003
-
-#EXTINF:-1 tvg-id="BollywoodPrime" tvg-name="Bollywood Prime" tvg-logo="https://mhdmax.com/wp-content/uploads/2022/10/bollyprime.webp" group-title="MOVIES - সিনেমা",Bollywood Prime
+#EXTINF:-1  tvg-name="Bollywood Prime" tvg-id="BollywoodPrime" tvg-logo="https://mhdmax.com/wp-content/uploads/2022/10/bollyprime.webp" group-title="MOVIES - সিনেমা",Bollywood Prime
 http://mega4k.one:8080/23004/23004/126886
-
-#EXTINF:-1 tvg-id="SouthStation" tvg-name="South Station" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/southstation.webp" group-title="MOVIES - সিনেমা",South Station
+#EXTINF:-1  tvg-name="South Station" tvg-id="SouthStation" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/southstation.webp" group-title="MOVIES - সিনেমা",South Station
 http://mega4k.one:8080/23004/23004/126888
-
-#EXTINF:-1 tvg-id="HollywoodDesi" tvg-name="Hollywood Desi" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/hollywooddesi.webp" group-title="MOVIES - সিনেমা",Hollywood Desi
+#EXTINF:-1  tvg-name="Hollywood Desi" tvg-id="HollywoodDesi" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/hollywooddesi.webp" group-title="MOVIES - সিনেমা",Hollywood Desi
 http://mega4k.one:8080/23004/23004/126889
-
-#EXTINF:-1 tvg-id="TheMovieClub" tvg-name="The Movie Club" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/themoviesclub.webp" group-title="MOVIES - সিনেমা",The Movie Club
+#EXTINF:-1  tvg-name="The Movie Club" tvg-id="TheMovieClub" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/themoviesclub.webp" group-title="MOVIES - সিনেমা",The Movie Club
 http://mega4k.one:8080/23004/23004/126890
-
-#EXTINF:-1 tvg-id="Bollywood4U" tvg-name="Bollywood 4U" tvg-logo="https://mhdmax.com/wp-content/uploads/2023/12/BOLLY4UU.webp" group-title="MOVIES - সিনেমা",Bollywood 4U
+#EXTINF:-1  tvg-name="Bollywood 4U" tvg-id="Bollywood4U" tvg-logo="https://mhdmax.com/wp-content/uploads/2023/12/BOLLY4UU.webp" group-title="MOVIES - সিনেমা",Bollywood 4U
 http://mega4k.one:8080/23004/23004/126891
-
-#EXTINF:-1 tvg-id="SonyWah" tvg-name="Sony Wah" tvg-logo="" group-title="MOVIES - সিনেমা",Sony Wah
+#EXTINF:-1  tvg-name="Sony Wah" tvg-id="SonyWah" group-title="MOVIES - সিনেমা",Sony Wah
 http://mega4k.one:8080/23004/23004/131546
-
-#EXTINF:-1 tvg-id="RDCMovies" tvg-name="RDC Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" group-title="MOVIES - সিনেমা",RDC Movies
+#EXTINF:-1  tvg-name="RDC Movies" tvg-id="RDCMovies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png" group-title="MOVIES - সিনেমা",RDC Movies
 http://mega4k.one:8080/23004/23004/131694
-
-#EXTINF:-1 tvg-id="MBCBollywoodHD" tvg-name="MBC Bollywood HD" tvg-logo="" group-title="MOVIES - সিনেমা",MBC Bollywood HD
+#EXTINF:-1  tvg-name="MBC Bollywood HD" tvg-id="MBCBollywoodHD" group-title="MOVIES - সিনেমা",MBC Bollywood HD
 http://mega4k.one:8080/23004/23004/131695
-
-#EXTINF:-1 tvg-id="ZeeAnmolCinema" tvg-name="Zee Anmol Cinema" tvg-logo="" group-title="MOVIES - সিনেমা",Zee Anmol Cinema
+#EXTINF:-1  tvg-name="Zee Anmol Cinema" tvg-id="ZeeAnmolCinema" group-title="MOVIES - সিনেমা",Zee Anmol Cinema
 http://mega4k.one:8080/23004/23004/131803
-
-#EXTINF:-1 tvg-id="SonyMaxHD*" tvg-name="Sony Max HD *" tvg-logo="https://static.epg.best/hu/SonyMax.hu.png" group-title="MOVIES - সিনেমা",Sony Max HD *
+#EXTINF:-1  tvg-name="Sony Max HD *" tvg-id="SonyMaxHD*" tvg-logo="https://static.epg.best/hu/SonyMax.hu.png" group-title="MOVIES - সিনেমা",Sony Max HD *
 http://mega4k.one:8080/23004/23004/119053
-
-#EXTINF:-1 tvg-id="SonyMax2" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="MOVIES - সিনেমা",Sony Max 2
+#EXTINF:-1  tvg-name="Sony Max 2" tvg-id="SonyMax2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="MOVIES - সিনেমা",Sony Max 2
 http://watchindia.net:8880/live/82963/72037/2024.ts
-
-#EXTINF:-1 tvg-id="SonyMaxHD" tvg-name="Sony Max HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="MOVIES - সিনেমা",Sony Max HD
+#EXTINF:-1  tvg-name="Sony Max HD" tvg-id="SonyMaxHD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="MOVIES - সিনেমা",Sony Max HD
 http://watchindia.net:8880/live/82963/72037/788.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="MOVIES - সিনেমা", Zee Cinema
+#EXTINF:-1  tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="MOVIES - সিনেমা",Zee Cinema
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/213.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/andpicture.png" group-title="MOVIES - সিনেমা", And Pictures
+#EXTINF:-1  tvg-logo="http://toffe.top/images/andpicture.png" group-title="MOVIES - সিনেমা",And Pictures
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/139.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="MOVIES - সিনেমা", Sony Max
+#EXTINF:-1  tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="MOVIES - সিনেমা",Sony Max
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/184.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="MOVIES - সিনেমা", Sony Max 2
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="MOVIES - সিনেমা",Sony Max 2
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/183.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starmovies.png" group-title="MOVIES - সিনেমা", Star Movies
+#EXTINF:-1  tvg-logo="http://toffe.top/images/starmovies.png" group-title="MOVIES - সিনেমা",Star Movies
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/198.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKWpYBUZxaqqDvOWOsLJUc-86PFEjau147-kk9diwpDTGQDH54D4CRA&s=10" group-title="MOVIES - সিনেমা", Star Movies Select
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKWpYBUZxaqqDvOWOsLJUc-86PFEjau147-kk9diwpDTGQDH54D4CRA&s=10" group-title="MOVIES - সিনেমা",Star Movies Select
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/199.ts
-
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="MOVIES - সিনেমা", Sony Pix
+#EXTINF:-1  tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="MOVIES - সিনেমা",Sony Pix
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/189.ts
-
-#EXTINF:-1 group-title="MOVIES - সিনেমা",Bollywood Classic
+#EXTINF:-1  group-title="MOVIES - সিনেমা",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-1 tvg-id="&FlixHD" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="MOVIES - সিনেমা",& Flix HD
+#EXTINF:-1  tvg-name="& Flix HD" tvg-id="&FlixHD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="MOVIES - সিনেমা",& Flix HD
 http://watchindia.net:8880/live/82963/72037/2088.ts
-
-#EXTINF:-1 tvg-id="&PriveHD" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="MOVIES - সিনেমা",& Prive HD
+#EXTINF:-1  tvg-name="& Prive HD" tvg-id="&PriveHD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="MOVIES - সিনেমা",& Prive HD
 http://watchindia.net:8880/live/82963/72037/2103.ts
-
-#EXTINF:-1 tvg-id="MoviesNowHD" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="MOVIES - সিনেমা",Movies Now HD
+#EXTINF:-1  tvg-name="Movies Now HD" tvg-id="MoviesNowHD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="MOVIES - সিনেমা",Movies Now HD
 http://watchindia.net:8880/live/82963/72037/2102.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaAction" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="MOVIES - সিনেমা",Sky Cinema Action
+#EXTINF:-1  tvg-name="Sky Cinema Action" tvg-id="SkyCinemaAction" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="MOVIES - সিনেমা",Sky Cinema Action
 http://watchindia.net:8880/live/82963/72037/2176.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaComedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="MOVIES - সিনেমা",Sky Cinema Comedy
+#EXTINF:-1  tvg-name="Sky Cinema Comedy" tvg-id="SkyCinemaComedy" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Comedy.png" group-title="MOVIES - সিনেমা",Sky Cinema Comedy
 http://watchindia.net:8880/live/82963/72037/2177.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaDrama" tvg-name="Sky Cinema Drama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="MOVIES - সিনেমা",Sky Cinema Drama
+#EXTINF:-1  tvg-name="Sky Cinema Drama" tvg-id="SkyCinemaDrama" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Drama.png" group-title="MOVIES - সিনেমা",Sky Cinema Drama
 http://watchindia.net:8880/live/82963/72037/2179.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaFamily" tvg-name="Sky Cinema Family" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="MOVIES - সিনেমা",Sky Cinema Family
+#EXTINF:-1  tvg-name="Sky Cinema Family" tvg-id="SkyCinemaFamily" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png" group-title="MOVIES - সিনেমা",Sky Cinema Family
 http://watchindia.net:8880/live/82963/72037/2173.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaGreats" tvg-name="Sky Cinema Greats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="MOVIES - সিনেমা",Sky Cinema Greats
+#EXTINF:-1  tvg-name="Sky Cinema Greats" tvg-id="SkyCinemaGreats" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" group-title="MOVIES - সিনেমা",Sky Cinema Greats
 http://watchindia.net:8880/live/82963/72037/2172.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaHits" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="MOVIES - সিনেমা",Sky Cinema Hits
+#EXTINF:-1  tvg-name="Sky Cinema Hits" tvg-id="SkyCinemaHits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="MOVIES - সিনেমা",Sky Cinema Hits
 http://watchindia.net:8880/live/82963/72037/2171.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaPremiere" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="MOVIES - সিনেমা",Sky Cinema Premiere
+#EXTINF:-1  tvg-name="Sky Cinema Premiere" tvg-id="SkyCinemaPremiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="MOVIES - সিনেমা",Sky Cinema Premiere
 http://watchindia.net:8880/live/82963/72037/2169.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaSci-Fi/Horror" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="MOVIES - সিনেমা",Sky Cinema Sci-Fi/Horror
+#EXTINF:-1  tvg-name="Sky Cinema Sci-Fi/Horror" tvg-id="SkyCinemaSci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="MOVIES - সিনেমা",Sky Cinema Sci-Fi/Horror
 http://watchindia.net:8880/live/82963/72037/2180.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaSelect" tvg-name="Sky Cinema Select" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="MOVIES - সিনেমা",Sky Cinema Select
+#EXTINF:-1  tvg-name="Sky Cinema Select" tvg-id="SkyCinemaSelect" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" group-title="MOVIES - সিনেমা",Sky Cinema Select
 http://watchindia.net:8880/live/82963/72037/2170.ts
-
-#EXTINF:-1 tvg-id="SkyCinemaThriller" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="MOVIES - সিনেমা",Sky Cinema Thriller
+#EXTINF:-1  tvg-name="Sky Cinema Thriller" tvg-id="SkyCinemaThriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="MOVIES - সিনেমা",Sky Cinema Thriller
 http://watchindia.net:8880/live/82963/72037/2178.ts
-
-#EXTINF:-1 tvg-id="SonyPixHD" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="MOVIES - সিনেমা",Sony Pix HD
+#EXTINF:-1  tvg-name="Sony Pix HD" tvg-id="SonyPixHD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="MOVIES - সিনেমা",Sony Pix HD
 http://watchindia.net:8880/live/82963/72037/2101.ts
-
-#EXTINF:-1 group-title="MOVIES - সিনেমা" tvg-logo="https://i.ibb.co/xHfvgtk/20240816-213001.png",THE MOVIE CLUB
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xHfvgtk/20240816-213001.png" group-title="MOVIES - সিনেমা",THE MOVIE CLUB
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES - সিনেমা" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",SHEEMAROO BOLLYWOOD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="MOVIES - সিনেমা",SHEEMAROO BOLLYWOOD
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES - সিনেমা" tvg-logo="https://i.ibb.co/tYcNbLy/20240827-090809.png",BOLLYWOOD HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tYcNbLy/20240827-090809.png" group-title="MOVIES - সিনেমা",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-
-#EXTINF:-1 group-title="MOVIES - সিনেমা" tvg-logo="https://i.ibb.co/YNGyQJR/Picsart-23-06-25-22-19-02-657.png",BOLLYWOOD HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/YNGyQJR/Picsart-23-06-25-22-19-02-657.png" group-title="MOVIES - সিনেমা",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-1 group-title="MOVIES - সিনেমা" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png" group-title="MOVIES - সিনেমা",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://watchindia.net/images/channels/usa/Cinemax.png" group-title="MOVIES - সিনেমা",Cinemax
+#EXTINF:-1  tvg-name="Cinemax" tvg-id="Cinemax" tvg-logo="https://watchindia.net/images/channels/usa/Cinemax.png" group-title="MOVIES - সিনেমা",Cinemax
 http://watchindia.net:8880/live/82963/72037/2065.ts
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://watchindia.net/images/channels/usa/FX.png" group-title="MOVIES - সিনেমা",FX
+#EXTINF:-1  tvg-name="FX" tvg-id="FX" tvg-logo="https://watchindia.net/images/channels/usa/FX.png" group-title="MOVIES - সিনেমা",FX
 http://watchindia.net:8880/live/82963/72037/2136.ts
-
-#EXTINF:-1 tvg-id="SonyWah" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="MOVIES - সিনেমা",Sony Wah
+#EXTINF:-1  tvg-name="Sony Wah" tvg-id="SonyWah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="MOVIES - সিনেমা",Sony Wah
 http://watchindia.net:8880/live/82963/72037/814.ts
-
-#EXTINF:-1 tvg-id="ColorsCineplexHD" tvg-name="Colors Cineplex HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="MOVIES - সিনেমা",Colors Cineplex HD
+#EXTINF:-1  tvg-name="Colors Cineplex HD" tvg-id="ColorsCineplexHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="MOVIES - সিনেমা",Colors Cineplex HD
 https://mycdn.tamilultratv.com/live.m3u8?id=1477
-
-#EXTINF:-1 tvg-id="CRAVE1" tvg-name="CRAVE 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="MOVIES - সিনেমা",CRAVE 1
+#EXTINF:-1  tvg-name="CRAVE 1" tvg-id="CRAVE1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-title="MOVIES - সিনেমা",CRAVE 1
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-
-#EXTINF:-1 tvg-id="CRAVE2" tvg-name="CRAVE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="MOVIES - সিনেমা",CRAVE 2
+#EXTINF:-1  tvg-name="CRAVE 2" tvg-id="CRAVE2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="MOVIES - সিনেমা",CRAVE 2
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-
-#EXTINF:-1 tvg-id="CRAVE3" tvg-name="CRAVE 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="MOVIES - সিনেমা",CRAVE 3
+#EXTINF:-1  tvg-name="CRAVE 3" tvg-id="CRAVE3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-title="MOVIES - সিনেমা",CRAVE 3
 http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-
-#EXTINF:-1 tvg-id="CRAVE4" tvg-name="CRAVE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="MOVIES - সিনেমা",CRAVE 4
+#EXTINF:-1  tvg-name="CRAVE 4" tvg-id="CRAVE4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="MOVIES - সিনেমা",CRAVE 4
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-
-#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="MOVIES - সিনেমা",FXM
+#EXTINF:-1  tvg-name="FXM" tvg-id="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="MOVIES - সিনেমা",FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO
+#EXTINF:-1  tvg-name="HBO" tvg-id="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO Comedy
+#EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBOComedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO Family
+#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBOFamily" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO Zone
+#EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBOZone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO2
+#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="MOVIES - সিনেমা",HBO2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovieChannel" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="MOVIES - সিনেমা",Sony Movie Channel
+#EXTINF:-1  tvg-name="Sony Movie Channel" tvg-id="SonyMovieChannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="MOVIES - সিনেমা",Sony Movie Channel
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
-
-#EXTINF:-1 tvg-id="Starz" tvg-name="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz
+#EXTINF:-1  tvg-name="Starz" tvg-id="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzComedy" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Comedy
+#EXTINF:-1  tvg-name="Starz Comedy" tvg-id="StarzComedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEdge" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Edge
+#EXTINF:-1  tvg-name="Starz Edge" tvg-id="StarzEdge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncore" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Encore
+#EXTINF:-1  tvg-name="Starz Encore" tvg-id="StarzEncore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Encore
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncoreAction" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Encore Action
+#EXTINF:-1  tvg-name="Starz Encore Action" tvg-id="StarzEncoreAction" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-
-#EXTINF:-1 tvg-id="STARZENCORECLASSIC" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="MOVIES - সিনেমা",STARZ ENCORE CLASSIC
+#EXTINF:-1  tvg-name="STARZ ENCORE CLASSIC" tvg-id="STARZENCORECLASSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="MOVIES - সিনেমা",STARZ ENCORE CLASSIC
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="StarzEncoreWesterns" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Encore Westerns
+#EXTINF:-1  tvg-name="Starz Encore Westerns" tvg-id="StarzEncoreWesterns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="MOVIES - সিনেমা",Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-
-#EXTINF:-1 tvg-id="STARZWEST" tvg-name="STARZ WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="MOVIES - সিনেমা",STARZ WEST
+#EXTINF:-1  tvg-name="STARZ WEST" tvg-id="STARZWEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="MOVIES - সিনেমা",STARZ WEST
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
-
-#EXTINF:-1 tvg-id="SundanceTV" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="MOVIES - সিনেমা",SundanceTV
+#EXTINF:-1  tvg-name="SundanceTV" tvg-id="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="MOVIES - সিনেমা",SundanceTV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-
-#EXTINF:-1 tvg-id="Pixl" tvg-name="Pixl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pixl-us.png?raw=true" group-title="MOVIES - সিনেমা",Pixl
+#EXTINF:-1  tvg-name="Pixl" tvg-id="Pixl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pixl-us.png?raw=true" group-title="MOVIES - সিনেমা",Pixl
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1665
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="MOVIES - সিনেমা",TBS
+#EXTINF:-1  tvg-name="TBS" tvg-id="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="MOVIES - সিনেমা",TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8

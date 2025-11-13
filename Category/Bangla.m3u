@@ -1,7 +1,7 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-name="IH IPTV" tvg-id="IHIPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="BANGLA - বাংলা",IH IPTV
+#EXTINF:-1 tvg-chno="0"  tvg-name="IH IPTV" tvg-id="IHIPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="BANGLA - বাংলা",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
-#EXTINF:-1  tvg-name="Jamuna TV" tvg-id="BD_JamunaTV" tvg-logo="https://i.ibb.co.com/NNjLgnk/20250127-215209.png" group-title="BANGLA - বাংলা",Jamuna TV
+#EXTINF:-1 tvg-chno="1"  tvg-name="Jamuna TV" tvg-id="BD_JamunaTV" tvg-logo="https://i.ibb.co.com/NNjLgnk/20250127-215209.png" group-title="BANGLA - বাংলা",Jamuna TV
 http://starshare.live:8080/live/852963741/852963741/421.m3u8
 #EXTINF:-1  tvg-name="Somoy TV" tvg-id="BD_SomoyTV" tvg-logo="https://i.ibb.co.com/42qQ0Ps/20250127-205958.png" group-title="BANGLA - বাংলা",Somoy TV
 http://starshare.live:8080/live/852963741/852963741/422.m3u8
@@ -19,9 +19,7 @@ https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 http://starshare.live:8080/live/852963741/852963741/767.m3u8
 #EXTINF:-1  tvg-name="Ekushey TV" tvg-id="bd-loc:EkusheyTV" tvg-logo="https://i.ibb.co.com/H7G9zw9/20250127-203806.png" group-title="BANGLA - বাংলা",Ekushey TV
 http://mega4k.one:8080/23004/23004/132017
-#EXTINF:-1  tvg-name="DEEPTO TV" tvg-id="BD:DEEPTOTV" tvg-logo="https://i.ibb.co.com/4fVFcFr/20250127-203124.png" group-title="BANGLA - বাংলা",DEEPTO TV
-http://starshare.live:8080/live/852963741/852963741/1331.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BANGLA - বাংলা",DEEPTO TV HD
+#EXTINF:-1  tvg-name="DEEPTO TV" tvg-id="BD:DEEPTOTV" tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BANGLA - বাংলা",DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1  tvg-name="Maasranga TV" tvg-id="BD:MaasrangaTV" tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLA - বাংলা",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
