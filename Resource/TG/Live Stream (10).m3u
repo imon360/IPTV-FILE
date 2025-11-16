@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/QMyhqHm/mytv-Farid.jpg",mytv
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/pzh4hHd/Deshi-TVBangla-Farid.png",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/CJKv9BK/Ananda-tv-Farid.jpg",Ananda TV
+https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co.com/P6fxv6p/makkahtv-Farid.jpg",Makka tv
+https://app.ncare.live/live-orgin/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png",Colors
+http://stvlive.net:8080/colorshd/index.m3u8
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/2ZmgH8L/Bollywood-Classic-Farid.png",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co.com/9yCsnD3/Bollywood-Prime-Farid.jpg",Bollywood Prime
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png",RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png",Nickelodeon pluto
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg",ToonzKids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-ind/poster_20240521_223810.jpg",Kids TV English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/poster_20230518_164234.jpg",Kids TV Hindi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png",DISCOVERY KIDS
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png",Unifi
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Documentary_Nature & Life Style" tvg-logo="https://teohdtv.github.io/thumbs/SNG/WFC.png",World Fashion Channel
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/poster_20210706_165834.jpg",Mastiii - India's No.1 Music and Youth Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/poster_20240521_223853.jpg",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://a.jsrdn.com/hls/23111/9x-jalwa/poster_20230328_212825.jpg",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/poster_20240322_175609.jpg",YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/poster_20240322_183946.jpg",Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://a.jsrdn.com/hls/23060/balle-balle/poster_20220718_170813.png",Balle Balle
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://a.jsrdn.com/hls/23146/saga-music-haryanvi/poster_20240322_184610.jpg",Saga Music Haryanvi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
+#EXTINF:-1 group-title="English Music" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/poster_20230215_212234.jpg",TRACE Brasil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+#EXTINF:-1 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/vibee.tv.png",V2Beat
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/kronehit.at.png",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/1mus.png",1 Music Channel
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="English Music" tvg-logo="https://tv.minchev.eu/logos/1mus.ru.png",1 Music Channel
+http://rtmp.one.by:2300

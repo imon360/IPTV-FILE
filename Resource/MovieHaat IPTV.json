@@ -1,0 +1,261 @@
+{
+  "SPORTS": [
+    {
+      "name": "T SPORTS",
+      "url": "http://172.16.29.2:8090/hls/tsportshd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/TSports.jpg"
+    },
+    {
+      "name": "WILLOW CRICKET",
+      "url": "http://172.16.29.2:8090/hls/WillowCricket2HD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/willow.png"
+    },
+    {
+      "name": "A SPORTS",
+      "url": "http://172.16.29.2:8090/hls/ASportsHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/ptvsports.png"
+    },
+    {
+      "name": "STAR SPORTS 2",
+      "url": "http://172.16.29.2:8090/hls/StarSports2HD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/starsports2.png"
+    },
+    {
+      "name": "STAR SPORTS SELECT",
+      "url": "http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/starsportsselect1.png"
+    },
+    {
+      "name": "STAR SPORTS SELECT 2",
+      "url": "http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/starsportsselect2hd.png"
+    },
+    {
+      "name": "WILLOW CRICKET 2",
+      "url": "http://172.16.29.2:8090/hls/willowcrickethd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/willow.png"
+    },
+    {
+      "name": "SPORTS LIVE",
+      "url": "http://172.16.29.2:8090/hls/sportsliveevents.m3u8",
+      "logo": "http://172.16.29.2:8090/images/ptvsports.png"
+    },
+    {
+      "name": "XTREAM SPORTS",
+      "url": "http://172.16.29.2:8090/hls/xtreamsports.m3u8",
+      "logo": "http://172.16.29.2:8090/images/ptvsports.png"
+    },
+    {
+      "name": "STAR SPORTS ",
+      "url": "http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/ptvsports.png"
+    },
+    {
+      "name": "STAR SPORTS 1",
+      "url": "http://172.16.29.2:8090/hls/StarSports1HD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/ptvsports.png"
+    },
+    {
+      "name": "SONY TEN 5",
+      "url": "http://172.16.29.2:8090/hls/SonyTen5HD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sonyten5.png"
+    },
+    {
+      "name": "SONY TEN 2",
+      "url": "http://172.16.29.2:8090/hls/SonyTen2hd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sony-ten-2.png"
+    },
+    {
+      "name": "EUROSPORTS",
+      "url": "http://172.16.29.2:8090/hls/eurosportshd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/eurosport.png"
+    },
+    {
+      "name": "SONY TEN 1",
+      "url": "http://172.16.29.2:8090/hls/SonyTen1hd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sony-ten-1.png"
+    },
+    {
+      "name": "SONY TEN 3",
+      "url": "http://172.16.29.2:8090/hls/SonyTen3hd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sony-ten-3.png"
+    },
+    {
+      "name": "FUBO SPORTS",
+      "url": "http://172.16.29.2:8090/hls/fubosports.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sony-ten-1.png"
+    },
+    {
+      "name": "DD SPORTS",
+      "url": "http://172.16.29.2:8090/hls/ddsports.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sony-ten-1.png"
+    },
+    {
+      "name": "WORLD FREE SPORTS",
+      "url": "http://172.16.29.2:8090/hls/WorldofFreeSports.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sony-ten-1.png"
+    }
+  ],
+  "BANGLA": [
+    {
+      "name": "GTV",
+      "url": "http://172.16.29.2:8090/hls/gazitvhd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/gtv.png"
+    },
+    {
+      "name": "JAMUNA TV",
+      "url": "http://172.16.29.2:8090/hls/JamunaTV.m3u8",
+      "logo": "http://172.16.29.2:8090/images/jamunatv.jpg"
+    },
+    {
+      "name": "SOMOY TV",
+      "url": "http://172.16.29.2:8090/hls/somoytv.m3u8",
+      "logo": "http://172.16.29.2:8090/images/somoytv.jpg"
+    },
+    {
+      "name": "CHANNEL I",
+      "url": "http://172.16.29.2:8090/hls/channelihd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/channelihd.jpg"
+    },
+    {
+      "name": "ATN NEWS",
+      "url": "http://172.16.29.2:8090/hls/AtnNews.m3u8",
+      "logo": "http://172.16.29.2:8090/images/atnnews.jpg"
+    },
+    {
+      "name": "ZEE BANGLA",
+      "url": "http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/zeebangla.png"
+    },
+    {
+      "name": "ENTER10 BANGLA",
+      "url": "http://172.16.29.2:8090/hls/Enter10Bangla.m3u8",
+      "logo": "http://172.16.29.2:8090/images/enterbangla.png"
+    },
+    {
+      "name": "ZEE BANGLA CINEMA",
+      "url": "http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/zeebanglacinema.png"
+    },
+    {
+      "name": "JALSHA MOVIES",
+      "url": "http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/jalshamovies.png"
+    },
+    {
+      "name": "COLORS BANGLA",
+      "url": "http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/colorsbangla.png"
+    },
+    {
+      "name": "STAR JALSHA",
+      "url": "http://172.16.29.2:8090/hls/StarJalshaHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/starjalsha.png"
+    }
+  ],
+  "HINDI": [
+    {
+      "name": "ZEE CINEMA",
+      "url": "http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/zeecinema.png"
+    },
+    {
+      "name": "SONY HD",
+      "url": "http://172.16.29.2:8090/hls/SonyHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sony.png"
+    },
+    {
+      "name": "ZEE TV HD",
+      "url": "http://172.16.29.2:8090/hls/ZeeTVHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/zeetv.png"
+    },
+    {
+      "name": "STAR GOLD",
+      "url": "http://172.16.29.2:8090/hls/StarGoldHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/stargoldhd.png"
+    },
+    {
+      "name": "COLORS HD",
+      "url": "http://172.16.29.2:8090/hls/ColorsHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/colors.png"
+    },
+    {
+      "name": "SONY AATH",
+      "url": "http://172.16.29.2:8090/hls/SonyAtth.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sonyaath.png"
+    },
+    {
+      "name": "SONY MAX",
+      "url": "http://172.16.29.2:8090/hls/sonymaxhd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sonymax.png"
+    },
+    {
+      "name": "STAR MOVIES",
+      "url": "http://172.16.29.2:8090/hls/StarMoviesHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/star-movies-hd.jpg"
+    },
+    {
+      "name": "STAR PLUS",
+      "url": "http://172.16.29.2:8090/hls/StarPlusHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/starplus.png"
+    }
+  ],
+  "NEWS": [
+    {
+      "name": "ALJAZEERA NEWS",
+      "url": "http://172.16.29.2:8090/hls/ALjazeeraNews.m3u8",
+      "logo": "http://172.16.29.2:8090/images/aljazeranews.png"
+    },
+    {
+      "name": "BBC WORLD",
+      "url": "http://172.16.29.2:8090/hls/bbc_world.m3u8",
+      "logo": "http://172.16.29.2:8090/images/bbcworldnews.png"
+    },
+    {
+      "name": "BBC EARTH",
+      "url": "http://172.16.29.2:8090/hls/bbcearthhd.m3u8",
+      "logo": "http://172.16.29.2:8090/images/bbcworldnews.png"
+    }
+  ],
+  "MUSIC": [
+    {
+      "name": "SANGEET BANGLA",
+      "url": "http://172.16.29.2:8090/hls/SangeetBangla.m3u8",
+      "logo": "http://172.16.29.2:8090/images/sangeetbangla.png"
+    }
+  ],
+  "KIDS": [
+    {
+      "name": "DISCOVERY KIDS",
+      "url": "http://172.16.29.2:8090/hls/DiscoveryKids.m3u8",
+      "logo": "http://172.16.29.2:8090/images/discoveryhd.png"
+    },
+    {
+      "name": "CARTOON NETWORK",
+      "url": "http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/cnhd.png"
+    }
+  ],
+  "ENGLISH": [
+    {
+      "name": "COLORS CINEPLEX",
+      "url": "http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/colorscineplex.png"
+    },
+    {
+      "name": "NAT GEO WILD",
+      "url": "http://172.16.29.2:8090/hls/NatGeoWild.m3u8",
+      "logo": "http://172.16.29.2:8090/images/natgeo.png"
+    },
+    {
+      "name": "DISCOVERY",
+      "url": "http://172.16.29.2:8090/hls/DiscoveryHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/discoveryhd.png"
+    },
+    {
+      "name": "ANIMAL PLANET",
+      "url": "http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8",
+      "logo": "http://172.16.29.2:8090/images/discoveryhd.png"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 ,Astro Cricket
+https://smart.bengaldigital.live/AstroCricket/index.m3u8
+#EXTINF:-1 ,T sports
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f060997239
+https://ottb.live.cf.ww.aiv-cdn.net/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1  tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg",Tapmad
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapasia/master.m3u8
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+http://175.107.244.52:4456/play/a042
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 group-title="News" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png",CNN 📺
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",MAKKA TV 📺
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/tTw8ChjL/images-1.png",Saudi Thaqafiya TV (1080p) 📺
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg",কুরআন তেলাওয়াত 1 📺
+http://164.215.98.132:2082/8649G54859/8649G54859/7217
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/HTW5NZDn/d9afec0f487f.jpg",কুরআন তেলাওয়াত 2 📺
+http://164.215.98.132:2082/8649G54859/8649G54859/71089
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg",কুরআন তেলাওয়াত 3 📺
+http://164.215.98.132:2082/8649G54859/8649G54859/71444
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg",কুরআন তেলাওয়াত 4 📺
+http://164.215.98.132:2082/8649G54859/8649G54859/71094
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg",কুরআন তেলাওয়াত ৬ 📺
+http://164.215.98.132:2082/8649G54859/8649G54859/4868
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg",Quran Redio 📻
+http://66.45.232.131:9994/;stream.mp3
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/y2nJsbF/986f430a0b59.jpg",Noor TV 📺
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 group-title="kids" tvg-logo="https://s3.aynaott.com/storage/53b61525cccd385419ef395273f66077",CARTOON NETWORK 📺
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 group-title="kids" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book 📺
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 ,Gxr Real Madrid
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
+#EXTINF:-1 ,RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 1
+https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 2
+https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 3
+https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 4
+https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 5
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 6
+https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 7
+https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 8
+https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 9
+https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 10
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 11
+https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 12
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 13
+https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 17
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+#EXTINF:-1 group-title="sliv live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAF3QyGa0afYCA3_yuj5uWDPPeD700MPB3Lw&s",Channel 18
+https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8

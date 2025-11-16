@@ -1,0 +1,31 @@
+FULL --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/IPTV.m3u
+
+BANGLA - বাংলা --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Bangla.m3u
+
+NEWS - খবর --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/News.m3u
+
+KOLKATA - কলকাতা --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Kolkata.m3u
+
+HINDI - হিন্দি --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Hindi.m3u
+
+MOVIES - সিনেমা --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Movies.m3u
+
+ENTERTAINMENT - বিনোদন --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Entertainment.m3u
+
+KIDS - কার্টুন --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Kids.m3u
+
+MUSIC - গান --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Music.m3u
+
+WORLD - বিশ্ব --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/World.m3u
+
+SPORTS - খেলা --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Sports.m3u
+
+ALL SPORTS - সকল খেলা --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/All-Sports.m3u
+
+OTHERS - অন্যান্য --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Others.m3u
+
+MOVIES COLLECTION --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category//Movies-Collection.m3u
+
+WEB SERIES COLLECTION --- https://raw.githubusercontent.com/imon360/IPTV-FILE/refs/heads/main/Category/Web-Series-Collection.m3u
+
+---------------------------------------------------------------------------------------------------------------------------

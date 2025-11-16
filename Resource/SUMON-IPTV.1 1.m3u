@@ -1,0 +1,332 @@
+
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BANGLA",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+http://10.20.30.30:8989/Srktv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest/scale-to-width-down/235?cb=20220419153100",Peace TV বাংলা
+http://10.20.30.30:8989/PeaceTvBangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",T-Sports BDIX
+http://10.20.30.30:8989/WILLOW/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg",বিটিভি
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png",দ্বীপ্ত টি়ভি
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",সময় টিভি
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",একাত্তর টিভি
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",চ্যানেল 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",ইনডিপেন্ডডেন্ট টিভি
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",যমুনা টিভি
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",এটিএন নিউজ
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",চ্যানেল আই
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+http://stvlive.net:8080/channeli/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",এনটিভি
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="banglavision.bd" tvg-logo="https://www.bvnews24.com/media/common/newbvlogo.png",বাংলা ভিশন
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",এটিএন বাংলা
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="BANGLA",একুশে টিভি
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",মাই টিভি
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",মুভি বাংলা
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA",Me-টিভি
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLA",দেশি টিভি
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/4ktravel_960X540-removebg-preview.png",4K Travel Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Drone tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg", group-title="Indian Bangla",Star Jalsha HD 
+https://xfireflix.fun/file/opplex/playlist.m3u?id=245898&e=.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE BANGLA HD
+http://103.175.242.10:8080/zeebangla/index.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian Bangla",ZEE Bangla
+https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangla" tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter10 Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="DDBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="KolkataTv.in" tvg-logo="https://a.jsrdn.com/hls/23215/kolkata-tv/logo_20250819_185012_70.png",Kolkata Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="CalcuttaNews" tvg-logo="https://assets.calcuttatelevisionnetwork.in/cn.png",Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",Zee 24 GHONTA
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+
+
+#EXTINF:-1 group-title="Music" tvg-id="YRFMusic.in" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png",YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MUSICINDIA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg",MUSIC INDIA HD
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Mastiii.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Mastiii_2023.jpg",Mastiii
+https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Zoom.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zoom_2018_logo.jpg",Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="BhojpuriCinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="BollywoodClassic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bollywood_Clasic_2024.svg",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="BollywoodHD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Bollywood.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",All Time Movies CD-1
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Bollywood2.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",All Time Movies CD-2
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ShemarooBollywood.in" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+http://filex.me:8080/live/755766/755766/142889.ts
+#EXTINF:-1 group-title="Movies" tvg-id="B4UKadak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg",HINDI | B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="B4UMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",HINDI | B4U Movies India
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="JooMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png",HI | Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="toonami.aftermath.movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TOONAMI-2025.svg",EN | Toonami Aftermath Movie
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ActionHollywoodMovies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",EN | Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="BangBangTV" tvg-logo="https://alchetron.com/cdn/bang-bang-tv-channel-86505200-5377-43bb-ac56-4a72cc2c786-resize-750.jpg",EN | Bang Bang TV
+https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="GrandCinema" tvg-logo="https://grandcinema.tv/logo.png",EN | Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Circle" tvg-logo="https://www.circlecountry.com/app/themes/circle-tailpress/images/circlecountry_logo.svg",EN | Circle
+https://circle-roku.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",মটু-পাতলু
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://uplo_logo.png",ডোরেমন
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimego.png",গোপাল ভাড়
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",জঙ্গল Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+
+TATA
+
+
+#EXTINF:-1 ,& Pictures HD
+http://filex.me:8080/live/755766/755766/275042.ts
+#EXTINF:-1 ,এন্ড পিকচার HD
+http://filex.me:8080/live/755766/755766/35.ts
+#EXTINF:-1 ,SONY MAX HD
+http://filex.me:8080/live/755766/755766/275045.ts
+#EXTINF:-1 ,ছনি ম্যাক্স HD
+http://filex.me:8080/live/755766/755766/33.ts
+#EXTINF:-1 ,STAR GOLD HD
+http://filex.me:8080/live/755766/755766/275049.ts
+#EXTINF:-1 ,স্টার গোল্ড HD
+http://filex.me:8080/live/755766/755766/29.ts
+#EXTINF:-1 ,STAR GOLD Select HD
+http://filex.me:8080/live/755766/755766/275051.ts
+#EXTINF:-1 ,স্টার গোল্ড সিলেক্ট HD
+http://filex.me:8080/live/755766/755766/28.ts
+#EXTINF:-1 ,STAR GOLD Thrills HD
+http://filex.me:8080/live/755766/755766/275052.ts
+#EXTINF:-1 ,স্টার গোল্ড থ্রিলার HD
+http://filex.me:8080/live/755766/755766/189473.ts
+#EXTINF:-1 ,ZEE Cinema HD
+http://filex.me:8080/live/755766/755766/275058.ts
+#EXTINF:-1 ,& FLIX HD
+http://filex.me:8080/live/755766/755766/275041.ts
+#EXTINF:-1 ,এন্ড ফ্লিক্স HD
+http://filex.me:8080/live/755766/755766/55.ts
+#EXTINF:-1 ,& Prive HD
+http://filex.me:8080/live/755766/755766/275043.ts
+#EXTINF:-1 ,এন্ড প্রাইভ HD
+http://filex.me:8080/live/755766/755766/53043.ts
+
+#EXTINF:-1 ,SONY PIX HD
+http://filex.me:8080/live/755766/755766/275048.ts
+#EXTINF:-1 ,ছনি পিক্স HD
+http://filex.me:8080/live/755766/755766/75.ts
+#EXTINF:-1 ,STAR Movies HD
+http://filex.me:8080/live/755766/755766/275053.ts
+#EXTINF:-1 ,স্টার মুভিস HD
+http://filex.me:8080/live/755766/755766/52223.ts
+#EXTINF:-1 ,STAR Movies Select HD
+http://filex.me:8080/live/755766/755766/275054.ts
+#EXTINF:-1 ,tvg-logo="https://i.imgur.com/LP27MEL.png", Movie NOW HD
+http://filex.me:8080/live/755766/755766/113.ts
+#EXTINF:-1 ,MN PLUS HD
+http://filex.me:8080/live/755766/755766/275057.ts
+#EXTINF:-1 ,MNX
+http://filex.me:8080/live/755766/755766/530420.ts
+#EXTINF:-1 ,Mnx HD
+http://filex.me:8080/live/755766/755766/530421.ts
+
+#EXTINF:-1 ,SONY SAB HD
+http://filex.me:8080/live/755766/755766/275044.ts
+#EXTINF:-1 ,সনি সাবটিভি HD
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 ,ZEE TV HD
+http://filex.me:8080/live/755766/755766/275034.ts
+#EXTINF:-1 ,জি টিভি HD
+http://filex.me:8080/live/755766/755766/13.ts
+#EXTINF:-1 ,SONY SET HD
+http://filex.me:8080/live/755766/755766/275035.ts
+#EXTINF:-1 ,সনি সেট HD
+http://filex.me:8080/live/755766/755766/15.ts
+#EXTINF:-1 ,Colors HD
+http://filex.me:8080/live/755766/755766/275036.ts
+#EXTINF:-1 ,কালারস HD
+http://filex.me:8080/live/755766/755766/19.ts
+#EXTINF:-1 ,& TV HD
+http://filex.me:8080/live/755766/755766/275040.ts
+#EXTINF:-1 ,এন্ড টিভি HD
+http://filex.me:8080/live/755766/755766/23.ts
+
+#EXTINF:-1 ,SONY MAX 2 HD
+http://filex.me:8080/live/755766/755766/275046.ts
+#EXTINF:-1 ,STAR GOLD 2 HD
+http://filex.me:8080/live/755766/755766/275050.ts
+#EXTINF:-1 ,ZEE Bollywood HD
+http://filex.me:8080/live/755766/755766/275059.ts
+#EXTINF:-1 ,ZEE Classic HD
+http://filex.me:8080/live/755766/755766/275061.ts
+#EXTINF:-1 ,SHEMAROO BOLLYWOOD HD
+http://filex.me:8080/live/755766/755766/142889.ts
+
+
+
+
+
+Hollywood DUBBED
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 1 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 1 FHD
+http://filex.me:8080/live/755766/755766/533221.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 2 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 2 FHD
+http://filex.me:8080/live/755766/755766/533222.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 3 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 3 FHD
+http://filex.me:8080/live/755766/755766/533223.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 4 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 4 FHD
+http://filex.me:8080/live/755766/755766/533224.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 5 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 5 FHD
+http://filex.me:8080/live/755766/755766/533225.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 6 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 6 FHD
+http://filex.me:8080/live/755766/755766/533226.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 7 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 7 FHD
+http://filex.me:8080/live/755766/755766/533227.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 8 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 8 FHD
+http://filex.me:8080/live/755766/755766/533228.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 9 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 9 FHD
+http://filex.me:8080/live/755766/755766/533229.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 10 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 10 FHD
+http://filex.me:8080/live/755766/755766/533230.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 11 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 11 FHD
+http://filex.me:8080/live/755766/755766/533231.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 12 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 12 FHD
+http://filex.me:8080/live/755766/755766/533232.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 13 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 13 FHD
+http://filex.me:8080/live/755766/755766/533233.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 14 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 14 FHD
+http://filex.me:8080/live/755766/755766/533234.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 15 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 15 FHD
+http://filex.me:8080/live/755766/755766/533235.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 16 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 16 FHD
+http://filex.me:8080/live/755766/755766/533236.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 17 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 17 FHD
+http://filex.me:8080/live/755766/755766/533237.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 18 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 18 FHD
+http://filex.me:8080/live/755766/755766/533238.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 19 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 19 FHD
+http://filex.me:8080/live/755766/755766/533239.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 20 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 20 FHD
+http://filex.me:8080/live/755766/755766/533240.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 21 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 21 FHD
+http://filex.me:8080/live/755766/755766/533241.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 22 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 22 FHD
+http://filex.me:8080/live/755766/755766/533242.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 23 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 23 FHD
+http://filex.me:8080/live/755766/755766/533243.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 24 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 24 FHD
+http://filex.me:8080/live/755766/755766/533244.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 25 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 25 FHD
+http://filex.me:8080/live/755766/755766/533245.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 26 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 26 FHD
+http://filex.me:8080/live/755766/755766/533246.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 27 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 27 FHD
+http://filex.me:8080/live/755766/755766/533247.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 28 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 28 FHD
+http://filex.me:8080/live/755766/755766/533248.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 29 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 29 FHD
+http://filex.me:8080/live/755766/755766/533249.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 30 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 30 FHD
+http://filex.me:8080/live/755766/755766/533250.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 31 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 31 FHD
+http://filex.me:8080/live/755766/755766/533251.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 32 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 32 FHD
+http://filex.me:8080/live/755766/755766/533252.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 33 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 33 FHD
+http://filex.me:8080/live/755766/755766/533253.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 34 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 34 FHD
+http://filex.me:8080/live/755766/755766/533254.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 35 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 35 FHD
+http://filex.me:8080/live/755766/755766/533255.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 36 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 36 FHD
+http://filex.me:8080/live/755766/755766/533256.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 37 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 37 FHD
+http://filex.me:8080/live/755766/755766/533257.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 38 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 38 FHD
+http://filex.me:8080/live/755766/755766/533258.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 39 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 39 FHD
+http://filex.me:8080/live/755766/755766/533259.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CInemania Hollywood Hindi Dubbed 40 FHD" tvg-logo="" group-title="StreamFlex🪔CINEMANIA DUB 24/7",CInemania Hollywood Hindi Dubbed 40 FHD
+http://filex.me:8080/live/755766/755766/533260.ts
+
+

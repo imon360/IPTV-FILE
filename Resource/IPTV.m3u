@@ -1,0 +1,7 @@
+#EXTM3U
+###--------------------------Bangla--------------------------###
+#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="BANGLA - বাংলা",IH IPTV
+http://172.16.29.34/ontest1/ontest1/257
+
+#EXTINF:-1 tvg-id="BD_JamunaTV" tvg-name="Jamuna TV BDIX" tvg-logo="https://i.ibb.co.com/NNjLgnk/20250127-215209.png" group-title="BANGLA - বাংলা",Jamuna TV BDIX
+http://172.16.29.34/ontest1/ontest1/297

@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cricket 🏏",PTV Sports 📺
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",NZ_sky_Sport_2 📺
+http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
+#EXTINF:-1 group-title="Cricket 🏏",T Sports HD 🇧🇩 📺
+http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",T Sports HD 🇧🇩 📺
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
+#EXTINF:-1 group-title="Cricket 🏏",Fox 501 HD 📺
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",Astro Cricket HD 📺
+https://smart.bengaldigital.live/AstroCricket/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",Ten Cricket HD 🇧🇩 📺
+http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
+#EXTINF:-1 group-title="Cricket 🏏",T Sports HD 🇧🇩 📺
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",Solh Live Sports  📺
+http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",Willow Sports  📺
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 group-title="Cricket 🏏",DD SPORTS
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png",RTA Sports HD
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Cricket 🏏",Unifi HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 group-title="Football",Russia Football 1 HD
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1 group-title="Football",Russia Football 2 HD
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 group-title="Football",Russia Football 3 HD
+http://cdntv.online/low/9mlxywika2/57.m3u8
+#EXTINF:-1 group-title="Football",Fox Football ESPN HD
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
+#EXTINF:-1 group-title="Football",Astro Football HD
+https://smart.bengaldigital.live/AstroFootball/index.m3u8
+#EXTINF:-1 group-title="Football",True Football 2 HD Thailand
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="Football",True Football 3 HD Thailand
+https://ww.dooballfree.vip/live/tpf3/playlist.m3u8
+#EXTINF:-1 group-title="Football",True Football 7 HD Thailand
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+#EXTINF:-1 group-title="Football",Mutv Football
+https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+#EXTINF:-1 group-title="Football",Arena_Sport
+http://178.23.88.55/Arena_sport/index.m3u8
+#EXTINF:-1 group-title="Football",Sport 1 HD
+http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:-1 group-title="Football",Nova_Sport
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:-1 group-title="Football",Eurosport_2
+http://178.23.88.55/Eurosport_2/index.m3u8
