@@ -1,580 +1,265 @@
-#EXTM3U
-###--------------------------Sports--------------------------###
-#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="SPORTS - খেলা",IH IPTV
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="IH IPTV" tvg-id="IHIPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="SPORTS - খেলা",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
-
-#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
-https://eplayhdtv.site/fancode1/tracks-v1a1/mono.ts.m3u8?token=ADM1-1738934817-7352f0c68a27a702912657769cfe223464fe1a0d
-
-#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
-https://eplayhdtv.site/6/tracks-v1a1/mono.ts.m3u8?token=ADM1-1738935032-c70f26de140eac83d76ecfd32ee66f87cd2ed9fb
-
-#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
-https://cdn.sadman.ip-ddns.com/live/fGE3nvUKb7/ajUDk6G0Jy/48010.ts
-
-#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 1
-https://koro-churi-jodi-na-paro-dhara.tiiny.io/stream.php/BPLSpecial.m3u8
-
-#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 2
-https://streamline.sturls.com/BPLSpecial/index.fmp4.m3u8?token=cf67707c1518878bbfacee979465c8519b4b0c92-bb443911e8769835ff4445f177e52152-1737627345-1737616545
-
-#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 3
-https://koro-churi-jodi-na-paro-dhara.tiiny.io/stream.php/BPLSpecial.m3u8
-
-#EXTINF:-1 tvg-id="BPL1" tvg-name="BPL 1" tvg-logo="https://i.ibb.co.com/Yy3Y2B0/1000010450.png" group-title="SPORTS - খেলা", BPL 4
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/48010.ts
-
-#EXTINF:-1 tvg-id="Fancode" tvg-name="Fancode" tvg-logo="https://i.ibb.co.com/16Cq5Xg/20250112-224933.png" group-title="SPORTS - খেলা", Fancode
-https://buddyxiptv.com/fancode/global/primary/114492_english_hls_5266ta-no/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1Eng4KUltraHD" tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Eng 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-id="StarSports1Eng4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Eng 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74227
-
-#EXTINF:-1 tvg-id="StarSports1Hindi4KUltraHD" tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Hindi 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-id="StarSports1Hindi4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Hindi 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74228
-
-#EXTINF:-1 tvg-id="StarSports2Eng4KUltraHD" tvg-name="Star Sports 2 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SPORTS - খেলা",Star Sports 2 Eng 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports 2 Eng 4K Ultra HD" tvg-id="StarSports2Eng4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SPORTS - খেলা",Star Sports 2 Eng 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74229
-
-#EXTINF:-1 tvg-id="Sports184KUltraHD" tvg-name="Sports 18 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="SPORTS - খেলা",Sports 18 4K Ultra HD
+#EXTINF:-1  tvg-name="Sports 18 4K Ultra HD" tvg-id="Sports184KUltraHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="SPORTS - খেলা",Sports 18 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74230
-
-#EXTINF:-1 tvg-id="StarSportsSelect14KUltraHD" tvg-name="Star Sports Select 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SPORTS - খেলা",Star Sports Select 1 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports Select 1 4K Ultra HD" tvg-id="StarSportsSelect14KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SPORTS - খেলা",Star Sports Select 1 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74231
-
-#EXTINF:-1 tvg-id="StarSportsSelect24KUltraHD" tvg-name="Star Sports Select 2 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS - খেলা",Star Sports Select 2 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports Select 2 4K Ultra HD" tvg-id="StarSportsSelect24KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS - খেলা",Star Sports Select 2 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74232
-
-#EXTINF:-1 tvg-id="SonyTen14KUltraHD" tvg-name="Sony Ten 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS - খেলা",Sony Ten 1 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Ten 1 4K Ultra HD" tvg-id="SonyTen14KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS - খেলা",Sony Ten 1 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74233
-
-#EXTINF:-1 tvg-id="SonyTen24KUltraHD" tvg-name="Sony Ten 2 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="SPORTS - খেলা",Sony Ten 2 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Ten 2 4K Ultra HD" tvg-id="SonyTen24KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="SPORTS - খেলা",Sony Ten 2 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74234
-
-#EXTINF:-1 tvg-id="SonyTen34KUltraHD" tvg-name="Sony Ten 3 4K Ultra HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS - খেলা",Sony Ten 3 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Ten 3 4K Ultra HD" tvg-id="SonyTen34KUltraHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS - খেলা",Sony Ten 3 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74235
-
-#EXTINF:-1 tvg-id="SonySix4KUltraHD" tvg-name="Sony Six 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS - খেলা",Sony Six 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Six 4K Ultra HD" tvg-id="SonySix4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS - খেলা",Sony Six 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74236
-
-#EXTINF:-1 tvg-id="IN:WillowCricketᴴᴰ" tvg-name="IN: Willow Cricket ᴴᴰ" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="SPORTS - খেলা",IN: Willow Cricket ᴴᴰ
+#EXTINF:-1  tvg-name="IN: Willow Cricket ᴴᴰ" tvg-id="IN:WillowCricketᴴᴰ" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="SPORTS - খেলা",IN: Willow Cricket ᴴᴰ
 http://mega4k.one:8080/23004/23004/74237
-
-#EXTINF:-1 tvg-id="TenSports4KUltraHD" tvg-name="Ten Sports 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaicott6RUuaQXsm0YUZ9Ora2ErkD6MDgbg&usqp=CAU" group-title="SPORTS - খেলা",Ten Sports 4K Ultra HD
+#EXTINF:-1  tvg-name="Ten Sports 4K Ultra HD" tvg-id="TenSports4KUltraHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaicott6RUuaQXsm0YUZ9Ora2ErkD6MDgbg&usqp=CAU" group-title="SPORTS - খেলা",Ten Sports 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74238
-
-#EXTINF:-1 tvg-id="IN:DDSPORTS" tvg-name="IN: DD SPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="SPORTS - খেলা",IN: DD SPORTS
-http://mega4k.one:8080/23004/23004/74240
-
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="SPORTS - খেলা", Star Sport 1 HINDI
-http://opplex.live:8080/live/10jun.abbas/51316725/109986.ts
-
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="SPORTS - খেলা", Star Sports 1
-http://opplex.live:8080/live/10jun.abbas/51316725/109987.ts
-
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="noimg.png" group-title="SPORTS - খেলা", Star Sports 2
-http://opplex.live:8080/live/10jun.abbas/51316725/109988.ts
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="SPORTS - খেলা", Star Sports Select 1
-http://opplex.live:8080/live/10jun.abbas/51316725/109993.ts
-
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="SPORTS - খেলা", Star Sports Select 2
-http://opplex.live:8080/live/10jun.abbas/51316725/109994.ts
-
-#EXTINF:-1 tvg-id="ASports" tvg-name="A Sports" tvg-logo="http://172.20.3.1/assets/images/A%20Sports%20HD.png" group-title="SPORTS - খেলা",A Sports
-http://172.20.3.1:81/ASportsHD/tracks-v1a1/mono.m3
-
-#EXTINF:-1 tvg-id="BeINSportsXTRAHD" tvg-name="BeIN Sports XTRA HD" tvg-logo="http://172.20.3.1/assets/images/Bein%20Sports%20Xtra%20N1667749705.png" group-title="SPORTS - খেলা",BeIN Sports XTRA HD
-http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroSportHD" tvg-name="Euro Sport HD" tvg-logo="http://172.20.3.1/assets/images/Euro%20Sport.png" group-title="SPORTS - খেলা",Euro Sport HD
-http://172.20.3.1:81/EuroSportHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PremierSportsHD" tvg-name="Premier Sports HD" tvg-logo="http://172.20.3.1/assets/images/Premier%20Sports.png" group-title="SPORTS - খেলা",Premier Sports HD
-http://172.20.3.1:81/PremierSportsHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PTVSportsHD" tvg-name="PTV Sports HD" tvg-logo="http://172.20.3.1/assets/images/PTV%20Sports1664972620.png" group-title="SPORTS - খেলা",PTV Sports HD
+#EXTINF:-1  tvg-name="PTV Sports HD" tvg-id="PTVSportsHD" tvg-logo="http://172.20.3.1/assets/images/PTV%20Sports1664972620.png" group-title="SPORTS - খেলা",PTV Sports HD
 http://172.20.3.1:81/PTVSportsHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen1" tvg-name="Sony Sports Ten 1" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2011667728321.png" group-title="SPORTS - খেলা",Sony Sports Ten 1
+#EXTINF:-1  tvg-name="Sony Sports Ten 1" tvg-id="SonySportsTen1" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2011667728321.png" group-title="SPORTS - খেলা",Sony Sports Ten 1
 http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen2HD" tvg-name="Sony Sports Ten 2 HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2021667728105.png" group-title="SPORTS - খেলা",Sony Sports Ten 2 HD
+#EXTINF:-1  tvg-name="Sony Sports Ten 2 HD" tvg-id="SonySportsTen2HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2021667728105.png" group-title="SPORTS - খেলা",Sony Sports Ten 2 HD
 http://172.20.3.1:81/SonySportsTen2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SonySportsTen3HD" tvg-name="Sony Sports Ten 3 HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2031667728117.png" group-title="SPORTS - খেলা",Sony Sports Ten 3 HD
+#EXTINF:-1  tvg-name="Sony Sports Ten 3 HD" tvg-id="SonySportsTen3HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2031667728117.png" group-title="SPORTS - খেলা",Sony Sports Ten 3 HD
 http://172.20.3.1:81/SonySportsTen3HD/tracks-v1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SonySports5HD" tvg-name="Sony Sports 5 HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2051667728306.png" group-title="SPORTS - খেলা",Sony Sports 5 HD
+#EXTINF:-1  tvg-name="Sony Sports 5 HD" tvg-id="SonySports5HD" tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2051667728306.png" group-title="SPORTS - খেলা",Sony Sports 5 HD
 http://172.20.3.1:81/SonySports5HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sports181HD" tvg-name="Sports 18 1 HD" tvg-logo="http://172.20.3.1/assets/images/Sports18%201.png" group-title="SPORTS - খেলা",Sports 18 1 HD
+#EXTINF:-1  tvg-name="Sports 18 1 HD" tvg-id="Sports181HD" tvg-logo="http://172.20.3.1/assets/images/Sports18%201.png" group-title="SPORTS - খেলা",Sports 18 1 HD
 http://172.20.3.1:81/Sports181HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1HD" tvg-name="Star Sports 1 HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2011667750523.png" group-title="SPORTS - খেলা",Star Sports 1 HD
+#EXTINF:-1  tvg-name="Star Sports 1 HD" tvg-id="StarSports1HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2011667750523.png" group-title="SPORTS - খেলা",Star Sports 1 HD
 http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="StarSports2HD" tvg-name="Star Sports 2 HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2021667750538.png" group-title="SPORTS - খেলা",Star Sports 2 HD
+#EXTINF:-1  tvg-name="Star Sports 2 HD" tvg-id="StarSports2HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2021667750538.png" group-title="SPORTS - খেলা",Star Sports 2 HD
 http://172.20.3.1:81/StarSports2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="StarSportsSel1HD" tvg-name="Star Sports Sel 1 HD" tvg-logo="http://172.20.3.1/assets/images/StarSports%20Select%20HD1667750883.png" group-title="SPORTS - খেলা",Star Sports Sel 1 HD
+#EXTINF:-1  tvg-name="Star Sports Sel 1 HD" tvg-id="StarSportsSel1HD" tvg-logo="http://172.20.3.1/assets/images/StarSports%20Select%20HD1667750883.png" group-title="SPORTS - খেলা",Star Sports Sel 1 HD
 http://172.20.3.1:81/StarSportsSel1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="StarSportsSel2HD" tvg-name="Star Sports Sel 2 HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="SPORTS - খেলা",Star Sports Sel 2 HD
+#EXTINF:-1  tvg-name="Star Sports Sel 2 HD" tvg-id="StarSportsSel2HD" tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="SPORTS - খেলা",Star Sports Sel 2 HD
 http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TenCricket" tvg-name="Ten Cricket" tvg-logo="http://172.20.3.1/assets/images/Ten%20Cricket.png" group-title="SPORTS - খেলা",Ten Cricket
+#EXTINF:-1  tvg-name="Ten Cricket" tvg-id="TenCricket" tvg-logo="http://172.20.3.1/assets/images/Ten%20Cricket.png" group-title="SPORTS - খেলা",Ten Cricket
 http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="T-Sports" tvg-name="T-Sports" tvg-logo="http://172.20.3.1/assets/images/TSports1667821226.png" group-title="SPORTS - খেলা", T-Sports
+#EXTINF:-1  tvg-name="T-Sports" tvg-id="T-Sports" tvg-logo="http://172.20.3.1/assets/images/TSports1667821226.png" group-title="SPORTS - খেলা",T-Sports
 http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="T-Sports" tvg-name="T-Sports" tvg-logo="http://172.20.3.1/assets/images/TSports%2021668953490.png" group-title="SPORTS - খেলা", T-Sports
+#EXTINF:-1  tvg-name="T-Sports" tvg-id="T-Sports" tvg-logo="http://172.20.3.1/assets/images/TSports%2021668953490.png" group-title="SPORTS - খেলা",T-Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="T-Sports" tvg-name="T-Sports" tvg-logo="https://i.ibb.co.com/6Fk2sqx/TSports.png" group-title="SPORTS - খেলা", T-Sports
+#EXTINF:-1  tvg-name="T-Sports" tvg-id="T-Sports" tvg-logo="https://i.ibb.co.com/6Fk2sqx/TSports.png" group-title="SPORTS - খেলা",T-Sports
 https://live.tsports.com/live-01/index.m3u8
-
-#EXTINF:-1 tvg-id="T-Sports" tvg-name="T-Sports" tvg-logo="https://i.ibb.co.com/ZYVJFnj/1000010583.png" group-title="SPORTS - খেলা", T-Sports
+#EXTINF:-1  tvg-name="T-Sports" tvg-id="T-Sports" tvg-logo="https://i.ibb.co.com/ZYVJFnj/1000010583.png" group-title="SPORTS - খেলা",T-Sports
 https://live.tsports.com/live-02/index.m3u8
-
-#EXTINF:-1 tvg-id="ASports" tvg-name="A Sports" tvg-logo="" group-title="SPORTS - খেলা",A Sports
-https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
-
-#EXTINF:-1 tvg-id="Sports181" tvg-name="Sports 18 1" tvg-logo="https://i.ibb.co.com/L8DLjPq/Sports18-1-HD.png" group-title="SPORTS - খেলা",Sports 18 1
+#EXTINF:-1  tvg-name="Sports 18 1" tvg-id="Sports181" tvg-logo="https://i.ibb.co.com/L8DLjPq/Sports18-1-HD.png" group-title="SPORTS - খেলা",Sports 18 1
 https://mycdn.tamilultratv.com/live.m3u8?id=1985
-
-#EXTINF:-1 tvg-id="Sports182" tvg-name="Sports 18 2" tvg-logo="https://i.ibb.co.com/17g5Y3f/Sports18-2.png" group-title="SPORTS - খেলা",Sports 18 2
+#EXTINF:-1  tvg-name="Sports 18 2" tvg-id="Sports182" tvg-logo="https://i.ibb.co.com/17g5Y3f/Sports18-2.png" group-title="SPORTS - খেলা",Sports 18 2
 https://mycdn.tamilultratv.com/live.m3u8?id=2852
-
-#EXTINF:-1 tvg-id="Sports183" tvg-name="Sports 18 3" tvg-logo="https://i.ibb.co.com/0KkgW3w/Sports18-3.png" group-title="SPORTS - খেলা",Sports 18 3
+#EXTINF:-1  tvg-name="Sports 18 3" tvg-id="Sports183" tvg-logo="https://i.ibb.co.com/0KkgW3w/Sports18-3.png" group-title="SPORTS - খেলা",Sports 18 3
 https://mycdn.tamilultratv.com/live.m3u8?id=2853
-
-#EXTINF:-1 tvg-id="Cricket|WillowCricketHD" tvg-name="Cricket | Willow Cricket HD" tvg-logo="http://b1g.fun/logos2/willowhd.jpg" group-title="SPORTS - খেলা",Cricket | Willow Cricket HD
-http://mega4k.one:8080/23004/23004/92700
-
-#EXTINF:-1 tvg-id="Cricket|WillowCricketXtraHD" tvg-name="Cricket | Willow Cricket Xtra HD" tvg-logo="http://b1g.fun/logos2/willowxtra.jpg" group-title="SPORTS - খেলা",Cricket | Willow Cricket Xtra HD
-http://mega4k.one:8080/23004/23004/92701
-
-#EXTINF:-1 tvg-id="Cricket|FoxSports501HD" tvg-name="Cricket | Fox Sports 501 HD" tvg-logo="http://b1g.fun/logos2/fox_sports_cricket.jpg" group-title="SPORTS - খেলা",Cricket | Fox Sports 501 HD
-http://mega4k.one:8080/23004/23004/92702
-
-#EXTINF:-1 tvg-id="Cricket|SuperSportsCricketHD" tvg-name="Cricket | Super Sports Cricket HD" tvg-logo="http://b1g.fun/logos2/SS_cricket.jpg" group-title="SPORTS - খেলা",Cricket | Super Sports Cricket HD
-http://mega4k.one:8080/23004/23004/92703
-
-#EXTINF:-1 tvg-id="Cricket|AstroCricketHD" tvg-name="Cricket | Astro Cricket HD" tvg-logo="http://b1g.fun/logos2/Astro_cricket.jpg" group-title="SPORTS - খেলা",Cricket | Astro Cricket HD
-http://mega4k.one:8080/23004/23004/92704
-
-#EXTINF:-1 tvg-id="Cricket|SkySportsCricketHD" tvg-name="Cricket | Sky Sports Cricket HD" tvg-logo="http://b1g.fun/logos2/sky_sports_cricket.jpg" group-title="SPORTS - খেলা",Cricket | Sky Sports Cricket HD
-http://mega4k.one:8080/23004/23004/92705
-
-#EXTINF:-1 tvg-id="Cricket|ASportsHD" tvg-name="Cricket | A Sports HD" tvg-logo="http://b1g.fun/logos2/A_sportshd.jpg" group-title="SPORTS - খেলা",Cricket | A Sports HD
-http://mega4k.one:8080/23004/23004/93297
-
-#EXTINF:-1 tvg-id="Cricket|GeoSuperHD" tvg-name="Cricket | Geo Super HD" tvg-logo="http://b1g.fun/logos2/geo_super.jpg" group-title="SPORTS - খেলা",Cricket | Geo Super HD
-http://mega4k.one:8080/23004/23004/93298
-
-#EXTINF:-1 tvg-id="Cricket|PTVSportsHD" tvg-name="Cricket | PTV Sports HD" tvg-logo="http://b1g.fun/logos2/PTV_SportsHD.jpg" group-title="SPORTS - খেলা",Cricket | PTV Sports HD
-http://mega4k.one:8080/23004/23004/93299
-
-#EXTINF:-1 tvg-id="Cricket|TENSPORTSHD" tvg-name="Cricket | TEN SPORTS HD" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS - খেলা",Cricket | TEN SPORTS HD
-http://mega4k.one:8080/23004/23004/93300
-
-#EXTINF:-1 tvg-id="Cricket|StarSports1HDHINDI" tvg-name="Cricket | Star Sports 1 HD HINDI" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS - খেলা",Cricket | Star Sports 1 HD HINDI
-http://mega4k.one:8080/23004/23004/93301
-
-#EXTINF:-1 tvg-id="Cricket|StarSports1HD" tvg-name="Cricket | Star Sports 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="SPORTS - খেলা",Cricket | Star Sports 1 HD
-http://mega4k.one:8080/23004/23004/93302
-
-#EXTINF:-1 tvg-id="Cricket|StarSports2HD" tvg-name="Cricket | Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SPORTS - খেলা",Cricket | Star Sports 2 HD
-http://mega4k.one:8080/23004/23004/93303
-
-#EXTINF:-1 tvg-id="Cricket|StarSportsSelect1HD" tvg-name="Cricket | Star Sports Select 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SPORTS - খেলা",Cricket | Star Sports Select 1 HD
-http://mega4k.one:8080/23004/23004/93304
-
-#EXTINF:-1 tvg-id="Cricket|StarSportsSelect2HD" tvg-name="Cricket | Star Sports Select 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS - খেলা",Cricket | Star Sports Select 2 HD
-http://mega4k.one:8080/23004/23004/93305
-
-#EXTINF:-1 tvg-id="Cricket|SONYTEN1HD" tvg-name="Cricket | SONY TEN 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS - খেলা",Cricket | SONY TEN 1 HD
-http://mega4k.one:8080/23004/23004/93306
-
-#EXTINF:-1 tvg-id="Cricket|SONYTEN2HD" tvg-name="Cricket | SONY TEN 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="SPORTS - খেলা",Cricket | SONY TEN 2 HD
-http://mega4k.one:8080/23004/23004/93307
-
-#EXTINF:-1 tvg-id="Cricket|SONYTEN3HD" tvg-name="Cricket | SONY TEN 3 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS - খেলা",Cricket | SONY TEN 3 HD
-http://mega4k.one:8080/23004/23004/93308
-
-#EXTINF:-1 tvg-id="Cricket|SONYTEN5FHD" tvg-name="Cricket | SONY TEN 5 FHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="SPORTS - খেলা",Cricket | SONY TEN 5 FHD
-http://mega4k.one:8080/23004/23004/93309
-
-#EXTINF:-1 tvg-id="Cricket|TNTsports" tvg-name="Cricket | TNT sports" tvg-logo="https://www.skycards.eu/wp-content/uploads/2023/02/Untitled-design-2023-07-27T093417.786.png" group-title="SPORTS - খেলা",Cricket | TNT sports
-http://mega4k.one:8080/23004/23004/94404
-
-#EXTINF:-1 tvg-id="Cricket|NZ:SKYSportCricket3" tvg-name="Cricket | NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="SPORTS - খেলা",Cricket | NZ: SKY Sport Cricket 3
-http://mega4k.one:8080/23004/23004/94405
-
-#EXTINF:-1 tvg-id="Cricket|T-SPORTSHD" tvg-name="Cricket | T-SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS - খেলা",Cricket | T-SPORTS HD
-http://mega4k.one:8080/23004/23004/94406
-
-#EXTINF:-1 tvg-id="Cricket|TenCricketHD" tvg-name="Cricket | Ten Cricket HD" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="SPORTS - খেলা",Cricket | Ten Cricket HD
-http://mega4k.one:8080/23004/23004/94407
-
-#EXTINF:-1 tvg-id="Cricket|STARZPLAYCricLife3" tvg-name="Cricket | STARZPLAY CricLife 3 " tvg-logo="https://pbs.twimg.com/profile_images/1627947837420892166/OSp9SzVB_400x400.jpg" group-title="SPORTS - খেলা",Cricket | STARZPLAY CricLife 3
-http://mega4k.one:8080/23004/23004/95406
-
-#EXTINF:-1 tvg-id="Cricket|STARZPLAYCricLife2" tvg-name="Cricket | STARZPLAY CricLife 2 " tvg-logo="https://pbs.twimg.com/profile_images/1627947837420892166/OSp9SzVB_400x400.jpg" group-title="SPORTS - খেলা",Cricket | STARZPLAY CricLife 2
-http://mega4k.one:8080/23004/23004/95407
-
-#EXTINF:-1 tvg-id="Cricket|STARZPLAYCricLife1" tvg-name="Cricket | STARZPLAY CricLife 1 " tvg-logo="https://pbs.twimg.com/profile_images/1627947837420892166/OSp9SzVB_400x400.jpg" group-title="SPORTS - খেলা",Cricket | STARZPLAY CricLife 1
-http://mega4k.one:8080/23004/23004/95408
-
-#EXTINF:-1 tvg-id="Cricket|GaziTV" tvg-name="Cricket | GaziTV" tvg-logo="https://allresultbd.com/wp-content/uploads/2020/01/GTV-Live.jpg" group-title="SPORTS - খেলা",Cricket | GaziTV
-http://mega4k.one:8080/23004/23004/96002
-
-#EXTINF:-1 tvg-id="Cricket|Sports18HD" tvg-name="Cricket | Sports 18 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="SPORTS - খেলা",Cricket | Sports 18 HD
-http://mega4k.one:8080/23004/23004/96003
-
-#EXTINF:-1 tvg-id="Cricket|StarSports1TamilHD" tvg-name="Cricket | Star Sports 1 Tamil HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest?cb=20170728072716" group-title="SPORTS - খেলা",Cricket | Star Sports 1 Tamil HD
-http://mega4k.one:8080/23004/23004/97390
-
-#EXTINF:-1 tvg-id="StarSports1Eng4KUltraHD" tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Eng 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-id="StarSports1Eng4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Eng 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74227
-
-#EXTINF:-1 tvg-id="StarSports1Hindi4KUltraHD" tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Hindi 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-id="StarSports1Hindi4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS - খেলা",Star Sports 1 Hindi 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74228
-
-#EXTINF:-1 tvg-id="StarSports2Eng4KUltraHD" tvg-name="Star Sports 2 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SPORTS - খেলা",Star Sports 2 Eng 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports 2 Eng 4K Ultra HD" tvg-id="StarSports2Eng4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SPORTS - খেলা",Star Sports 2 Eng 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74229
-
-#EXTINF:-1 tvg-id="Sports184KUltraHD" tvg-name="Sports 18 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="SPORTS - খেলা",Sports 18 4K Ultra HD
+#EXTINF:-1  tvg-name="Sports 18 4K Ultra HD" tvg-id="Sports184KUltraHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="SPORTS - খেলা",Sports 18 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74230
-
-#EXTINF:-1 tvg-id="StarSportsSelect14KUltraHD" tvg-name="Star Sports Select 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SPORTS - খেলা",Star Sports Select 1 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports Select 1 4K Ultra HD" tvg-id="StarSportsSelect14KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SPORTS - খেলা",Star Sports Select 1 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74231
-
-#EXTINF:-1 tvg-id="StarSportsSelect24KUltraHD" tvg-name="Star Sports Select 2 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS - খেলা",Star Sports Select 2 4K Ultra HD
+#EXTINF:-1  tvg-name="Star Sports Select 2 4K Ultra HD" tvg-id="StarSportsSelect24KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS - খেলা",Star Sports Select 2 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74232
-
-#EXTINF:-1 tvg-id="SonyTen14KUltraHD" tvg-name="Sony Ten 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS - খেলা",Sony Ten 1 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Ten 1 4K Ultra HD" tvg-id="SonyTen14KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS - খেলা",Sony Ten 1 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74233
-
-#EXTINF:-1 tvg-id="SonyTen24KUltraHD" tvg-name="Sony Ten 2 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="SPORTS - খেলা",Sony Ten 2 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Ten 2 4K Ultra HD" tvg-id="SonyTen24KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="SPORTS - খেলা",Sony Ten 2 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74234
-
-#EXTINF:-1 tvg-id="SonyTen34KUltraHD" tvg-name="Sony Ten 3 4K Ultra HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS - খেলা",Sony Ten 3 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Ten 3 4K Ultra HD" tvg-id="SonyTen34KUltraHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS - খেলা",Sony Ten 3 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74235
-
-#EXTINF:-1 tvg-id="SonySix4KUltraHD" tvg-name="Sony Six 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS - খেলা",Sony Six 4K Ultra HD
+#EXTINF:-1  tvg-name="Sony Six 4K Ultra HD" tvg-id="SonySix4KUltraHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS - খেলা",Sony Six 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74236
-
-#EXTINF:-1 tvg-id="IN:WillowCricketᴴᴰ" tvg-name="IN: Willow Cricket ᴴᴰ" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="SPORTS - খেলা",IN: Willow Cricket ᴴᴰ
+#EXTINF:-1  tvg-name="IN: Willow Cricket ᴴᴰ" tvg-id="IN:WillowCricketᴴᴰ" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="SPORTS - খেলা",IN: Willow Cricket ᴴᴰ
 http://mega4k.one:8080/23004/23004/74237
-
-#EXTINF:-1 tvg-id="TenSports4KUltraHD" tvg-name="Ten Sports 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaicott6RUuaQXsm0YUZ9Ora2ErkD6MDgbg&usqp=CAU" group-title="SPORTS - খেলা",Ten Sports 4K Ultra HD
+#EXTINF:-1  tvg-name="Ten Sports 4K Ultra HD" tvg-id="TenSports4KUltraHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaicott6RUuaQXsm0YUZ9Ora2ErkD6MDgbg&usqp=CAU" group-title="SPORTS - খেলা",Ten Sports 4K Ultra HD
 http://mega4k.one:8080/23004/23004/74238
-
-#EXTINF:-1 tvg-id="IN:DDSPORTS" tvg-name="IN: DD SPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="SPORTS - খেলা",IN: DD SPORTS
+#EXTINF:-1  tvg-name="IN: DD SPORTS" tvg-id="IN:DDSPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="SPORTS - খেলা",IN: DD SPORTS
 http://mega4k.one:8080/23004/23004/74240
-
-#EXTINF:-1 tvg-id="StarSports1HD(1)" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (1)
+#EXTINF:-1  tvg-name="Star Sports 1 HD (1)" tvg-id="StarSports1HD(1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (1)
 http://watchindia.net:8880/live/82963/72037/2232.ts
-
-#EXTINF:-1 tvg-id="StarSports1HD(2)" tvg-name="Star Sports 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (2)
+#EXTINF:-1  tvg-name="Star Sports 1 HD (2)" tvg-id="StarSports1HD(2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (2)
 http://watchindia.net:8880/live/82963/72037/2456.ts
-
-#EXTINF:-1 tvg-id="StarSports1HD(3)" tvg-name="Star Sports 1 HD (3)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (3)
+#EXTINF:-1  tvg-name="Star Sports 1 HD (3)" tvg-id="StarSports1HD(3)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (3)
 http://watchindia.net:8880/live/82963/72037/2678.ts
-
-#EXTINF:-1 tvg-id="StarSports1HD(Hindi)" tvg-name="Star Sports 1 HD (Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (Hindi)
+#EXTINF:-1  tvg-name="Star Sports 1 HD (Hindi)" tvg-id="StarSports1HD(Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="SPORTS - খেলা",Star Sports 1 HD (Hindi)
 http://watchindia.net:8880/live/82963/72037/2673.ts
-
-#EXTINF:-1 tvg-id="StarSports2HD(1)" tvg-name="Star Sports 2 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="SPORTS - খেলা",Star Sports 2 HD (1)
+#EXTINF:-1  tvg-name="Star Sports 2 HD (1)" tvg-id="StarSports2HD(1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="SPORTS - খেলা",Star Sports 2 HD (1)
 http://watchindia.net:8880/live/82963/72037/1069.ts
-
-#EXTINF:-1 tvg-id="StarSports2HD(2)" tvg-name="Star Sports 2 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="SPORTS - খেলা",Star Sports 2 HD (2)
+#EXTINF:-1  tvg-name="Star Sports 2 HD (2)" tvg-id="StarSports2HD(2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="SPORTS - খেলা",Star Sports 2 HD (2)
 http://watchindia.net:8880/live/82963/72037/2163.ts
-
-#EXTINF:-1 tvg-id="StarSportsSelect1HD" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS - খেলা",Star Sports Select 1 HD
+#EXTINF:-1  tvg-name="Star Sports Select 1 HD" tvg-id="StarSportsSelect1HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS - খেলা",Star Sports Select 1 HD
 http://watchindia.net:8880/live/82963/72037/1070.ts
-
-#EXTINF:-1 tvg-id="StarSportsSelect2HD" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS - খেলা",Star Sports Select 2 HD
+#EXTINF:-1  tvg-name="Star Sports Select 2 HD" tvg-id="StarSportsSelect2HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS - খেলা",Star Sports Select 2 HD
 http://watchindia.net:8880/live/82963/72037/1071.ts
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="SPORTS - খেলা",Sky Sports Main Event
+#EXTINF:-1  tvg-name="Sky Sports Main Event" tvg-id="SkySportsMainEvent" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="SPORTS - খেলা",Sky Sports Main Event
 http://watchindia.net:8880/live/82963/72037/2091.ts
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SPORTS - খেলা",Sky Sports Premier League
+#EXTINF:-1  tvg-name="Sky Sports Premier League" tvg-id="SkySportsPremierLeague" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SPORTS - খেলা",Sky Sports Premier League
 http://watchindia.net:8880/live/82963/72037/2092.ts
-
-#EXTINF:-1 tvg-id="SkySportsCricket" tvg-name="Sky Sports Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="SPORTS - খেলা",Sky Sports Cricket
+#EXTINF:-1  tvg-name="Sky Sports Cricket" tvg-id="SkySportsCricket" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="SPORTS - খেলা",Sky Sports Cricket
 http://watchindia.net:8880/live/82963/72037/2090.ts
-
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-name="Sky Sports F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="SPORTS - খেলা",Sky Sports F1
+#EXTINF:-1  tvg-name="Sky Sports F1" tvg-id="SkySportsF1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="SPORTS - খেলা",Sky Sports F1
 http://watchindia.net:8880/live/82963/72037/2094.ts
-
-#EXTINF:-1 tvg-id="SkySports+" tvg-name="Sky Sports +" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Plus.png" group-title="SPORTS - খেলা",Sky Sports +
+#EXTINF:-1  tvg-name="Sky Sports +" tvg-id="SkySports+" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Plus.png" group-title="SPORTS - খেলা",Sky Sports +
 http://watchindia.net:8880/live/82963/72037/2095.ts
-
-#EXTINF:-1 tvg-id="SkySportsGolf" tvg-name="Sky Sports Golf" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="SPORTS - খেলা",Sky Sports Golf
+#EXTINF:-1  tvg-name="Sky Sports Golf" tvg-id="SkySportsGolf" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="SPORTS - খেলা",Sky Sports Golf
 http://watchindia.net:8880/live/82963/72037/2096.ts
-
-#EXTINF:-1 tvg-id="SonyTen1HD(1)" tvg-name="Sony Ten 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="SPORTS - খেলা",Sony Ten 1 HD (1)
+#EXTINF:-1  tvg-name="Sony Ten 1 HD (1)" tvg-id="SonyTen1HD(1)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="SPORTS - খেলা",Sony Ten 1 HD (1)
 http://watchindia.net:8880/live/82963/72037/1756.ts
-
-#EXTINF:-1 tvg-id="SonyTen1HD(2)" tvg-name="Sony Ten 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="SPORTS - খেলা",Sony Ten 1 HD (2)
+#EXTINF:-1  tvg-name="Sony Ten 1 HD (2)" tvg-id="SonyTen1HD(2)" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="SPORTS - খেলা",Sony Ten 1 HD (2)
 http://watchindia.net:8880/live/82963/72037/2215.ts
-
-#EXTINF:-1 tvg-id="SonyTen2HD" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="SPORTS - খেলা",Sony Ten 2 HD
+#EXTINF:-1  tvg-name="Sony Ten 2 HD" tvg-id="SonyTen2HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="SPORTS - খেলা",Sony Ten 2 HD
 http://watchindia.net:8880/live/82963/72037/1757.ts
-
-#EXTINF:-1 tvg-id="SonyTen3HD" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="SPORTS - খেলা",Sony Ten 3 HD
+#EXTINF:-1  tvg-name="Sony Ten 3 HD" tvg-id="SonyTen3HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="SPORTS - খেলা",Sony Ten 3 HD
 http://watchindia.net:8880/live/82963/72037/1758.ts
-
-#EXTINF:-1 tvg-id="SonyTen4HD" tvg-name="Sony Ten 4 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="SPORTS - খেলা",Sony Ten 4 HD
+#EXTINF:-1  tvg-name="Sony Ten 4 HD" tvg-id="SonyTen4HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="SPORTS - খেলা",Sony Ten 4 HD
 http://watchindia.net:8880/live/82963/72037/2662.ts
-
-#EXTINF:-1 tvg-id="SonyTen5HD" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="SPORTS - খেলা",Sony Ten 5 HD
+#EXTINF:-1  tvg-name="Sony Ten 5 HD" tvg-id="SonyTen5HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="SPORTS - খেলা",Sony Ten 5 HD
 http://watchindia.net:8880/live/82963/72037/2663.ts
-
-#EXTINF:-1 tvg-id="Sports181HD" tvg-name="Sports 18 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="SPORTS - খেলা",Sports 18 1 HD
+#EXTINF:-1  tvg-name="Sports 18 1 HD" tvg-id="Sports181HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="SPORTS - খেলা",Sports 18 1 HD
 http://watchindia.net:8880/live/82963/72037/2423.ts
-
-#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports 1" tvg-logo="https://watchindia.net/images/channels/sports/TNT_Sports_1.png" group-title="SPORTS - খেলা",TNT Sports 1
+#EXTINF:-1  tvg-name="TNT Sports 1" tvg-id="TNTSports1" tvg-logo="https://watchindia.net/images/channels/sports/TNT_Sports_1.png" group-title="SPORTS - খেলা",TNT Sports 1
 http://watchindia.net:8880/live/82963/72037/2657.ts
-
-#EXTINF:-1 tvg-id="FoxSports1" tvg-name="Fox Sports 1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="SPORTS - খেলা",Fox Sports 1
+#EXTINF:-1  tvg-name="Fox Sports 1" tvg-id="FoxSports1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="SPORTS - খেলা",Fox Sports 1
 http://watchindia.net:8880/live/82963/72037/2421.ts
-
-#EXTINF:-1 tvg-id="DDSports" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="SPORTS - খেলা",DD Sports
+#EXTINF:-1  tvg-name="DD Sports" tvg-id="DDSports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="SPORTS - খেলা",DD Sports
 http://watchindia.net:8880/live/82963/72037/2380.ts
-
-#EXTINF:-1 tvg-id="WillowHD(1)" tvg-name="Willow HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="SPORTS - খেলা",Willow HD (1)
+#EXTINF:-1  tvg-name="Willow HD (1)" tvg-id="WillowHD(1)" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="SPORTS - খেলা",Willow HD (1)
 http://watchindia.net:8880/live/82963/72037/1067.ts
-
-#EXTINF:-1 tvg-id="WillowHD(2)" tvg-name="Willow HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="SPORTS - খেলা",Willow HD (2)
+#EXTINF:-1  tvg-name="Willow HD (2)" tvg-id="WillowHD(2)" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="SPORTS - খেলা",Willow HD (2)
 http://watchindia.net:8880/live/82963/72037/2145.ts
-
-#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="SPORTS - খেলা",Astro Cricket
+#EXTINF:-1  tvg-name="Astro Cricket" tvg-id="AstroCricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="SPORTS - খেলা",Astro Cricket
 http://watchindia.net:8880/live/82963/72037/2174.ts
-
-#EXTINF:-1 tvg-id="SonyTen5HD" tvg-name="Sony Ten 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS - খেলা",Sony Ten 5 HD
+#EXTINF:-1  tvg-name="Sony Ten 5 HD" tvg-id="SonyTen5HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS - খেলা",Sony Ten 5 HD
 https://mycdn.tamilultratv.com/live.m3u8?id=155
-
-#EXTINF:-1 tvg-id="SonyTen1HD" tvg-name="Sony Ten 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS - খেলা",Sony Ten 1 HD
+#EXTINF:-1  tvg-name="Sony Ten 1 HD" tvg-id="SonyTen1HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS - খেলা",Sony Ten 1 HD
 https://mycdn.tamilultratv.com/live.m3u8?id=162
-
-#EXTINF:-1 tvg-id="DDSports" tvg-name="DD Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="SPORTS - খেলা",DD Sports
+#EXTINF:-1  tvg-name="DD Sports" tvg-id="DDSports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="SPORTS - খেলা",DD Sports
 https://mycdn.tamilultratv.com/live.m3u8?id=204
-
-#EXTINF:-1 tvg-id="SonyTen1" tvg-name="Sony Ten 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS - খেলা",Sony Ten 1
+#EXTINF:-1  tvg-name="Sony Ten 1" tvg-id="SonyTen1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS - খেলা",Sony Ten 1
 https://mycdn.tamilultratv.com/live.m3u8?id=514
-
-#EXTINF:-1 tvg-id="Ten2" tvg-name="Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS - খেলা",Ten 2
+#EXTINF:-1  tvg-name="Ten 2" tvg-id="Ten2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS - খেলা",Ten 2
 https://mycdn.tamilultratv.com/live.m3u8?id=523
-
-#EXTINF:-1 tvg-id="SonyTen3Hindi" tvg-name="Sony Ten 3 Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SPORTS - খেলা",Sony Ten 3 Hindi
+#EXTINF:-1  tvg-name="Sony Ten 3 Hindi" tvg-id="SonyTen3Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SPORTS - খেলা",Sony Ten 3 Hindi
 https://mycdn.tamilultratv.com/live.m3u8?id=524
-
-#EXTINF:-1 tvg-id="SonyTen5" tvg-name="Sony Ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS - খেলা",Sony Ten 5
+#EXTINF:-1  tvg-name="Sony Ten 5" tvg-id="SonyTen5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS - খেলা",Sony Ten 5
 https://mycdn.tamilultratv.com/live.m3u8?id=525
-
-#EXTINF:-1 tvg-id="EurosportHD" tvg-name="Eurosport HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS - খেলা",Eurosport HD
+#EXTINF:-1  tvg-name="Eurosport HD" tvg-id="EurosportHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS - খেলা",Eurosport HD
 https://mycdn.tamilultratv.com/live.m3u8?id=875
-
-#EXTINF:-1 tvg-id="SonyTen2HD" tvg-name="Sony Ten 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS - খেলা",Sony Ten 2 HD
+#EXTINF:-1  tvg-name="Sony Ten 2 HD" tvg-id="SonyTen2HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS - খেলা",Sony Ten 2 HD
 https://mycdn.tamilultratv.com/live.m3u8?id=891
-
-#EXTINF:-1 tvg-id="SonyTen3HDHindi" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS - খেলা",Sony Ten 3 HD Hindi
+#EXTINF:-1  tvg-name="Sony Ten 3 HD Hindi" tvg-id="SonyTen3HDHindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS - খেলা",Sony Ten 3 HD Hindi
 https://mycdn.tamilultratv.com/live.m3u8?id=892
-
-#EXTINF:-1 tvg-id="TEST5HD" tvg-name="TEST5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST5_HD.png" group-title="SPORTS - খেলা",TEST5 HD
+#EXTINF:-1  tvg-name="TEST5 HD" tvg-id="TEST5HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST5_HD.png" group-title="SPORTS - খেলা",TEST5 HD
 https://mycdn.tamilultratv.com/live.m3u8?id=1061
-
-#EXTINF:-1 tvg-id="JioGamesHD" tvg-name="JioGames HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="SPORTS - খেলা",JioGames HD
+#EXTINF:-1  tvg-name="JioGames HD" tvg-id="JioGamesHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="SPORTS - খেলা",JioGames HD
 https://mycdn.tamilultratv.com/live.m3u8?id=1163
-
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png" group-title="SPORTS - খেলা",Eurosport
+#EXTINF:-1  tvg-name="Eurosport" tvg-id="Eurosport" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports.png" group-title="SPORTS - খেলা",Eurosport
 https://mycdn.tamilultratv.com/live.m3u8?id=1294
-
-#EXTINF:-1 tvg-id="MITV" tvg-name="MI TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MI_TV.png" group-title="SPORTS - খেলা",MI TV
+#EXTINF:-1  tvg-name="MI TV" tvg-id="MITV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MI_TV.png" group-title="SPORTS - খেলা",MI TV
 https://mycdn.tamilultratv.com/live.m3u8?id=1529
-
-#EXTINF:-1 tvg-id="ESGTV" tvg-name="ESG TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ESG.png" group-title="SPORTS - খেলা",ESG TV
+#EXTINF:-1  tvg-name="ESG TV" tvg-id="ESGTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ESG.png" group-title="SPORTS - খেলা",ESG TV
 https://mycdn.tamilultratv.com/live.m3u8?id=1675
-
-#EXTINF:-1 tvg-id="SonyTen4HDTamil" tvg-name="Sony Ten 4 HD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SPORTS - খেলা",Sony Ten 4 HD Tamil
+#EXTINF:-1  tvg-name="Sony Ten 4 HD Tamil" tvg-id="SonyTen4HDTamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SPORTS - খেলা",Sony Ten 4 HD Tamil
 https://mycdn.tamilultratv.com/live.m3u8?id=1772
-
-#EXTINF:-1 tvg-id="SonyTen4HDTelugu" tvg-name="Sony Ten 4 HD Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="SPORTS - খেলা",Sony Ten 4 HD Telugu
+#EXTINF:-1  tvg-name="Sony Ten 4 HD Telugu" tvg-id="SonyTen4HDTelugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="SPORTS - খেলা",Sony Ten 4 HD Telugu
 https://mycdn.tamilultratv.com/live.m3u8?id=1773
-
-#EXTINF:-1 tvg-id="SonyTen4Tamil" tvg-name="Sony Ten 4 Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SPORTS - খেলা",Sony Ten 4 Tamil
+#EXTINF:-1  tvg-name="Sony Ten 4 Tamil" tvg-id="SonyTen4Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SPORTS - খেলা",Sony Ten 4 Tamil
 https://mycdn.tamilultratv.com/live.m3u8?id=1774
-
-#EXTINF:-1 tvg-id="SonyTen4Telugu" tvg-name="Sony Ten 4 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="SPORTS - খেলা",Sony Ten 4 Telugu
+#EXTINF:-1  tvg-name="Sony Ten 4 Telugu" tvg-id="SonyTen4Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="SPORTS - খেলা",Sony Ten 4 Telugu
 https://mycdn.tamilultratv.com/live.m3u8?id=1775
-
-#EXTINF:-1 tvg-id="Sports181HD" tvg-name="Sports18 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="SPORTS - খেলা",Sports18 1 HD
+#EXTINF:-1  tvg-name="Sports18 1 HD" tvg-id="Sports181HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="SPORTS - খেলা",Sports18 1 HD
 https://mycdn.tamilultratv.com/live.m3u8?id=1984
-
-#EXTINF:-1 tvg-id="Sports181" tvg-name="Sports18 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="SPORTS - খেলা",Sports18 1
+#EXTINF:-1  tvg-name="Sports18 1" tvg-id="Sports181" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="SPORTS - খেলা",Sports18 1
 https://mycdn.tamilultratv.com/live.m3u8?id=1985
-
-#EXTINF:-1 tvg-id="Sports18Khel" tvg-name="Sports18 Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="SPORTS - খেলা",Sports18 Khel
+#EXTINF:-1  tvg-name="Sports18 Khel" tvg-id="Sports18Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="SPORTS - খেলা",Sports18 Khel
 https://mycdn.tamilultratv.com/live.m3u8?id=1998
-
-#EXTINF:-1 tvg-id="QGameX" tvg-name="Q GameX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Q_GameX.png" group-title="SPORTS - খেলা",Q GameX
+#EXTINF:-1  tvg-name="Q GameX" tvg-id="QGameX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Q_GameX.png" group-title="SPORTS - খেলা",Q GameX
 https://mycdn.tamilultratv.com/live.m3u8?id=2183
-
-#EXTINF:-1 tvg-id="BRAVETV" tvg-name="BRAVE TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brave_TV.png" group-title="SPORTS - খেলা",BRAVE TV
+#EXTINF:-1  tvg-name="BRAVE TV" tvg-id="BRAVETV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brave_TV.png" group-title="SPORTS - খেলা",BRAVE TV
 https://mycdn.tamilultratv.com/live.m3u8?id=2766
-
-#EXTINF:-1 tvg-id="RedBullTV" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="SPORTS - খেলা",Red Bull TV
+#EXTINF:-1  tvg-name="Red Bull TV" tvg-id="RedBullTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="SPORTS - খেলা",Red Bull TV
 https://mycdn.tamilultratv.com/live.m3u8?id=2779
-
-#EXTINF:-1 tvg-id="Sports182" tvg-name="Sports18 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="SPORTS - খেলা",Sports18 2
+#EXTINF:-1  tvg-name="Sports18 2" tvg-id="Sports182" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png" group-title="SPORTS - খেলা",Sports18 2
 https://mycdn.tamilultratv.com/live.m3u8?id=2852
-
-#EXTINF:-1 tvg-id="Sports183" tvg-name="Sports18 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_3.png" group-title="SPORTS - খেলা",Sports18 3
+#EXTINF:-1  tvg-name="Sports18 3" tvg-id="Sports183" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_3.png" group-title="SPORTS - খেলা",Sports18 3
 https://mycdn.tamilultratv.com/live.m3u8?id=2853
-
-#EXTINF:-1 tvg-id="LancsTVHD" tvg-name="Lancs TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" group-title="SPORTS - খেলা",Lancs TV HD
+#EXTINF:-1  tvg-name="Lancs TV HD" tvg-id="LancsTVHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" group-title="SPORTS - খেলা",Lancs TV HD
 https://mycdn.tamilultratv.com/live.m3u8?id=3011
-
-#EXTINF:-1 tvg-id="AllWomen'sSportsNetwork" tvg-name="All Women's Sports Network" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AWSN.png" group-title="SPORTS - খেলা",All Women's Sports Network
+#EXTINF:-1  tvg-name="All Women's Sports Network" tvg-id="AllWomen'sSportsNetwork" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AWSN.png" group-title="SPORTS - খেলা",All Women's Sports Network
 https://mycdn.tamilultratv.com/live.m3u8?id=3146
-
-#EXTINF:-1 tvg-id="PentaTV" tvg-name="Penta TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Penta_TV.png" group-title="SPORTS - খেলা",Penta TV
+#EXTINF:-1  tvg-name="Penta TV" tvg-id="PentaTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Penta_TV.png" group-title="SPORTS - খেলা",Penta TV
 https://mycdn.tamilultratv.com/live.m3u8?id=3204
-
-#EXTINF:-1 group-title="SPORTS - খেলা" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MU TV
+#EXTINF:-1  tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS - খেলা",MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ACCNETWORK" tvg-name="ACC NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="SPORTS - খেলা",ACC NETWORK
+#EXTINF:-1  tvg-name="ACC NETWORK" tvg-id="ACCNETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="SPORTS - খেলা",ACC NETWORK
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="BEINSPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="SPORTS - খেলা",BEIN SPORTS
+#EXTINF:-1  tvg-name="BEIN SPORTS" tvg-id="BEINSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="SPORTS - খেলা",BEIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="BigTenNetworkHD" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="SPORTS - খেলা",Big Ten Network HD
+#EXTINF:-1  tvg-name="Big Ten Network HD" tvg-id="BigTenNetworkHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="SPORTS - খেলা",Big Ten Network HD
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="CBSSPORTSNETWORK" tvg-name="CBS SPORTS NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="SPORTS - খেলা",CBS SPORTS NETWORK
+#EXTINF:-1  tvg-name="CBS SPORTS NETWORK" tvg-id="CBSSPORTSNETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="SPORTS - খেলা",CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN
+#EXTINF:-1  tvg-name="ESPN" tvg-id="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/133.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN 2
+#EXTINF:-1  tvg-name="ESPN 2" tvg-id="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNNEWS" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN NEWS
+#EXTINF:-1  tvg-name="ESPN NEWS" tvg-id="ESPNNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN NEWS
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN U
+#EXTINF:-1  tvg-name="ESPN U" tvg-id="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="SPORTS - খেলা",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXSOCCERPLUS" tvg-name="FOX SOCCER PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="SPORTS - খেলা",FOX SOCCER PLUS
+#EXTINF:-1  tvg-name="FOX SOCCER PLUS" tvg-id="FOXSOCCERPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="SPORTS - খেলা",FOX SOCCER PLUS
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/265.m3u8
-
-#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="SPORTS - খেলা",FS1
+#EXTINF:-1  tvg-name="FS1" tvg-id="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="SPORTS - খেলা",FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-id="FS2" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="SPORTS - খেলা",FS2
+#EXTINF:-1  tvg-name="FS2" tvg-id="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="SPORTS - খেলা",FS2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
-
-#EXTINF:-1 tvg-id="MAVTV" tvg-name="MAVTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" group-title="SPORTS - খেলা",MAVTV
+#EXTINF:-1  tvg-name="MAVTV" tvg-id="MAVTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" group-title="SPORTS - খেলা",MAVTV
 http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="MLBNetwork" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="SPORTS - খেলা",MLB Network
+#EXTINF:-1  tvg-name="MLB Network" tvg-id="MLBNetwork" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="SPORTS - খেলা",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="SPORTS - খেলা",NBA TV
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBATV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="SPORTS - খেলা",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="NBCGolf" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="SPORTS - খেলা",NBC Golf
+#EXTINF:-1  tvg-name="NBC Golf" tvg-id="NBCGolf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="SPORTS - খেলা",NBC Golf
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="NFLNetwork" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="SPORTS - খেলা",NFL Network
+#EXTINF:-1  tvg-name="NFL Network" tvg-id="NFLNetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="SPORTS - খেলা",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="NFLRedZone" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="SPORTS - খেলা",NFL RedZone
+#EXTINF:-1  tvg-name="NFL RedZone" tvg-id="NFLRedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="SPORTS - খেলা",NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-
-#EXTINF:-1 tvg-id="NHLNetwork" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="SPORTS - খেলা",NHL Network
+#EXTINF:-1  tvg-name="NHL Network" tvg-id="NHLNetwork" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="SPORTS - খেলা",NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="OUTSIDETV" tvg-name="OUTSIDE TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="SPORTS - খেলা",OUTSIDE TV
+#EXTINF:-1  tvg-name="OUTSIDE TV" tvg-id="OUTSIDETV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="SPORTS - খেলা",OUTSIDE TV
 http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="PursuitChannel" tvg-name="Pursuit Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" group-title="SPORTS - খেলা",Pursuit Channel
+#EXTINF:-1  tvg-name="Pursuit Channel" tvg-id="PursuitChannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" group-title="SPORTS - খেলা",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="SECNetwork" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="SPORTS - খেলা",SEC Network
+#EXTINF:-1  tvg-name="SEC Network" tvg-id="SECNetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="SPORTS - খেলা",SEC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
-
-#EXTINF:-1 tvg-id="SportsmanChannel" tvg-name="Sportsman Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" group-title="SPORTS - খেলা",Sportsman Channel
+#EXTINF:-1  tvg-name="Sportsman Channel" tvg-id="SportsmanChannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" group-title="SPORTS - খেলা",Sportsman Channel
 http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="Stadium" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="SPORTS - খেলা",Stadium
+#EXTINF:-1  tvg-name="Stadium" tvg-id="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="SPORTS - খেলা",Stadium
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
-
-#EXTINF:-1 tvg-id="TennisChannel" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="SPORTS - খেলা",Tennis Channel
+#EXTINF:-1  tvg-name="Tennis Channel" tvg-id="TennisChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="SPORTS - খেলা",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 1
+#EXTINF:-1  tvg-name="TSN 1" tvg-id="TSN1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 2
+#EXTINF:-1  tvg-name="TSN 2" tvg-id="TSN2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 3
+#EXTINF:-1  tvg-name="TSN 3" tvg-id="TSN3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN4" tvg-name="TSN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 4
+#EXTINF:-1  tvg-name="TSN 4" tvg-id="TSN4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN5" tvg-name="TSN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 5
+#EXTINF:-1  tvg-name="TSN 5" tvg-id="TSN5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="SPORTS - খেলা",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-
-#EXTINF:-1 tvg-id="YESNetwork" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="SPORTS - খেলা",YES Network
+#EXTINF:-1  tvg-name="YES Network" tvg-id="YESNetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="SPORTS - খেলা",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/tsports.png" group-title="SPORTS - খেলা", T-Sports
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/48010.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sports18.png" group-title="SPORTS - খেলা", Sports 18 Khel
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/102478.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp1.png" group-title="SPORTS - খেলা", Star Sports 1
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/293.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp2.png" group-title="SPORTS - খেলা", Star Sports 2
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/298.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="SPORTS - খেলা", Star Sports Select 1
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/299.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsps2.png" group-title="SPORTS - খেলা", Star Sports Select 2
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/300.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="SPORTS - খেলা", Sony Sports 1
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/289.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="SPORTS - খেলা", Sony Sports 2
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/290.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="SPORTS - খেলা", Sony Sports 3
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/291.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/Sony%20TEN%2051667728306.png" group-title="SPORTS - খেলা", Sony Sports 5
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/105350.ts
-
-#EXTINF:-1 tvg-group="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjhJ-xMHhzPeYDme7yYPdvHSjZ6EiaAfP1obrnBWjhESWQyGViV2xBIkp&s=10" group-title="SPORTS - খেলা", Eurosports
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/272.ts
-
-#EXTINF:-1 group-title="SPORTS - খেলা",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PTVSports" tvg-name="PTV Sports" tvg-logo="" group-title="SPORTS - খেলা",PTV Sports
-http://watchindia.net:8880/live/82963/72037/2325.ts

@@ -1,9 +1,6 @@
-#EXTM3U
-###--------------------------World--------------------------###
-#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="WORLD - বিশ্ব",IH IPTV
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="IH IPTV" tvg-id="IHIPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="WORLD - বিশ্ব",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD - বিশ্ব",
 
 #EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="Discovery HD" tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="WORLD - বিশ্ব",Discovery HD
 http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
@@ -23,140 +20,74 @@ http://mega4k.one:8080/23004/23004/74423
 #EXTINF:-1 tvg-id="IN:DiscoveryWorldHD" tvg-name="IN: Discovery World HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="WORLD - বিশ্ব",IN: Discovery World HD
 http://mega4k.one:8080/23004/23004/74424
 
-#EXTINF:-1 tvg-id="In:WBHD" tvg-name="In: WB HD" tvg-logo="" group-title="WORLD - বিশ্ব",In: WB HD
+
+#EXTINF:-1  tvg-name="Discovery HD" tvg-id="DiscoveryHD" tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="WORLD - বিশ্ব",Discovery HD
+http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="BBC LifeStyle HD" tvg-id="BBCLifeStyleHD" tvg-logo="http://172.20.3.1/assets/images/BBC%20Lifestyle.png" group-title="WORLD - বিশ্ব",BBC LifeStyle HD
+http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="IN: Animal Planet HD" tvg-id="IN:AnimalPlanetHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="WORLD - বিশ্ব",IN: Animal Planet HD
+http://mega4k.one:8080/23004/23004/74341
+#EXTINF:-1  tvg-name="IN | : Discovery Turbo HD" tvg-id="IN|:DiscoveryTurboHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="WORLD - বিশ্ব",IN | : Discovery Turbo HD
+http://mega4k.one:8080/23004/23004/74423
+#EXTINF:-1  tvg-name="IN: Discovery World HD" tvg-id="IN:DiscoveryWorldHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="WORLD - বিশ্ব",IN: Discovery World HD
+http://mega4k.one:8080/23004/23004/74424
+#EXTINF:-1  tvg-name="In: WB HD" tvg-id="In:WBHD" group-title="WORLD - বিশ্ব",In: WB HD
 http://mega4k.one:8080/23004/23004/74429
-
-#EXTINF:-1 tvg-id="IN:TravelXPHD" tvg-name="IN: Travel XP HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" group-title="WORLD - বিশ্ব",IN: Travel XP HD
+#EXTINF:-1  tvg-name="IN: Travel XP HD" tvg-id="IN:TravelXPHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" group-title="WORLD - বিশ্ব",IN: Travel XP HD
 http://mega4k.one:8080/23004/23004/74433
-
-#EXTINF:-1 tvg-id="IN:BBCEarthHD" tvg-name="IN: BBC Earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="WORLD - বিশ্ব",IN: BBC Earth HD
+#EXTINF:-1  tvg-name="IN: BBC Earth HD" tvg-id="IN:BBCEarthHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="WORLD - বিশ্ব",IN: BBC Earth HD
 http://mega4k.one:8080/23004/23004/74464
-
-#EXTINF:-1 tvg-id="IN|Eng:ColorsInfinityFHD" tvg-name="IN | Eng: Colors Infinity FHD" tvg-logo="" group-title="WORLD - বিশ্ব",IN | Eng: Colors Infinity FHD
-http://mega4k.one:8080/23004/23004/74468
-
-#EXTINF:-1 tvg-id="IN:NatGeo" tvg-name="IN: Nat Geo" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="WORLD - বিশ্ব",IN: Nat Geo
+#EXTINF:-1  tvg-name="IN: Nat Geo" tvg-id="IN:NatGeo" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="WORLD - বিশ্ব",IN: Nat Geo
 http://mega4k.one:8080/23004/23004/74484
-
-#EXTINF:-1 tvg-id="IN:NatGeoWild" tvg-name="IN: Nat Geo Wild" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="WORLD - বিশ্ব",IN: Nat Geo Wild
+#EXTINF:-1  tvg-name="IN: Nat Geo Wild" tvg-id="IN:NatGeoWild" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="WORLD - বিশ্ব",IN: Nat Geo Wild
 http://mega4k.one:8080/23004/23004/74485
-
-#EXTINF:-1 tvg-id="IN:InvestigationDiscoveryHD" tvg-name="IN: Investigation Discovery HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png" group-title="WORLD - বিশ্ব",IN: Investigation Discovery HD
+#EXTINF:-1  tvg-name="IN: Investigation Discovery HD" tvg-id="IN:InvestigationDiscoveryHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png" group-title="WORLD - বিশ্ব",IN: Investigation Discovery HD
 http://mega4k.one:8080/23004/23004/74497
-
-#EXTINF:-1 tvg-id="IN:HISTORY18" tvg-name="IN: HISTORY 18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="WORLD - বিশ্ব",IN: HISTORY 18
+#EXTINF:-1  tvg-name="IN: HISTORY 18" tvg-id="IN:HISTORY18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="WORLD - বিশ্ব",IN: HISTORY 18
 http://mega4k.one:8080/23004/23004/74499
-
-#EXTINF:-1 tvg-id="IN:TLCWorld" tvg-name="IN: TLC World" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="WORLD - বিশ্ব",IN: TLC World
+#EXTINF:-1  tvg-name="IN: TLC World" tvg-id="IN:TLCWorld" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="WORLD - বিশ্ব",IN: TLC World
 http://mega4k.one:8080/23004/23004/74536
-
-#EXTINF:-1 tvg-id="UK:InvestigationDiscovery(ID)" tvg-name="UK: Investigation Discovery (ID)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" group-title="WORLD - বিশ্ব",UK: Investigation Discovery (ID)
-http://mega4k.one:8080/23004/23004/88269
-
-#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/discovery.png" group-title="WORLD - বিশ্ব", Discovery Hindi
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/164.ts
-
-#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSuvvjyBkV7gROSbjyblBMSd2JHmFPhMb9tRdKIeWgi-jiFyrtWiiZNo&s=10" group-title="WORLD - বিশ্ব", Discovery Science
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSuvvjyBkV7gROSbjyblBMSd2JHmFPhMb9tRdKIeWgi-jiFyrtWiiZNo&s=10" group-title="WORLD - বিশ্ব",Discovery Science
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/166.ts
-
-#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwo22A-pPDJiH4PPJ5ugo5qZ19vGjkDwjgA&s" group-title="WORLD - বিশ্ব", Investigation Discovery
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwo22A-pPDJiH4PPJ5ugo5qZ19vGjkDwjgA&s" group-title="WORLD - বিশ্ব",Investigation Discovery
 https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/4227.ts
-
-#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="WORLD - বিশ্ব", National Geographic
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/125057.ts
-
-#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/natgeo.png" group-title="WORLD - বিশ্ব", National Geographic Wild
-https://cdn.sadman.ip-ddns.com/live/xOHCCHnELN/mTyXhzq1hq/177.ts
-
-#EXTINF:-1 group-title="WORLD - বিশ্ব",ANIMAX
+#EXTINF:-1  group-title="WORLD - বিশ্ব",ANIMAX
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="WORLD - বিশ্ব",Wild Earth
+#EXTINF:-1  group-title="WORLD - বিশ্ব",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="BD_Discovery_Channel_Bengali" tvg-name="BD_Discovery_Channel_Bengali" tvg-logo="" group-title="WORLD - বিশ্ব",BD_Discovery_Channel_Bengali
-http://starshare.live:8080/live/852963741/852963741/406.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="WORLD - বিশ্ব",Animal Planet
+#EXTINF:-1  tvg-name="Animal Planet" tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="WORLD - বিশ্ব",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="WORLD - বিশ্ব",Discovery Channel
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="DiscoveryChannel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="WORLD - বিশ্ব",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERYLIFE" tvg-name="DISCOVERY LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="WORLD - বিশ্ব",DISCOVERY LIFE
+#EXTINF:-1  tvg-name="DISCOVERY LIFE" tvg-id="DISCOVERYLIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="WORLD - বিশ্ব",DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="WORLD - বিশ্ব",Discovery Science
+#EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScience" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="WORLD - বিশ্ব",Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-
-#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" group-title="WORLD - বিশ্ব",LOVE NATURE
+#EXTINF:-1  tvg-name="LOVE NATURE" tvg-id="LOVENATURE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" group-title="WORLD - বিশ্ব",LOVE NATURE
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="WORLD - বিশ্ব",National Geographic
+#EXTINF:-1  tvg-name="National Geographic" tvg-id="NationalGeographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="WORLD - বিশ্ব",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="WORLD - বিশ্ব",National Geographic Wild
+#EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="NationalGeographicWild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="WORLD - বিশ্ব",National Geographic Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
-#EXTINF:-1 group-title="WORLD - বিশ্ব",Wild Earth
+#EXTINF:-1  tvg-name="Wild Earth" group-title="WORLD - বিশ্ব",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
-#EXTINF:-1 group-title="WORLD - বিশ্ব" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" group-title="WORLD - বিশ্ব",Discovery
+#EXTINF:-1  tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" group-title="WORLD - বিশ্ব",Discovery
 https://mycdn.tamilultratv.com/live.m3u8?id=242
-
-#EXTINF:-1 tvg-id="AnimalPlanetHDWorld" tvg-name="Animal Planet HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="WORLD - বিশ্ব",Animal Planet HD World
+#EXTINF:-1  tvg-name="Animal Planet HD World" tvg-id="AnimalPlanetHDWorld" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="WORLD - বিশ্ব",Animal Planet HD World
 https://mycdn.tamilultratv.com/live.m3u8?id=286
-
-#EXTINF:-1 tvg-id="DiscoveryHDWorld" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="WORLD - বিশ্ব",Discovery HD World
+#EXTINF:-1  tvg-name="Discovery HD World" tvg-id="DiscoveryHDWorld" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="WORLD - বিশ্ব",Discovery HD World
 https://mycdn.tamilultratv.com/live.m3u8?id=463
-
-#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="WORLD - বিশ্ব",Discovery Turbo
+#EXTINF:-1  tvg-name="Discovery Turbo" tvg-id="DiscoveryTurbo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="WORLD - বিশ্ব",Discovery Turbo
 https://mycdn.tamilultratv.com/live.m3u8?id=541
-
-#EXTINF:-1 tvg-id="AnimalPlanetHindi" tvg-name="Animal Planet Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="WORLD - বিশ্ব",Animal Planet Hindi
+#EXTINF:-1  tvg-name="Animal Planet Hindi" tvg-id="AnimalPlanetHindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="WORLD - বিশ্ব",Animal Planet Hindi
 https://mycdn.tamilultratv.com/live.m3u8?id=566
-
-#EXTINF:-1 tvg-id="AnimalPlanetEnglish" tvg-name="Animal Planet English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Eng.png" group-title="WORLD - বিশ্ব",Animal Planet English
+#EXTINF:-1  tvg-name="Animal Planet English" tvg-id="AnimalPlanetEnglish" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Eng.png" group-title="WORLD - বিশ্ব",Animal Planet English
 https://mycdn.tamilultratv.com/live.m3u8?id=567
-
-#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="WORLD - বিশ্ব",Discovery Science
+#EXTINF:-1  tvg-name="Discovery Science" tvg-id="DiscoveryScience" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="WORLD - বিশ্ব",Discovery Science
 https://mycdn.tamilultratv.com/live.m3u8?id=568
-
-#EXTINF:-1 tvg-id="DiscoveryBengali" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="WORLD - বিশ্ব",Discovery Bengali
+#EXTINF:-1  tvg-name="Discovery Bengali" tvg-id="DiscoveryBengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="WORLD - বিশ্ব",Discovery Bengali
 https://mycdn.tamilultratv.com/live.m3u8?id=573
-
-#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="WORLD - বিশ্ব",Discovery Hindi
+#EXTINF:-1  tvg-name="Discovery Hindi" tvg-id="DiscoveryHindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="WORLD - বিশ্ব",Discovery Hindi
 https://mycdn.tamilultratv.com/live.m3u8?id=575
-
-#EXTINF:-1 tvg-id="WildEarth" tvg-name="Wild Earth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="WORLD - বিশ্ব",Wild Earth
+#EXTINF:-1  tvg-name="Wild Earth" tvg-id="WildEarth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="WORLD - বিশ্ব",Wild Earth
 https://mycdn.tamilultratv.com/live.m3u8?id=2437
-
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="WORLD - বিশ্ব",Animal Planet
-http://watchindia.net:8880/live/82963/72037/2039.ts
-
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Channel.png" group-title="WORLD - বিশ্ব",Discovery Channel
-http://watchindia.net:8880/live/82963/72037/2036.ts
-
-#EXTINF:-1 tvg-id="DiscoveryLife" tvg-name="Discovery Life" tvg-logo="https://watchindia.net/images/channels/usa/Discovery_Life.png" group-title="WORLD - বিশ্ব",Discovery Life
-http://watchindia.net:8880/live/82963/72037/2124.ts
-
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild" tvg-logo="http://watchindia.net/images/channels/usa/NAT_GEO_Wild.png" group-title="WORLD - বিশ্ব",Nat Geo Wild
-http://watchindia.net:8880/live/82963/72037/2047.ts
-
-#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic" tvg-logo="https://watchindia.net/images/channels/usa/NAT_GEO_HD.png" group-title="WORLD - বিশ্ব",National Geographic
-http://watchindia.net:8880/live/82963/72037/2037.ts
-
-#EXTINF:-1 tvg-id="SonyBBCEarthHD" tvg-name="Sony BBC Earth HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_BBC_Earth_HD.png" group-title="WORLD - বিশ্ব",Sony BBC Earth HD
-http://watchindia.net:8880/live/82963/72037/789.ts
-
-#EXTINF:-1 tvg-id="DiscoveryChannelHindi" tvg-name="Discovery Channel Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="WORLD - বিশ্ব",Discovery Channel Hindi
-http://watchindia.net:8880/live/82963/72037/841.ts
-
-#EXTINF:-1 tvg-id="BD:GaanBangla" tvg-name="Discovery Turbo" tvg-logo="" group-title="BANGLA - বাংলা",Discovery Turbo
-http://starshare.live:8080/live/852963741/852963741/3807.m3u8
-
-#EXTINF:-1 tvg-id="BD:GaanBangla" tvg-name="Discovery Turbo" tvg-logo="" group-title="BANGLA - বাংলা",Discovery Turbo
-http://starshare.live:8080/live/852963741/852963741/3812.m3u8

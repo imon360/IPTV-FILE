@@ -1,156 +1,29 @@
-#EXTM3U
-###--------------------------Others--------------------------###
-#EXTINF:-1 tvg-id="IHIPTV" tvg-name="IH IPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="OTHERS - অন্যান্য",IH IPTV
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="IH IPTV" tvg-id="IHIPTV" tvg-logo="https://i.ibb.co.com/z7T3sH2/IPTV-COMPRESS.png" group-title="OTHERS - অন্যান্য",IH IPTV
 https://res.cloudinary.com/duzfa84vd/video/upload/IH-IPTV_xqjnva.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OTHERS - অন্যান্য",
-
-#EXTINF:-1 group-title="OTHERS - অন্যান্য",Test sports 4k
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 group-title="OTHERS - অন্যান্য",Test sports2 4k
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-
-#EXTINF:-1 group-title="OTHERS - অন্যান্য",HBO2
-https://tdameritrade-distro.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="OTHERS - অন্যান্য",Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-
-#EXTINF:-1 group-title="OTHERS - অন্যান্য",Korean TV
-https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CuriosityStream" tvg-name="Curiosity Stream" tvg-logo="https://i.imgur.com/vRO4e5W.png" group-title="OTHERS - অন্যান্য",Curiosity Stream
-http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-
-#EXTINF:-1 tvg-id="DIY" tvg-name="DIY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/diy-network-ca.png" group-title="OTHERS - অন্যান্য",DIY
-http://fl2.moveonjoy.com/DIY/index.m3u8
-
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="OTHERS - অন্যান্য",History
+#EXTINF:-1  tvg-name="History" tvg-id="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="OTHERS - অন্যান্য",History
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/153.m3u8
-
-#EXTINF:-1 tvg-id="ID(InvestigationDiscovery)" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",ID (Investigation Discovery)
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id="OutdoorChannel" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",Outdoor Channel
+#EXTINF:-1  tvg-name="Outdoor Channel" tvg-id="OutdoorChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="SMITHSONIANCHANNEL" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="OTHERS - অন্যান্য",SMITHSONIAN CHANNEL
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",TLC
+#EXTINF:-1  tvg-name="TLC" tvg-id="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
-
-#EXTINF:-1 tvg-id="TravelChannel" tvg-name="Travel Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="OTHERS - অন্যান্য",Travel Channel
+#EXTINF:-1  tvg-name="Travel Channel" tvg-id="TravelChannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="OTHERS - অন্যান্য",Travel Channel
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="WORLDFISHINGNETWORK" tvg-name="WORLD FISHING NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="OTHERS - অন্যান্য",WORLD FISHING NETWORK
-http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="HistoryTV18HD" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="OTHERS - অন্যান্য",History TV18 HD
-https://mycdn.tamilultratv.com/live.m3u8?id=146
-
-#EXTINF:-1 tvg-id="HistoryTV18HDHindi" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="OTHERS - অন্যান্য",History TV18 HD Hindi
-https://mycdn.tamilultratv.com/live.m3u8?id=578
-
-#EXTINF:-1 tvg-id="DDKisan" tvg-name="DD Kisan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="OTHERS - অন্যান্য",DD Kisan
-https://mycdn.tamilultratv.com/live.m3u8?id=583
-
-#EXTINF:-1 group-title="OTHERS - অন্যান্য" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TravelxpHD" tvg-name="Travelxp HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="OTHERS - অন্যান্য",Travelxp HD
+#EXTINF:-1  tvg-name="Travelxp HD" tvg-id="TravelxpHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="OTHERS - অন্যান্য",Travelxp HD
 https://mycdn.tamilultratv.com/live.m3u8?id=164
-
-#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="OTHERS - অন্যান্য",TLC HD
+#EXTINF:-1  tvg-name="TLC HD" tvg-id="TLCHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="OTHERS - অন্যান্য",TLC HD
 https://mycdn.tamilultratv.com/live.m3u8?id=479
-
-#EXTINF:-1 tvg-id="TravelxpHDHindi" tvg-name="Travelxp HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="OTHERS - অন্যান্য",Travelxp HD Hindi
+#EXTINF:-1  tvg-name="Travelxp HD Hindi" tvg-id="TravelxpHDHindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="OTHERS - অন্যান্য",Travelxp HD Hindi
 https://mycdn.tamilultratv.com/live.m3u8?id=562
-
-#EXTINF:-1 tvg-id="TLCHindi" tvg-name="TLC Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="OTHERS - অন্যান্য",TLC Hindi
+#EXTINF:-1  tvg-name="TLC Hindi" tvg-id="TLCHindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="OTHERS - অন্যান্য",TLC Hindi
 https://mycdn.tamilultratv.com/live.m3u8?id=571
-
-#EXTINF:-1 tvg-id="TLCEnglish" tvg-name="TLC English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_English.png" group-title="OTHERS - অন্যান্য",TLC English
+#EXTINF:-1  tvg-name="TLC English" tvg-id="TLCEnglish" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_English.png" group-title="OTHERS - অন্যান্য",TLC English
 https://mycdn.tamilultratv.com/live.m3u8?id=574
-
-#EXTINF:-1 tvg-id="FTVHD" tvg-name="FTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="OTHERS - অন্যান্য",FTV HD
-https://mycdn.tamilultratv.com/live.m3u8?id=1598
-
-#EXTINF:-1 tvg-id="Foodxp" tvg-name="Foodxp" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_XP.png" group-title="OTHERS - অন্যান্য",Foodxp
-https://mycdn.tamilultratv.com/live.m3u8?id=1955
-
-#EXTINF:-1 tvg-id="FOXBusinessNetwork" tvg-name="FOX Business Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="OTHERS - অন্যান্য",FOX Business Network
+#EXTINF:-1  tvg-name="FOX Business Network" tvg-id="FOXBusinessNetwork" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="OTHERS - অন্যান্য",FOX Business Network
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-
-#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",MSNBC
+#EXTINF:-1  tvg-name="MSNBC" tvg-id="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",MSNBC
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/143.m3u8
-
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="OTHERS - অন্যান্য",NBC
+#EXTINF:-1  tvg-name="NBC" tvg-id="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="OTHERS - অন্যান্য",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="NewsNation" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="OTHERS - অন্যান্য",NewsNation
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-
-#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",MSNBC
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/143.m3u8
-
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="OTHERS - অন্যান্য",NBC
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="NewsNation" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="OTHERS - অন্যান্য",NewsNation
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-
-#EXTINF:-1 tvg-id="WeatherChannel" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="OTHERS - অন্যান্য",Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="A&ENetwork" tvg-name="A&E Network" tvg-logo="http://watchindia.net/images/channels/usa/A&E.png" group-title="OTHERS - অন্যান্য",A&E Network
-http://watchindia.net:8880/live/82963/72037/2044.ts
-
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="http://watchindia.net/images/channels/usa/CNBC.png" group-title="OTHERS - অন্যান্য",CNBC
-http://watchindia.net:8880/live/82963/72037/2053.ts
-
-#EXTINF:-1 tvg-id="CNBCWorld" tvg-name="CNBC World" tvg-logo="http://watchindia.net/images/channels/usa/CNBC_World.png" group-title="OTHERS - অন্যান্য",CNBC World
-http://watchindia.net:8880/live/82963/72037/2326.ts
-
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="http://watchindia.net/images/channels/usa/Food_Network.png" group-title="OTHERS - অন্যান্য",Food Network
-http://watchindia.net:8880/live/82963/72037/2045.ts
-
-#EXTINF:-1 tvg-id="FoxBusiness" tvg-name="Fox Business" tvg-logo="http://watchindia.net/images/channels/usa/Fox_Business.png" group-title="OTHERS - অন্যান্য",Fox Business
-http://watchindia.net:8880/live/82963/72037/2201.ts
-
-#EXTINF:-1 tvg-id="GameShowNetwork" tvg-name="Game Show Network" tvg-logo="http://watchindia.net/images/channels/usa/Game_Show_Network.png" group-title="OTHERS - অন্যান্য",Game Show Network
-http://watchindia.net:8880/live/82963/72037/2298.ts
-
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://watchindia.net/images/channels/usa/History.png" group-title="OTHERS - অন্যান্য",History
-http://watchindia.net:8880/live/82963/72037/2038.ts
-
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="Investigation Discovery" tvg-logo="http://watchindia.net/images/channels/usa/Investigation_Discovery.png" group-title="OTHERS - অন্যান্য",Investigation Discovery
+#EXTINF:-1  tvg-name="Investigation Discovery" tvg-id="InvestigationDiscovery" tvg-logo="http://watchindia.net/images/channels/usa/Investigation_Discovery.png" group-title="OTHERS - অন্যান্য",Investigation Discovery
 http://watchindia.net:8880/live/82963/72037/2303.ts
-
-#EXTINF:-1 tvg-id="MotorTrend" tvg-name="MotorTrend" tvg-logo="http://watchindia.net/images/channels/usa/MotorTrend.png" group-title="OTHERS - অন্যান্য",MotorTrend
-http://watchindia.net:8880/live/82963/72037/2306.ts
-
-#EXTINF:-1 tvg-id="OutdoorChannel" tvg-name="Outdoor Channel" tvg-logo="http://watchindia.net/images/channels/usa/Outdoor_Channel.png" group-title="OTHERS - অন্যান্য",Outdoor Channel
-http://watchindia.net:8880/live/82963/72037/2119.ts
-
-#EXTINF:-1 tvg-id="TheWeatherChannel" tvg-name="The Weather Channel" tvg-logo="https://watchindia.net/images/channels/usa/The_Weather_Channel.png" group-title="OTHERS - অন্যান্য",The Weather Channel
-http://watchindia.net:8880/live/82963/72037/2042.ts
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://watchindia.net/images/channels/usa/TLC.png" group-title="OTHERS - অন্যান্য",TLC
-http://watchindia.net:8880/live/82963/72037/2139.ts
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://watchindia.net/images/channels/usa/TNT.png" group-title="OTHERS - অন্যান্য",TNT
-http://watchindia.net:8880/live/82963/72037/2051.ts
-
-#EXTINF:-1 tvg-id="TVLand" tvg-name="TV Land" tvg-logo="http://watchindia.net/images/channels/usa/TV_Land.png" group-title="OTHERS - অন্যান্য",TV Land
-http://watchindia.net:8880/live/82963/72037/2304.ts
-
-#EXTINF:-1 tvg-id="HistoryTV18HD" tvg-name="History TV18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="OTHERS - অন্যান্য",History TV18 HD
-http://watchindia.net:8880/live/82963/72037/791.ts
-
-#EXTINF:-1 tvg-id="TLCHindi" tvg-name="TLC Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/TLC.png" group-title="OTHERS - অন্যান্য",TLC Hindi
-http://watchindia.net:8880/live/82963/72037/840.ts
-
-#EXTINF:-1 tvg-id="TravelXPHD" tvg-name="TravelXP HD" tvg-logo="https://watchindia.net/images/channels/hindi/TravelXP_HD.png" group-title="OTHERS - অন্যান্য",TravelXP HD
-http://watchindia.net:8880/live/82963/72037/792.ts

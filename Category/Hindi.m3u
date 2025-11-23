@@ -9,14 +9,6 @@ http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Zee Cinema" tvg-id="ZeeCinema" tvg-logo="http://172.20.3.1/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="HINDI - হিন্দি",Zee Cinema
 http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="Nazara TV" tvg-id="NazaraTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj397sPciy_yxXOcVYRquylRRP5LGHi6dsWBDl62owljxOya56h47JxnbggJUXZtOuJTJ4HLg4r-2b4xuWfAyfwF9ojb3652D6RJRd8CpFB9rQutL38o13UuMtZPeWQFO2HbO91fXGWnIx3zXAY4Z1cTJTRNF5nlfeKunjAfCefcT7I7d-cZ-JnQQ-s/s300/nazara-tv-channnel-logo-dd-freedish-hindi-tv-channel.jpg" group-title="HINDI - হিন্দি",Nazara TV
-http://mega4k.one:8080/23004/23004/114926
-#EXTINF:-1  tvg-name="IN | SONY SAB SD" tvg-id="IN|SONYSABSD" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuULDj6quJvr2bFjpFct1eVKmmY7X4qd_VoAcaY3zN6rz.jpg" group-title="HINDI - হিন্দি",IN | SONY SAB SD
-http://mega4k.one:8080/23004/23004/131771
-#EXTINF:-1  tvg-name="Shemaroo TV" tvg-id="ShemarooTV" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/01/shmerootv.webp" group-title="HINDI - হিন্দি",Shemaroo TV
-http://mega4k.one:8080/23004/23004/122533
-#EXTINF:-1  tvg-name="Shemaroo Umang" tvg-id="ShemarooUmang" tvg-logo="https://mhdmax.com/wp-content/uploads/2022/06/umag.png" group-title="HINDI - হিন্দি",Shemaroo Umang
-http://mega4k.one:8080/23004/23004/122534
 #EXTINF:-1  tvg-name="Shemaroo Umang Plus" tvg-id="ShemarooUmangPlus" tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/images-11.webp" group-title="HINDI - হিন্দি",Shemaroo Umang Plus
 http://mega4k.one:8080/23004/23004/122535
 #EXTINF:-1  tvg-name="MTv HD" tvg-id="MTvHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="HINDI - হিন্দি",MTv HD
@@ -25,8 +17,6 @@ http://mega4k.one:8080/23004/23004/118194
 http://watchindia.net:8880/live/82963/72037/801.ts
 #EXTINF:-1  tvg-name="Sony TV HD (2)" tvg-id="SonyTVHD(2)" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="HINDI - হিন্দি",Sony TV HD (2)
 http://watchindia.net:8880/live/82963/72037/2141.ts
-#EXTINF:-1  tvg-name="Sony Sab HD" tvg-id="SonySabHD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="HINDI - হিন্দি",Sony Sab HD
-http://watchindia.net:8880/live/82963/72037/2323.ts
 #EXTINF:-1  tvg-name="Sony Pal" tvg-id="SonyPal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="HINDI - হিন্দি",Sony Pal
 http://watchindia.net:8880/live/82963/72037/812.ts
 #EXTINF:-1  tvg-name="Star Bharat HD" tvg-id="StarBharatHD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="HINDI - হিন্দি",Star Bharat HD
