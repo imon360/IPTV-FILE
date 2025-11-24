@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U Playlist Master Editor</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #1f2937; 
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #4b5563; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #6b7280; 
+        }
+
+        /* Table Input Styling to look like text until focused */
+        .table-input {
+            background: transparent;
+            border: 1px solid transparent;
+            color: inherit;
+            width: 100%;
+            padding: 2px 4px;
+            border-radius: 4px;
+            transition: all 0.2s;
+        }
+        .table-input:focus {
+            background: #374151;
+            border-color: #60a5fa;
+            outline: none;
+        }
+        .table-input:hover {
+            border-color: #4b5563;
+        }
+
+        /* Modal Overlay */
+        .modal-overlay {
+            background-color: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(2px);
+        }
+
+        /* Image Preview in Table */
+        .logo-preview {
+            width: 40px;
+            height: 40px;
+            object-fit: contain;
+            background: #374151;
+            border-radius: 4px;
+        }
+        
+        body {
+            background-color: #111827;
+            color: #e5e7eb;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+    </style>
+</head>
+<body class="h-screen flex flex-col overflow-hidden">
+
+    <!-- Navbar / Toolbar -->
+    <header class="bg-gray-800 border-b border-gray-700 p-4 flex flex-wrap gap-4 items-center justify-between shadow-lg z-10">
+        <div class="flex items-center gap-3">
+            <i class="fa-solid fa-list-ul text-blue-500 text-2xl"></i>
+            <h1 class="text-xl font-bold tracking-wide">M3U Editor</h1>
+        </div>
+
+        <div class="flex flex-wrap gap-2">
+            <!-- File Operations -->
+            <button onclick="createNewPlaylist()" class="px-4 py-2 bg-green-600 hover:bg-green-700 rounded text-sm font-semibold transition"><i class="fa-solid fa-plus mr-2"></i>New</button>
+            
+            <label class="px-4 py-2 bg-gray-700 hover:bg-gray-600 rounded text-sm font-semibold cursor-pointer transition">
+                <i class="fa-solid fa-folder-open mr-2"></i> Open File
+                <input type="file" id="fileInput" accept=".m3u,.m3u8" class="hidden" onchange="handleFileUpload(this)">
+            </label>
+
+            <button onclick="toggleLinkModal()" class="px-4 py-2 bg-gray-700 hover:bg-gray-600 rounded text-sm font-semibold transition"><i class="fa-solid fa-link mr-2"></i> Open URL</button>
+            
+            <div class="h-8 w-[1px] bg-gray-600 mx-2"></div>
+
+            <!-- Edit Operations -->
+            <button onclick="moveSelected('up')" class="px-3 py-2 bg-gray-700 hover:bg-blue-600 rounded text-sm transition" title="Move Up"><i class="fa-solid fa-arrow-up"></i></button>
+            <button onclick="moveSelected('down')" class="px-3 py-2 bg-gray-700 hover:bg-blue-600 rounded text-sm transition" title="Move Down"><i class="fa-solid fa-arrow-down"></i></button>
+            <button onclick="deleteSelected()" class="px-4 py-2 bg-red-900/50 hover:bg-red-700 text-red-200 rounded text-sm font-semibold transition"><i class="fa-solid fa-trash mr-2"></i> Delete Marked</button>
+            
+            <div class="h-8 w-[1px] bg-gray-600 mx-2"></div>
+
+            <!-- Save -->
+            <button onclick="downloadM3U()" class="px-6 py-2 bg-blue-600 hover:bg-blue-700 rounded text-sm font-bold shadow-lg transition"><i class="fa-solid fa-download mr-2"></i> Save M3U</button>
+        </div>
+        
+        <div class="text-xs text-gray-400 font-mono" id="stats">
+            0 Channels
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="flex-1 overflow-auto bg-gray-900 relative">
+        <table class="w-full text-left border-collapse text-sm">
+            <thead class="bg-gray-800 text-gray-400 sticky top-0 z-10 shadow-md">
+                <tr>
+                    <th class="p-3 w-10 text-center">
+                        <input type="checkbox" id="selectAll" onchange="toggleSelectAll()" class="rounded cursor-pointer">
+                    </th>
+                    <th class="p-3 w-16 text-center">Logo</th>
+                    <th class="p-3 w-20">No.</th>
+                    <th class="p-3 w-48">Name (Title)</th>
+                    <th class="p-3 w-32">TVG ID</th>
+                    <th class="p-3 w-32">TVG Name</th>
+                    <th class="p-3 w-40">Group</th>
+                    <th class="p-3 w-64">Logo Link</th>
+                    <th class="p-3">Stream URL</th>
+                    <th class="p-3 w-24 text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody id="playlistBody" class="divide-y divide-gray-800">
+                <!-- Rows generated by JS -->
+                <tr class="text-gray-500 text-center mt-10">
+                    <td colspan="10" class="py-20 text-lg">
+                        <div class="flex flex-col items-center justify-center opacity-50">
+                            <i class="fa-solid fa-file-arrow-up text-6xl mb-4"></i>
+                            <p>Drag & Drop an M3U file here, or use the buttons above.</p>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+
+    <!-- Modal: Link Upload -->
+    <div id="linkModal" class="hidden fixed inset-0 modal-overlay flex items-center justify-center z-50">
+        <div class="bg-gray-800 rounded-lg shadow-xl w-96 border border-gray-700 p-6">
+            <h3 class="text-lg font-bold mb-4">Load M3U from URL</h3>
+            <p class="text-xs text-yellow-500 mb-2"><i class="fa-solid fa-triangle-exclamation"></i> CORS policies may block some external links.</p>
+            <input type="text" id="urlInput" placeholder="https://example.com/playlist.m3u" class="w-full bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none mb-4">
+            <div class="flex justify-end gap-2">
+                <button onclick="toggleLinkModal()" class="px-4 py-2 text-gray-400 hover:text-white">Cancel</button>
+                <button onclick="loadFromUrl()" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded text-white">Load</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Edit Channel -->
+    <div id="editModal" class="hidden fixed inset-0 modal-overlay flex items-center justify-center z-50">
+        <div class="bg-gray-800 rounded-lg shadow-xl w-full max-w-lg border border-gray-700 flex flex-col max-h-[90vh]">
+            <div class="p-5 border-b border-gray-700 flex justify-between items-center">
+                <h3 class="text-lg font-bold">Edit Channel Details</h3>
+                <button onclick="closeEditModal()" class="text-gray-400 hover:text-white"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            
+            <div class="p-6 overflow-y-auto grid grid-cols-2 gap-4">
+                <div class="col-span-1">
+                    <label class="block text-xs text-gray-400 mb-1">Channel No (tvg-chno)</label>
+                    <input type="text" id="edit-chno" class="w-full bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none">
+                </div>
+                <div class="col-span-1">
+                    <label class="block text-xs text-gray-400 mb-1">Group Title</label>
+                    <input type="text" id="edit-group" class="w-full bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none">
+                </div>
+                <div class="col-span-2">
+                    <label class="block text-xs text-gray-400 mb-1">Display Name</label>
+                    <input type="text" id="edit-name" class="w-full bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none">
+                </div>
+                <div class="col-span-1">
+                    <label class="block text-xs text-gray-400 mb-1">TVG ID</label>
+                    <input type="text" id="edit-id" class="w-full bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none">
+                </div>
+                <div class="col-span-1">
+                    <label class="block text-xs text-gray-400 mb-1">TVG Name</label>
+                    <input type="text" id="edit-tvgname" class="w-full bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none">
+                </div>
+                <div class="col-span-2">
+                    <label class="block text-xs text-gray-400 mb-1">Logo URL</label>
+                    <div class="flex gap-2">
+                        <input type="text" id="edit-logo" oninput="updateModalPreview()" class="flex-1 bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none">
+                        <img id="edit-logo-preview" src="" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0YjU1NjMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIiByeT0iMiI+PC9yZWN0PjxjaXJjbGUgY3g9IjguNSIgY3k9IjguNSIgcj0iMS41Ij48L2NpcmNsZT48cG9seWxpbmUgcG9pbnRzPSIyMSAxNSAxNiAxMCA1IDIxIj48L3BvbHlsaW5lPjwvc3ZnPg=='" class="w-10 h-10 bg-gray-700 rounded object-contain">
+                    </div>
+                </div>
+                <div class="col-span-2">
+                    <label class="block text-xs text-gray-400 mb-1">Stream Link</label>
+                    <input type="text" id="edit-url" class="w-full bg-gray-900 border border-gray-600 rounded p-2 text-white focus:border-blue-500 outline-none font-mono text-xs">
+                </div>
+            </div>
+            
+            <div class="p-5 border-t border-gray-700 flex justify-end gap-2 bg-gray-850 rounded-b-lg">
+                <button onclick="closeEditModal()" class="px-4 py-2 text-gray-400 hover:text-white">Cancel</button>
+                <button onclick="saveEditModal()" class="px-6 py-2 bg-green-600 hover:bg-green-700 rounded text-white font-bold">Save Changes</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="fixed bottom-4 right-4 bg-gray-800 border-l-4 border-blue-500 text-white px-6 py-4 rounded shadow-2xl transform translate-y-20 transition-transform duration-300 z-50">
+        <p id="toastMsg" class="font-semibold">Notification</p>
+    </div>
+
+    <script>
+        // --- State Management ---
+        let playlist = [];
+        let currentEditId = null; // ID of the item currently being edited in modal
+
+        // --- Initialization ---
+        document.addEventListener('DOMContentLoaded', () => {
+            // Drop zone logic
+            const body = document.querySelector('body');
+            body.addEventListener('dragover', (e) => { e.preventDefault(); });
+            body.addEventListener('drop', (e) => {
+                e.preventDefault();
+                if (e.dataTransfer.files.length) {
+                    handleFileUpload({ files: e.dataTransfer.files });
+                }
+            });
+
+            // Keyboard Shortcuts
+            document.addEventListener('keydown', (e) => {
+                // Delete key triggers delete selected
+                if (e.key === 'Delete') {
+                    // Prevent deleting if typing in an input
+                    if (document.activeElement.tagName === 'INPUT') return;
+                    deleteSelected();
+                }
+            });
+        });
+
+        // --- Core Functions ---
+
+        function createNewPlaylist() {
+            if(playlist.length > 0 && !confirm("Discard current playlist?")) return;
+            playlist = [];
+            renderTable();
+            showToast("New playlist created", "green");
+        }
+
+        // Handle File Upload
+        function handleFileUpload(input) {
+            const file = input.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                parseM3U(e.target.result);
+                // Reset input to allow re-uploading same file
+                document.getElementById('fileInput').value = ''; 
+            };
+            reader.readAsText(file);
+        }
+
+        // Handle URL Load
+        function toggleLinkModal() {
+            document.getElementById('linkModal').classList.toggle('hidden');
+        }
+
+        async function loadFromUrl() {
+            const url = document.getElementById('urlInput').value.trim();
+            if(!url) return;
+
+            try {
+                showToast("Fetching playlist...", "blue");
+                const response = await fetch(url);
+                if (!response.ok) throw new Error("Failed to fetch");
+                const text = await response.text();
+                parseM3U(text);
+                toggleLinkModal();
+            } catch (error) {
+                alert("Error loading URL. This is likely a CORS issue. Try downloading the file manually and using the 'Open File' button instead.");
+                console.error(error);
+            }
+        }
+
+        // --- Parsing Logic ---
+        function parseM3U(content) {
+            const lines = content.split(/\r?\n/);
+            const newPlaylist = [];
+            let currentItem = {};
+            let isExtInf = false;
+
+            lines.forEach(line => {
+                line = line.trim();
+                if (!line) return;
+
+                if (line.startsWith('#EXTM3U')) return;
+
+                if (line.startsWith('#EXTINF:')) {
+                    // Reset current item
+                    currentItem = {
+                        id: Date.now() + Math.random().toString(36).substr(2, 9),
+                        selected: false,
+                        tvgChno: "",
+                        tvgId: "",
+                        tvgName: "",
+                        tvgLogo: "",
+                        groupTitle: "",
+                        name: "No Name",
+                        url: ""
+                    };
+
+                    // Extract attributes using Regex
+                    // Matches key="value"
+                    const attributes = line.match(/([a-zA-Z0-9-]+)="([^"]*)"/g);
+                    if (attributes) {
+                        attributes.forEach(attr => {
+                            const [key, val] = attr.split('=');
+                            const cleanVal = val.replace(/"/g, '');
+                            if (key === 'tvg-chno') currentItem.tvgChno = cleanVal;
+                            if (key === 'tvg-id') currentItem.tvgId = cleanVal;
+                            if (key === 'tvg-name') currentItem.tvgName = cleanVal;
+                            if (key === 'tvg-logo') currentItem.tvgLogo = cleanVal;
+                            if (key === 'group-title') currentItem.groupTitle = cleanVal;
+                        });
+                    }
+
+                    // Extract Channel Name (everything after the last comma)
+                    const nameParts = line.split(',');
+                    if (nameParts.length > 1) {
+                        currentItem.name = nameParts[nameParts.length - 1].trim();
+                    }
+                    
+                    isExtInf = true;
+                } else if (line.startsWith('#')) {
+                    // Ignore other directives for simplicity or store as metadata if needed
+                } else {
+                    // Assume it's a URL if it follows EXTINF
+                    if (isExtInf) {
+                        currentItem.url = line;
+                        newPlaylist.push(currentItem);
+                        isExtInf = false;
+                    }
+                }
+            });
+
+            if (newPlaylist.length === 0) {
+                alert("No valid channels found.");
+                return;
+            }
+
+            playlist = newPlaylist;
+            renderTable();
+            showToast(`Loaded ${playlist.length} channels`, "green");
+        }
+
+        // --- Rendering ---
+        function renderTable() {
+            const tbody = document.getElementById('playlistBody');
+            const stats = document.getElementById('stats');
+            tbody.innerHTML = '';
+            stats.innerText = `${playlist.length} Channels`;
+
+            if (playlist.length === 0) {
+                tbody.innerHTML = `
+                <tr class="text-gray-500 text-center">
+                    <td colspan="10" class="py-20 text-lg">
+                        <div class="flex flex-col items-center justify-center opacity-50">
+                            <i class="fa-solid fa-file-arrow-up text-6xl mb-4"></i>
+                            <p>List is empty.</p>
+                        </div>
+                    </td>
+                </tr>`;
+                return;
+            }
+
+            // Document Fragment for performance
+            const fragment = document.createDocumentFragment();
+
+            playlist.forEach((item, index) => {
+                const tr = document.createElement('tr');
+                tr.className = `hover:bg-gray-800 transition group ${item.selected ? 'bg-gray-800/80' : ''}`;
+                tr.dataset.id = item.id;
+
+                // Fallback image SVG
+                const fallbackImg = "this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0YjU1NjMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIiByeT0iMiI+PC9yZWN0PjxjaXJjbGUgY3g9IjguNSIgY3k9IjguNSIgcj0iMS41Ij48L2NpcmNsZT48cG9seWxpbmUgcG9pbnRzPSIyMSAxNSAxNiAxMCA1IDIxIj48L3BvbHlsaW5lPjwvc3ZnPg=='";
+
+                tr.innerHTML = `
+                    <td class="p-2 text-center">
+                        <input type="checkbox" ${item.selected ? 'checked' : ''} onchange="toggleItem('${item.id}')" class="cursor-pointer">
+                    </td>
+                    <td class="p-2 text-center">
+                        <img src="${item.tvgLogo}" onerror="${fallbackImg}" class="logo-preview mx-auto">
+                    </td>
+                    <td class="p-1"><input value="${escapeHtml(item.tvgChno)}" onchange="updateField('${item.id}', 'tvgChno', this.value)" class="table-input" placeholder="#"></td>
+                    <td class="p-1"><input value="${escapeHtml(item.name)}" onchange="updateField('${item.id}', 'name', this.value)" class="table-input font-semibold text-white" placeholder="Name"></td>
+                    <td class="p-1"><input value="${escapeHtml(item.tvgId)}" onchange="updateField('${item.id}', 'tvgId', this.value)" class="table-input" placeholder="ID"></td>
+                    <td class="p-1"><input value="${escapeHtml(item.tvgName)}" onchange="updateField('${item.id}', 'tvgName', this.value)" class="table-input" placeholder="TVG Name"></td>
+                    <td class="p-1"><input value="${escapeHtml(item.groupTitle)}" onchange="updateField('${item.id}', 'groupTitle', this.value)" class="table-input" placeholder="Group"></td>
+                    <td class="p-1"><input value="${escapeHtml(item.tvgLogo)}" onchange="updateField('${item.id}', 'tvgLogo', this.value)" class="table-input text-xs text-gray-400" placeholder="Logo URL"></td>
+                    <td class="p-1"><input value="${escapeHtml(item.url)}" onchange="updateField('${item.id}', 'url', this.value)" class="table-input text-xs font-mono text-blue-400" placeholder="http://..."></td>
+                    <td class="p-2 text-center whitespace-nowrap">
+                        <button onclick="openEditModal('${item.id}')" class="text-blue-400 hover:text-blue-300 mx-1 p-1"><i class="fa-solid fa-pen-to-square"></i></button>
+                        <button onclick="deleteSingle('${item.id}')" class="text-red-400 hover:text-red-300 mx-1 p-1"><i class="fa-solid fa-trash"></i></button>
+                    </td>
+                `;
+                fragment.appendChild(tr);
+            });
+
+            tbody.appendChild(fragment);
+            updateSelectAllCheckbox();
+        }
+
+        function escapeHtml(text) {
+            if (!text) return "";
+            return text
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // --- Editing ---
+
+        function updateField(id, field, value) {
+            const index = playlist.findIndex(i => i.id === id);
+            if (index !== -1) {
+                playlist[index][field] = value;
+                // If logo changed, refresh the image in that row specifically
+                if(field === 'tvgLogo') {
+                    // Simple re-render or find the img element. Re-render is safer for single source of truth.
+                    renderTable(); 
+                }
+            }
+        }
+
+        function openEditModal(id) {
+            const item = playlist.find(i => i.id === id);
+            if (!item) return;
+
+            currentEditId = id;
+            document.getElementById('edit-chno').value = item.tvgChno;
+            document.getElementById('edit-group').value = item.groupTitle;
+            document.getElementById('edit-name').value = item.name;
+            document.getElementById('edit-id').value = item.tvgId;
+            document.getElementById('edit-tvgname').value = item.tvgName;
+            document.getElementById('edit-logo').value = item.tvgLogo;
+            document.getElementById('edit-url').value = item.url;
+            
+            updateModalPreview();
+            document.getElementById('editModal').classList.remove('hidden');
+        }
+
+        function updateModalPreview() {
+            const url = document.getElementById('edit-logo').value;
+            document.getElementById('edit-logo-preview').src = url;
+        }
+
+        function closeEditModal() {
+            document.getElementById('editModal').classList.add('hidden');
+            currentEditId = null;
+        }
+
+        function saveEditModal() {
+            if (!currentEditId) return;
+            const index = playlist.findIndex(i => i.id === currentEditId);
+            if (index !== -1) {
+                playlist[index].tvgChno = document.getElementById('edit-chno').value;
+                playlist[index].groupTitle = document.getElementById('edit-group').value;
+                playlist[index].name = document.getElementById('edit-name').value;
+                playlist[index].tvgId = document.getElementById('edit-id').value;
+                playlist[index].tvgName = document.getElementById('edit-tvgname').value;
+                playlist[index].tvgLogo = document.getElementById('edit-logo').value;
+                playlist[index].url = document.getElementById('edit-url').value;
+            }
+            closeEditModal();
+            renderTable();
+            showToast("Channel updated", "green");
+        }
+
+        // --- Selection & Bulk Actions ---
+
+        function toggleItem(id) {
+            const item = playlist.find(i => i.id === id);
+            if (item) {
+                item.selected = !item.selected;
+                // Update UI class without full re-render for performance
+                const row = document.querySelector(`tr[data-id="${id}"]`);
+                if(item.selected) row.classList.add('bg-gray-800/80');
+                else row.classList.remove('bg-gray-800/80');
+                updateSelectAllCheckbox();
+            }
+        }
+
+        function toggleSelectAll() {
+            const master = document.getElementById('selectAll');
+            const isChecked = master.checked;
+            playlist.forEach(item => item.selected = isChecked);
+            renderTable();
+        }
+
+        function updateSelectAllCheckbox() {
+            const allSelected = playlist.length > 0 && playlist.every(i => i.selected);
+            document.getElementById('selectAll').checked = allSelected;
+        }
+
+        function deleteSingle(id) {
+            if(confirm("Delete this channel?")) {
+                playlist = playlist.filter(i => i.id !== id);
+                renderTable();
+            }
+        }
+
+        function deleteSelected() {
+            const count = playlist.filter(i => i.selected).length;
+            if (count === 0) return;
+            
+            if(confirm(`Delete ${count} selected channels?`)) {
+                playlist = playlist.filter(i => !i.selected);
+                renderTable();
+                showToast(`Deleted ${count} channels`, "red");
+            }
+        }
+
+        // Move Selected Items Up or Down
+        // This is complex because preserving relative order of multiple selected items is tricky.
+        // We will swap selected items with the neighbor in the direction.
+        function moveSelected(direction) {
+            // Create a copy to manipulate
+            let list = [...playlist];
+            let changed = false;
+
+            if (direction === 'up') {
+                for (let i = 1; i < list.length; i++) {
+                    if (list[i].selected && !list[i-1].selected) {
+                        // Swap
+                        [list[i], list[i-1]] = [list[i-1], list[i]];
+                        changed = true;
+                    }
+                }
+            } else {
+                for (let i = list.length - 2; i >= 0; i--) {
+                    if (list[i].selected && !list[i+1].selected) {
+                        // Swap
+                        [list[i], list[i+1]] = [list[i+1], list[i]];
+                        changed = true;
+                    }
+                }
+            }
+
+            if (changed) {
+                playlist = list;
+                renderTable();
+            }
+        }
+
+        // --- Export ---
+
+        function downloadM3U() {
+            if (playlist.length === 0) {
+                alert("Nothing to save!");
+                return;
+            }
+
+            let content = "#EXTM3U\n";
+            playlist.forEach(item => {
+                // REQUIRED SERIAL: tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title=""
+                // Note: -1 is standard for stream duration
+                content += `#EXTINF:-1 tvg-chno="${item.tvgChno}" tvg-id="${item.tvgId}" tvg-name="${item.tvgName}" tvg-logo="${item.tvgLogo}" group-title="${item.groupTitle}",${item.name}\n`;
+                content += `${item.url}\n`;
+            });
+
+            const blob = new Blob([content], { type: "text/plain" });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = "playlist_edited.m3u";
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            showToast("Playlist downloaded", "green");
+        }
+
+        // --- Utils ---
+        function showToast(msg, color = "blue") {
+            const toast = document.getElementById('toast');
+            const msgEl = document.getElementById('toastMsg');
+            
+            msgEl.innerText = msg;
+            toast.className = `fixed bottom-4 right-4 bg-gray-800 border-l-4 border-${color}-500 text-white px-6 py-4 rounded shadow-2xl transform translate-y-0 transition-transform duration-300 z-50`;
+            
+            setTimeout(() => {
+                toast.classList.add('translate-y-20');
+            }, 3000);
+        }
+
+    </script>
+</body>
+</html>
